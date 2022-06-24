@@ -1,0 +1,28 @@
+{
+  "name": "Potato Land Frogs #10",
+  "description": "Test frogs for Potato Land",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/10.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Float",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    }
+  ],
+  "dna": "a0060c27b896d28357317a2a692cf162120ccf00",
+  "edition": 10,
+  "external_url": "https://sunflower-land.com",
+  "date": 1656098237157,
+  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+}

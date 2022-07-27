@@ -1,28 +1,28 @@
 {
-  "name": "Potato Land Frogs #2",
-  "description": "Test frogs for Potato Land",
+  "name": "Sunflower Land Frog #2",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/2.png",
+  "dna": "dce0434165bfd27f8a520b2f42e76e3593b63cf4",
+  "edition": 2,
+  "date": 1658927725308,
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Water"
-    },
-    {
       "trait_type": "Float",
-      "value": "2 Color"
+      "value": "Orange"
     },
     {
       "trait_type": "Base",
-      "value": "Green"
+      "value": "Brown"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret"
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
     }
   ],
-  "dna": "0d71d6df0cd32527ecabe7d985ec3a8ff01255dd",
-  "edition": 2,
-  "external_url": "https://sunflower-land.com",
-  "date": 1656098237134,
-  "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  "compiler": "HashLips Art Engine",
+  "founders": "Toad_Sage: Tiffanydys, DonatasDee, VadimasVP, Paluras"
 }

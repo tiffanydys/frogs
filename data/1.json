@@ -21,8 +21,13 @@
     {
       "trait_type": "Background",
       "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Kibbles"
     }
   ],
+  "rarity": ["Common","Uncommon","Rare"],
   "compiler": "HashLips Art Engine",
   "founders": "Toad_Sage: Tiffanydys, DonatasDee, VadimasVP, Paluras"
 }

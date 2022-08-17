@@ -1,0 +1,40 @@
+{
+  "name": "Chip #100",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/100.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/100.png",
+  "dna": "d6b2807d5afe5007921a7b37b3fc006b97d32e5d",
+  "edition": 100,
+  "date": 1660735821548,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Lily Pad",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pharaoh",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Chip"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

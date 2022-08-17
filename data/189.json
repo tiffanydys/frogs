@@ -1,0 +1,40 @@
+{
+  "name": "Dallas #189",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/189.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/189.png",
+  "dna": "e556f60f56f3af4742dc20641606d6ec28d59364",
+  "edition": 189,
+  "date": 1660735821907,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Dark Red",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cone",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Dallas"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

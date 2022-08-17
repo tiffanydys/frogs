@@ -1,0 +1,40 @@
+{
+  "name": "Prissy #401",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/401.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/401.png",
+  "dna": "1d0d5d15e9d15459f35e3f5e54356e9f07ed5057",
+  "edition": 401,
+  "date": 1660735822704,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Grey",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beanie",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Prissy"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

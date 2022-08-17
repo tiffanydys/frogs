@@ -1,0 +1,40 @@
+{
+  "name": "Pinky #40",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/40.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/40.png",
+  "dna": "7d572d28ce5b6630bd86ba1abd909258179e8707",
+  "edition": 40,
+  "date": 1660735821225,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Rock",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Wool",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Pinky"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

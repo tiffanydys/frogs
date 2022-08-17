@@ -1,0 +1,40 @@
+{
+  "name": "Duchess #396",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/396.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/396.png",
+  "dna": "4e642f3e5576001fcb5fa69cd926e3d651a5b2fb",
+  "edition": 396,
+  "date": 1660735822685,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "5 Color",
+      "rarity": "Legendary"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Private",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Duchess"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

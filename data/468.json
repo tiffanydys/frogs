@@ -1,0 +1,40 @@
+{
+  "name": "Roman #468",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/468.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/468.png",
+  "dna": "34b4a8baf565bf37d1409554a028dd89830a071a",
+  "edition": 468,
+  "date": 1660735823003,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Lily Pad",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Wool",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Roman"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "May #30",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/30.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/30.png",
+  "dna": "5f8c8527c80f8b6eff5d94645540b5932931ff50",
+  "edition": 30,
+  "date": 1660735821144,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Log",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cone",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "May"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

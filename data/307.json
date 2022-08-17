@@ -1,0 +1,40 @@
+{
+  "name": "Callie #307",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/307.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/307.png",
+  "dna": "e16aa13fa7f06686fc1dbef1bc17e909aed3baad",
+  "edition": 307,
+  "date": 1660735822356,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Log",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Private",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Callie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Sheena #293",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/293.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/293.png",
+  "dna": "3c97ed79834f1a74972f7e89a160cde688bde5d9",
+  "edition": 293,
+  "date": 1660735822286,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Dark Red",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Cowboy",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Sheena"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

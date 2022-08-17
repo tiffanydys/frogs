@@ -1,0 +1,40 @@
+{
+  "name": "Kismet #205",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/205.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/205.png",
+  "dna": "422fea24d98d117614f4211d6f55f361be97f4f0",
+  "edition": 205,
+  "date": 1660735821961,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Green",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Goblin",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Kismet"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Captain #259",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/259.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/259.png",
+  "dna": "746b3f8dcd8eae3b562e0e7f4f70fa6b6e4d088d",
+  "edition": 259,
+  "date": 1660735822150,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "2 Color",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Wool",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Captain"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Jessie #310",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/310.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/310.png",
+  "dna": "51d9a35c48134752de5deb57fe332d3269e0ae35",
+  "edition": 310,
+  "date": 1660735822368,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Red",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Helmet",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Jessie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Dino #399",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/399.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/399.png",
+  "dna": "5517d6595aa46a630891f8a4d8a39668dc84cf85",
+  "edition": 399,
+  "date": 1660735822697,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beret",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Dino"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Chyna #29",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/29.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/29.png",
+  "dna": "d9aac1f6f8005d3431c7536d76c5770cd6e0aed4",
+  "edition": 29,
+  "date": 1660735821139,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Lily Pad",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Goblin",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Chyna"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

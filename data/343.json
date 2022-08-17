@@ -1,0 +1,40 @@
+{
+  "name": "Waddles #343",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/343.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/343.png",
+  "dna": "947ee704bd46319acbc469cd0843828e9f2f42b8",
+  "edition": 343,
+  "date": 1660735822494,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Log",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Gold Helmet",
+      "rarity": "Legendary"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Waddles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Reggie #202",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/202.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/202.png",
+  "dna": "4eb62cc0c3167adb29afc41b3e8cb78467c14a3d",
+  "edition": 202,
+  "date": 1660735821950,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Red",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Goblin",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Reggie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

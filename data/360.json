@@ -1,0 +1,40 @@
+{
+  "name": "Bubbles #360",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/360.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/360.png",
+  "dna": "7a2290c10cab3b8ced1bd77acd63c80df3ca68fc",
+  "edition": 360,
+  "date": 1660735822563,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Red",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fedora",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

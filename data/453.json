@@ -1,0 +1,40 @@
+{
+  "name": "Ruthie #453",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/453.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/453.png",
+  "dna": "efb7ab067f02b7ac691cf5eeba08e28fc072180f",
+  "edition": 453,
+  "date": 1660735822925,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Pink",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Ruthie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

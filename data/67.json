@@ -1,0 +1,40 @@
+{
+  "name": "Pickles #67",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/67.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/67.png",
+  "dna": "106a1855c5fb8b029bb77ab2fd85615ec96c670b",
+  "edition": 67,
+  "date": 1660735821417,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Log",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate",
+      "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Pickles"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

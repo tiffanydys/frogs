@@ -1,0 +1,40 @@
+{
+  "name": "Frankie #318",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/318.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/318.png",
+  "dna": "2077fc89e4cc8500ec2240a49e718c5a21be89ec",
+  "edition": 318,
+  "date": 1660735822399,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Lily Pad",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Rainbow",
+      "rarity": "Legendary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headset White",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Frankie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

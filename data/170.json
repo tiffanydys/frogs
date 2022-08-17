@@ -1,0 +1,40 @@
+{
+  "name": "Bobo #170",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/170.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/170.png",
+  "dna": "bdd8a2d405eb00b510ea050755810d0b3a63c00c",
+  "edition": 170,
+  "date": 1660735821846,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Rock",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chicken",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Bobo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

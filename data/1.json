@@ -1,22 +1,26 @@
 {
-  "name": "Sunflower Land Frog #1",
+  "name": "Lizzy #1",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/1.png",
-  "dna": "c953cc79034fefe1e0721190606d9b624d058aa9",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/1.png",
+  "dna": "16eaa6a3b71b1b62b2378d44669b39b43b42f0b1",
   "edition": 1,
-  "date": 1658927725301,
+  "date": 1660735820987,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cowboy"
+      "value": "Pirate",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -24,10 +28,13 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kibbles"
+      "value": "Lizzy"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
     }
   ],
-  "rarity": ["Common","Uncommon","Rare"],
   "compiler": "HashLips Art Engine",
-  "founders": "Toad_Sage: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
 }

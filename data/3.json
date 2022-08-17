@@ -1,22 +1,26 @@
 {
-  "name": "Sunflower Land Frog #3",
+  "name": "Frisco #3",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/3.png",
-  "dna": "84bf08709d71338e266d17f671744e755be52465",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/3.png",
+  "dna": "2d7f3fae0e63ec1a74d920a733cba5303037ea3d",
   "edition": 3,
-  "date": 1658927725310,
+  "date": 1660735821003,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -24,9 +28,13 @@
     },
     {
       "trait_type": "Name",
-      "value": "Troy"
+      "value": "Frisco"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",
-  "founders": "Toad_Sage: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
 }

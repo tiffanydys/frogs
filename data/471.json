@@ -1,0 +1,40 @@
+{
+  "name": "Kasey #471",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/471.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/471.png",
+  "dna": "8a825b109b2b00e68cf2e7d17eda2aad3a278f95",
+  "edition": 471,
+  "date": 1660735823016,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "2 Color",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chicken",
+      "rarity": "Rare"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Kasey"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

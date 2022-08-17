@@ -1,22 +1,26 @@
 {
-  "name": "Sunflower Land Frog #7",
+  "name": "Hobbes #7",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/7.png",
-  "dna": "b78b8daf27ce3d3866a86e87308f9655c4aa0f87",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/7.png",
+  "dna": "718ce0c80f46230ba78c30756c26b9de20b52ae8",
   "edition": 7,
-  "date": 1658927725320,
+  "date": 1660735821019,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -24,9 +28,13 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cozmo"
+      "value": "Hobbes"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",
-  "founders": "Toad_Sage: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
 }

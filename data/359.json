@@ -1,0 +1,40 @@
+{
+  "name": "Roscoe #359",
+  "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/359.png",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/359.png",
+  "dna": "4dc457afc577aaf39e054087bcdc3db2b51a6d21",
+  "edition": 359,
+  "date": 1660735822559,
+  "attributes": [
+    {
+      "trait_type": "Float",
+      "value": "Rock",
+      "rarity": "Common"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Rainbow",
+      "rarity": "Legendary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Halo",
+      "rarity": "Legendary"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Name",
+      "value": "Roscoe"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "compiler": "HashLips Art Engine",
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

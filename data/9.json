@@ -1,22 +1,26 @@
 {
-  "name": "Sunflower Land Frog #9",
+  "name": "Furball #9",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/9.png",
-  "dna": "087d5fee4f0e6f1805198e1645748f59a69b0616",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/9.png",
+  "dna": "9c6c29792037f19512e71e1a09d43cdb58f18e92",
   "edition": 9,
-  "date": 1658927725325,
+  "date": 1660735821027,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -24,9 +28,13 @@
     },
     {
       "trait_type": "Name",
-      "value": "Zoie"
+      "value": "Furball"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",
-  "founders": "Toad_Sage: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
 }

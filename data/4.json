@@ -1,22 +1,26 @@
 {
-  "name": "Sunflower Land Frog #4",
+  "name": "Jake #4",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/4.png",
-  "dna": "4042c19f008dc065b27877e8ceaf3aa7e95a2e3b",
+  "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/4.png",
+  "dna": "334b1f469c9cdc3d79e26a6f6416b3ab09a82bce",
   "edition": 4,
-  "date": 1658927725313,
+  "date": 1660735821007,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard"
+      "value": "Sunflower",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -24,9 +28,13 @@
     },
     {
       "trait_type": "Name",
-      "value": "Eddy"
+      "value": "Jake"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",
-  "founders": "Toad_Sage: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
 }

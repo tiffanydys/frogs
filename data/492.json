@@ -1,26 +1,26 @@
 {
-  "name": "Suzy #492",
+  "name": "Paddy #492",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/492.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/492.png",
-  "dna": "c8548bdb97422e36c069cf1f9877cb204981ebd0",
+  "dna": "9045ea5eeb64b6f7eb7999a271c9ced52020b072",
   "edition": 492,
-  "date": 1660735823103,
+  "date": 1663609840063,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Sheriff",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Suzy"
+      "value": "Paddy"
     },
     {
       "trait_type": "Rarity",

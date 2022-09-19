@@ -1,26 +1,26 @@
 {
-  "name": "Baby #284",
+  "name": "Alpha #284",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/284.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/284.png",
-  "dna": "37e1879dc44abd4f6e75724b1752dd26c8a33c73",
+  "dna": "7a55b7c4ffc22bbd8d6629d35edac3d72e73571d",
   "edition": 284,
-  "date": 1660735822248,
+  "date": 1663609839306,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Straw Hat",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Baby"
+      "value": "Alpha"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

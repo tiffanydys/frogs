@@ -3,13 +3,13 @@
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/239.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/239.png",
-  "dna": "caa3f8ab96b7bc7f1feed58b602728e3f5c61318",
+  "dna": "c668c5359750665933e7928ed1ec99fe4c47fbc3",
   "edition": 239,
-  "date": 1660735822083,
+  "date": 1663609839140,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
-      "rarity": "Uncommon"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

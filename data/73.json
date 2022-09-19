@@ -1,26 +1,26 @@
 {
-  "name": "Jackpot #73",
+  "name": "Ivory #73",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/73.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/73.png",
-  "dna": "f696b30b6168e1351e95ce40ed927ce94b92535b",
+  "dna": "339a82eb9ccd76ae33511e88b1dd1c1a2efa5244",
   "edition": 73,
-  "date": 1660735821447,
+  "date": 1663609838531,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Captain",
-      "rarity": "Rare"
+      "value": "Viking",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jackpot"
+      "value": "Ivory"
     },
     {
       "trait_type": "Rarity",

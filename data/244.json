@@ -1,16 +1,16 @@
 {
-  "name": "Skyler #244",
+  "name": "Laney #244",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/244.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/244.png",
-  "dna": "25075ff32403ba053d24c3faab6dfd7d873bce8d",
+  "dna": "a55688722d3f34c50ddb0adf974779b20b0a025c",
   "edition": 244,
-  "date": 1660735822099,
+  "date": 1663609839159,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Viking",
-      "rarity": "Uncommon"
+      "value": "Goblin",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Skyler"
+      "value": "Laney"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

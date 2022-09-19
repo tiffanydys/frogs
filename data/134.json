@@ -1,26 +1,26 @@
 {
-  "name": "Pockets #134",
+  "name": "Pretty #134",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/134.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/134.png",
-  "dna": "2dfc873376a6113faef6fc754d21373f6c28d752",
+  "dna": "fbe7cc21fde11dae2e004a50a30e4fa92c7fa4a4",
   "edition": 134,
-  "date": 1660735821676,
+  "date": 1663609838762,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Log",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pockets"
+      "value": "Pretty"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

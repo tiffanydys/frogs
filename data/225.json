@@ -1,26 +1,26 @@
 {
-  "name": "Rex #225",
+  "name": "Montana #225",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/225.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/225.png",
-  "dna": "1c03e962d46646f26bf018f2d9a1037d0dfd4225",
+  "dna": "e8cf073ef5059f2f816e1ab70180fbf8fe2e75f1",
   "edition": 225,
-  "date": 1660735822037,
+  "date": 1663609839080,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Straw Hat",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Rex"
+      "value": "Montana"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

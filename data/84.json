@@ -1,16 +1,16 @@
 {
-  "name": "Pooky #84",
+  "name": "Danny #84",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/84.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/84.png",
-  "dna": "173ddde2f68e081b409cc33d41b7f7641af2f923",
+  "dna": "140fefe16ba1ba67c4b1c921aba8823d1df4dd3c",
   "edition": 84,
-  "date": 1660735821492,
+  "date": 1663609838569,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Sombrero",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pooky"
+      "value": "Danny"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,21 +1,21 @@
 {
-  "name": "Mckenzie #432",
+  "name": "Laddie #432",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/432.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/432.png",
-  "dna": "660f9e96abe262937b02fa9d8d5626c300a851e9",
+  "dna": "7b27f8cec94227ad9dd1e6a27db7377d3482540f",
   "edition": 432,
-  "date": 1660735822816,
+  "date": 1663609839851,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mckenzie"
+      "value": "Laddie"
     },
     {
       "trait_type": "Rarity",

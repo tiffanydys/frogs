@@ -1,26 +1,26 @@
 {
-  "name": "Montana #498",
+  "name": "Brooke #498",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/498.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/498.png",
-  "dna": "2b69fcfac7ad7e4cc906c4ad1620029364640bba",
+  "dna": "dcbad18cd3ec217acd627f7e9a52369a4e95247e",
   "edition": 498,
-  "date": 1660735823130,
+  "date": 1663609840087,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Montana"
+      "value": "Brooke"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

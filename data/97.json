@@ -1,26 +1,26 @@
 {
-  "name": "Bogey #97",
+  "name": "Maverick #97",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/97.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/97.png",
-  "dna": "3844ccbd7ed3bc79a12f26c17676e135bd422a03",
+  "dna": "23649ecdfb50b5f172f45b0093e46373f853158a",
   "edition": 97,
-  "date": 1660735821537,
+  "date": 1663609838619,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
-      "rarity": "Uncommon"
+      "value": "Beaver",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bogey"
+      "value": "Maverick"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

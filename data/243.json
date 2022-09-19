@@ -1,26 +1,26 @@
 {
-  "name": "Prancer #243",
+  "name": "Newt #243",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/243.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/243.png",
-  "dna": "ba354a1f68fff314b8d4b44ffc32d5fc8b328c71",
+  "dna": "5a2fa724b2d4a88c3a34b6e7a216422c4b1d053a",
   "edition": 243,
-  "date": 1660735822095,
+  "date": 1663609839155,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "Fedora",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Prancer"
+      "value": "Newt"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

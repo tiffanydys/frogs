@@ -1,25 +1,25 @@
 {
-  "name": "Jethro #265",
+  "name": "Toni #265",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/265.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/265.png",
-  "dna": "a1fd5d55d0ada69002f89f782a81f7665df72e0c",
+  "dna": "8fbbc1fe755ee49058dc9e1a4cb5a0f21748c0a5",
   "edition": 265,
-  "date": 1660735822172,
+  "date": 1663609839234,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Brown",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Goblin",
+      "value": "Headset White",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jethro"
+      "value": "Toni"
     },
     {
       "trait_type": "Rarity",

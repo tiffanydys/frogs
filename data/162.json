@@ -1,26 +1,26 @@
 {
-  "name": "Hercules #162",
+  "name": "Bingo #162",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/162.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/162.png",
-  "dna": "496a2bc4d5fabf519db7171bc5eae864b173c6ef",
+  "dna": "083b75adf6943e7cb48557e63c3bb9b4cc0400d5",
   "edition": 162,
-  "date": 1660735821783,
+  "date": 1663609838856,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Hercules"
+      "value": "Bingo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

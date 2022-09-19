@@ -1,25 +1,25 @@
 {
-  "name": "Patches #374",
+  "name": "Zeus #374",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/374.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/374.png",
-  "dna": "905f6d6134bc1bfd2e4be37f386c56d85a936126",
+  "dna": "5c4afbdaf3541d2dbb61d3ec760ffc0d620d3489",
   "edition": 374,
-  "date": 1660735822612,
+  "date": 1663609839622,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Patches"
+      "value": "Zeus"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

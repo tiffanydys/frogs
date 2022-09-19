@@ -1,26 +1,26 @@
 {
-  "name": "Jellybean #46",
+  "name": "Daisy #46",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/46.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/46.png",
-  "dna": "10958b8c09a776253feff2e5d49e97737e3e9491",
+  "dna": "40bdde8cf6b9fba836b78b3155632d195aa20fbf",
   "edition": 46,
-  "date": 1660735821284,
+  "date": 1663609838423,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Private",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jellybean"
+      "value": "Daisy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Edsel #314",
+  "name": "Bobo #314",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/314.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/314.png",
-  "dna": "f8827f827fec769e0e49609ecee170ce52e976ea",
+  "dna": "bb58fe18a97abbb49fa3952f38229478e382e2d1",
   "edition": 314,
-  "date": 1660735822383,
+  "date": 1663609839413,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Sombrero",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Edsel"
+      "value": "Bobo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Kona #216",
+  "name": "Chaz #216",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/216.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/216.png",
-  "dna": "073aa0cb76dc511b4737a9852b705c86620170fa",
+  "dna": "eb5e85b208597475f6b90e00696755e0328e5c47",
   "edition": 216,
-  "date": 1660735822004,
+  "date": 1663609839049,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset Black",
+      "value": "Sunflower",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kona"
+      "value": "Chaz"
     },
     {
       "trait_type": "Rarity",

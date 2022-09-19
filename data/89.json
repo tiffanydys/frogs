@@ -1,26 +1,26 @@
 {
-  "name": "Cherokee #89",
+  "name": "Cole #89",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/89.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/89.png",
-  "dna": "3f0e2d969ef096e9b92eb3160516820c144fc3ac",
+  "dna": "5a76a5e17a3369a3b561c3b392bd81b26168a2ff",
   "edition": 89,
-  "date": 1660735821510,
+  "date": 1663609838588,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
-      "rarity": "Uncommon"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cherokee"
+      "value": "Cole"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

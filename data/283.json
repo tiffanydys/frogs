@@ -1,25 +1,25 @@
 {
-  "name": "Barnaby #283",
+  "name": "Gretel #283",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/283.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/283.png",
-  "dna": "870fb43b0d4d641ffaca0575d56a6d1c3d1dd07b",
+  "dna": "93c77579e39eac3a7d02920054ca11f1b37d04ce",
   "edition": 283,
-  "date": 1660735822245,
+  "date": 1663609839303,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Barnaby"
+      "value": "Gretel"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

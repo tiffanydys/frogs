@@ -1,16 +1,16 @@
 {
-  "name": "Isabella #355",
+  "name": "Wesley #355",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/355.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/355.png",
-  "dna": "758b0d791e6013b7c248947c0c62fec7689fb792",
+  "dna": "107abc0e5964ab3bd2a5e4319c54391e738b3e00",
   "edition": 355,
-  "date": 1660735822544,
+  "date": 1663609839554,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
-      "rarity": "Uncommon"
+      "value": "Headset White",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Isabella"
+      "value": "Wesley"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

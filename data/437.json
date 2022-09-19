@@ -1,11 +1,11 @@
 {
-  "name": "Dodger #437",
+  "name": "Babbles #437",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/437.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/437.png",
-  "dna": "c46d41cda68b53a68ada263934d579c72f9336ac",
+  "dna": "8b9b7f1bbd9d10d9b03503984e89e355ccb87ac1",
   "edition": 437,
-  "date": 1660735822837,
+  "date": 1663609839869,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,8 +14,8 @@
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dodger"
+      "value": "Babbles"
     },
     {
       "trait_type": "Rarity",

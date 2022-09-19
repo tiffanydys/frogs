@@ -1,26 +1,26 @@
 {
-  "name": "Spencer #195",
+  "name": "Velvet #195",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/195.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/195.png",
-  "dna": "f84084a624cc9fbcd0e6864067fdabd3509c20e8",
+  "dna": "08dbfbe2b0f14d57c181501530716a914c8713c1",
   "edition": 195,
-  "date": 1660735821926,
+  "date": 1663609838975,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard",
-      "rarity": "Rare"
+      "value": "Red Wool",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Spencer"
+      "value": "Velvet"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

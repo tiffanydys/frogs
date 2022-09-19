@@ -1,25 +1,25 @@
 {
-  "name": "Wayne #407",
+  "name": "Bojack #407",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/407.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/407.png",
-  "dna": "f5b836bdc576b41605fca3a69af725904f7f5f5d",
+  "dna": "fa11ca1e2319a58729aeb47dd99470689ae12b01",
   "edition": 407,
-  "date": 1660735822726,
+  "date": 1663609839745,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Viking",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Wayne"
+      "value": "Bojack"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

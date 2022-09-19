@@ -1,15 +1,15 @@
 {
-  "name": "Oliver #171",
+  "name": "Tangles #171",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/171.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/171.png",
-  "dna": "6127b85874023259d263f00866a24f9d9cbddb0c",
+  "dna": "d01df7d73a1267ccce47ca9324cd133e49470a9b",
   "edition": 171,
-  "date": 1660735821851,
+  "date": 1663609838887,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Oliver"
+      "value": "Tangles"
     },
     {
       "trait_type": "Rarity",

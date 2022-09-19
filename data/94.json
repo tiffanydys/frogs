@@ -1,25 +1,25 @@
 {
-  "name": "Dee Dee #94",
+  "name": "Scottie #94",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/94.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/94.png",
-  "dna": "d056924ae32d58a3771061f026d0106e3aee61ef",
+  "dna": "2da36edbe8f62dd484d9954da0e31bf5b0a23bc9",
   "edition": 94,
-  "date": 1660735821528,
+  "date": 1663609838606,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Beanie",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dee Dee"
+      "value": "Scottie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

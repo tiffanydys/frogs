@@ -1,16 +1,16 @@
 {
-  "name": "Freddie #400",
+  "name": "Kerry #400",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/400.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/400.png",
-  "dna": "3f4e74b61d45335a2886bab5e04bab568a51de62",
+  "dna": "6f503a0f34d3e2b7e429381142e4b24b79014796",
   "edition": 400,
-  "date": 1660735822700,
+  "date": 1663609839716,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
+      "value": "Cowboy",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Freddie"
+      "value": "Kerry"
     },
     {
       "trait_type": "Rarity",

@@ -1,26 +1,26 @@
 {
-  "name": "Earl #250",
+  "name": "Jerry #250",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/250.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/250.png",
-  "dna": "fc031a49e4e54be47fb8a4c242d8c725a4250849",
+  "dna": "cc46f670000127f8cc14abe9c34160080cfe4536",
   "edition": 250,
-  "date": 1660735822120,
+  "date": 1663609839181,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Beret",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Earl"
+      "value": "Jerry"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

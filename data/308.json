@@ -1,26 +1,26 @@
 {
-  "name": "Tramp #308",
+  "name": "Gretta #308",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/308.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/308.png",
-  "dna": "1dc579b5602637a91c418d5ac3f0190371e031f2",
+  "dna": "cc4ce9e92e17c9f0975e6e58d4cfad5c78b563df",
   "edition": 308,
-  "date": 1660735822360,
+  "date": 1663609839391,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
       "value": "Orange",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tramp"
+      "value": "Gretta"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Tommy #325",
+  "name": "Starr #325",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/325.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/325.png",
-  "dna": "0c29cbce9151e9f350962bf5ee3eadafc8407e6e",
+  "dna": "2e01aad92d1ca84bfc55b01023200f14333e8b86",
   "edition": 325,
-  "date": 1660735822424,
+  "date": 1663609839455,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tommy"
+      "value": "Starr"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

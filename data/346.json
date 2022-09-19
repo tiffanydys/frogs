@@ -1,25 +1,25 @@
 {
-  "name": "Spot #346",
+  "name": "Gamakimchi #346",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/346.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/346.png",
-  "dna": "c4a3823b866d999355c2872b5dd00112d7451868",
+  "dna": "70f5d840f6ee678aa7c51f6ce87ce960b520dce5",
   "edition": 346,
-  "date": 1660735822508,
+  "date": 1663609839524,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
+      "value": "Cone",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Spot"
+      "value": "Gamakimchi"
     },
     {
       "trait_type": "Rarity",

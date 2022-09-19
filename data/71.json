@@ -1,25 +1,25 @@
 {
-  "name": "China #71",
+  "name": "Oreo #71",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/71.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/71.png",
-  "dna": "27bd89424e133dcd903816a9a238721d04abd769",
+  "dna": "17bb716669445cc9252272861a835c9d4b7f0e15",
   "edition": 71,
-  "date": 1660735821438,
+  "date": 1663609838524,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
+      "value": "Private",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "China"
+      "value": "Oreo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

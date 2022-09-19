@@ -1,15 +1,15 @@
 {
-  "name": "Millie #230",
+  "name": "Billy #230",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/230.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/230.png",
-  "dna": "79ee1e3a7a110bc903c3869747a2a12bbe53dcee",
+  "dna": "07dade825ce9dec6d8230d3a21716824e145bb7a",
   "edition": 230,
-  "date": 1660735822053,
+  "date": 1663609839099,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Millie"
+      "value": "Billy"
     },
     {
       "trait_type": "Rarity",

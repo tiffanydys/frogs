@@ -1,26 +1,26 @@
 {
-  "name": "Barclay #438",
+  "name": "Oliver #438",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/438.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/438.png",
-  "dna": "3a5e9d9a302c6c3538beb3f1199a8799bb525a3f",
+  "dna": "e06979a7933b4e716b1034429614ba7c2d6849d1",
   "edition": 438,
-  "date": 1660735822842,
+  "date": 1663609839873,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
-      "rarity": "Uncommon"
+      "value": "Halo",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Barclay"
+      "value": "Oliver"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

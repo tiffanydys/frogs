@@ -1,16 +1,16 @@
 {
-  "name": "Lexi #117",
+  "name": "Whale #117",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/117.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/117.png",
-  "dna": "2ffa6fa988fc205f648488b8b12206206a8026d9",
+  "dna": "3edd694f88ddf85418ff1655bb9853a9f7c06cdf",
   "edition": 117,
-  "date": 1660735821609,
+  "date": 1663609838695,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Commander",
-      "rarity": "Rare"
+      "value": "Builder",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Lexi"
+      "value": "Whale"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

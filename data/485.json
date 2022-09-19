@@ -1,26 +1,26 @@
 {
-  "name": "Trinity #485",
+  "name": "Dino #485",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/485.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/485.png",
-  "dna": "f588823ce241370c3e7a1f59b24052df4804f02d",
+  "dna": "c7ca4c0e07ec43b9f0e7199ed9a03b99914087c3",
   "edition": 485,
-  "date": 1660735823074,
+  "date": 1663609840041,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Commander",
-      "rarity": "Rare"
+      "value": "Viking",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Trinity"
+      "value": "Dino"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

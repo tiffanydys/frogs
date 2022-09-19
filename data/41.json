@@ -1,26 +1,26 @@
 {
-  "name": "Birdy #41",
+  "name": "Ralph #41",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/41.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/41.png",
-  "dna": "6190659e92336fd7d2dd6a718a60afce7e833120",
+  "dna": "f7b8834c01cb367404cc27608f67263fa7b7274d",
   "edition": 41,
-  "date": 1660735821232,
+  "date": 1663609838405,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Chef100",
-      "rarity": ""
+      "value": "Cowboy",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Birdy"
+      "value": "Ralph"
     },
     {
       "trait_type": "Rarity",

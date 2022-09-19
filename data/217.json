@@ -1,21 +1,21 @@
 {
-  "name": "Libby #217",
+  "name": "Presley #217",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/217.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/217.png",
-  "dna": "22b33a73d716cca958e8d7f39d7693e1543c687e",
+  "dna": "80d0b4adb572a588e082b6eacacd1ebab7579021",
   "edition": 217,
-  "date": 1660735822007,
+  "date": 1663609839053,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Libby"
+      "value": "Presley"
     },
     {
       "trait_type": "Rarity",

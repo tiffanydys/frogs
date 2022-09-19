@@ -1,15 +1,15 @@
 {
-  "name": "Ernie #211",
+  "name": "Addie #211",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/211.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/211.png",
-  "dna": "7df23d590fed0030476b230ffbdbd96013c7b404",
+  "dna": "9b03c3391fe9aca3d2f7460410f3233df48719b2",
   "edition": 211,
-  "date": 1660735821984,
+  "date": 1663609839033,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ernie"
+      "value": "Addie"
     },
     {
       "trait_type": "Rarity",

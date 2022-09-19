@@ -1,11 +1,11 @@
 {
-  "name": "Aggie #394",
+  "name": "Maddy #394",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/394.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/394.png",
-  "dna": "f5e496808b291ea769f246b9678e8ca90579a1a2",
+  "dna": "b4c9a6b08aa122b53c07e2aed685d92376fb5678",
   "edition": 394,
-  "date": 1660735822676,
+  "date": 1663609839692,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Aggie"
+      "value": "Maddy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

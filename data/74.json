@@ -1,26 +1,26 @@
 {
-  "name": "Macy #74",
+  "name": "Max #74",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/74.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/74.png",
-  "dna": "782581cac2c130e6ac4252cd9b0db98522beb4eb",
+  "dna": "9af52efd2e44d63a61b7d432aae4b0a223168ba4",
   "edition": 74,
-  "date": 1660735821451,
+  "date": 1663609838534,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Macy"
+      "value": "Max"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

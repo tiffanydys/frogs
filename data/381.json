@@ -1,25 +1,25 @@
 {
-  "name": "Scrappy #381",
+  "name": "Ladybug #381",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/381.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/381.png",
-  "dna": "a11276727918533178768b95ca914a41bd48135c",
+  "dna": "0b83a4338d67ad134352cdc4f4299fcf855b727c",
   "edition": 381,
-  "date": 1660735822633,
+  "date": 1663609839646,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Fez",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Scrappy"
+      "value": "Ladybug"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Wizard #451",
+  "name": "Dodger #451",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/451.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/451.png",
-  "dna": "fe255b916fdfdecfeb94f0f105dd002e1367c21d",
+  "dna": "04253a8e89b3ab3953d7a65f354fbb744c6e4ae4",
   "edition": 451,
-  "date": 1660735822914,
+  "date": 1663609839917,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Chef",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Wizard"
+      "value": "Dodger"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

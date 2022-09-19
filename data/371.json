@@ -1,25 +1,25 @@
 {
-  "name": "Miko #371",
+  "name": "celebration #371",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/371.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/371.png",
-  "dna": "864178ebdae00ec56e7489fa6c5b06f174dbeca6",
+  "dna": "903f0daee53ef77915bf4715ac8f406b6ad37959",
   "edition": 371,
-  "date": 1660735822603,
+  "date": 1663609839611,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
+      "value": "Goblin",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Miko"
+      "value": "celebration"
     },
     {
       "trait_type": "Rarity",

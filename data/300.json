@@ -1,16 +1,16 @@
 {
-  "name": "Hammer #300",
+  "name": "Bulbi #300",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/300.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/300.png",
-  "dna": "f9f76db003a33e7ec91cb28fec18d0527f373a60",
+  "dna": "45eceb242b3d36f489e0fcc38ed36bb6b0d38b6b",
   "edition": 300,
-  "date": 1660735822329,
+  "date": 1663609839363,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Watermelon",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Turban",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Hammer"
+      "value": "Bulbi"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

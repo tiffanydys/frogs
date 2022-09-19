@@ -1,25 +1,25 @@
 {
-  "name": "Dallas #189",
+  "name": "Bridgette #189",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/189.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/189.png",
-  "dna": "e556f60f56f3af4742dc20641606d6ec28d59364",
+  "dna": "e0248b2e31d60b0479a3f51af092326a03f8d825",
   "edition": 189,
-  "date": 1660735821907,
+  "date": 1663609838952,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Cone",
+      "value": "Sunflower",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dallas"
+      "value": "Bridgette"
     },
     {
       "trait_type": "Rarity",

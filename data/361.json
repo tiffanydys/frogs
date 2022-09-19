@@ -1,25 +1,25 @@
 {
-  "name": "Mittens #361",
+  "name": "Whitie #361",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/361.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/361.png",
-  "dna": "5842baed9f3ba479ded7152ba9213163c755eb18",
+  "dna": "a4e8ca0c0a07bb9a72a5096a58cacad174494a0a",
   "edition": 361,
-  "date": 1660735822566,
+  "date": 1663609839574,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
+      "value": "Fez",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mittens"
+      "value": "Whitie"
     },
     {
       "trait_type": "Rarity",

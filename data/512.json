@@ -1,15 +1,15 @@
 {
-  "name": "Newton #512",
+  "name": "Ruchus #512",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/512.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/512.png",
-  "dna": "0784a7856273ab36656e84d6bfda70e64a792186",
+  "dna": "8d7951d4cce86994e4b29f31348bfa196a7d3c23",
   "edition": 512,
-  "date": 1660735823191,
+  "date": 1663609840150,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Newton"
+      "value": "Ruchus"
     },
     {
       "trait_type": "Rarity",

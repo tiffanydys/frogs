@@ -1,16 +1,16 @@
 {
-  "name": "Jersey #103",
+  "name": "Penny #103",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/103.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/103.png",
-  "dna": "fb4234243bcf8919a85f2891ccc938926f4dcbd7",
+  "dna": "040e0a3443c02b050332e5fca1692826b5eedc4b",
   "edition": 103,
-  "date": 1660735821557,
+  "date": 1663609838643,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jersey"
+      "value": "Penny"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,15 +1,15 @@
 {
-  "name": "Sly #119",
+  "name": "Topaz #119",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/119.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/119.png",
-  "dna": "eb493b7d58b7b86a67e429b8ca35c54b5756247f",
+  "dna": "4c5fa0bd44294aee6b94ff4aac59e5f3cbe8c169",
   "edition": 119,
-  "date": 1660735821617,
+  "date": 1663609838704,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sly"
+      "value": "Topaz"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

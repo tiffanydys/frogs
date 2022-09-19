@@ -1,25 +1,25 @@
 {
-  "name": "Armanti #125",
+  "name": "Tobie #125",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/125.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/125.png",
-  "dna": "638969e065672def13eb496752af1e7bf38c51ca",
+  "dna": "381fefddfc2fe77f3acea75792ee335707907336",
   "edition": 125,
-  "date": 1660735821641,
+  "date": 1663609838726,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Armanti"
+      "value": "Tobie"
     },
     {
       "trait_type": "Rarity",

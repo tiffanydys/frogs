@@ -1,25 +1,25 @@
 {
-  "name": "Freeway #317",
+  "name": "Bizzy #317",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/317.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/317.png",
-  "dna": "086da125661a2a30277bba20124640157a05618d",
+  "dna": "22673aad0002747ac1c174d365817b6dc36a7cc9",
   "edition": 317,
-  "date": 1660735822396,
+  "date": 1663609839425,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Pharaoh",
+      "value": "Fez",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Freeway"
+      "value": "Bizzy"
     },
     {
       "trait_type": "Rarity",

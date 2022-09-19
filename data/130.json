@@ -1,26 +1,26 @@
 {
-  "name": "Bebe #130",
+  "name": "Reggie #130",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/130.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/130.png",
-  "dna": "d1500695da125e4deb47ba16299978a7af65ce94",
+  "dna": "582725308400e4469466c7aa3212a9a0f7d57c57",
   "edition": 130,
-  "date": 1660735821660,
+  "date": 1663609838747,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Gold Helmet",
-      "rarity": "Legendary"
+      "value": "Leprechaun",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bebe"
+      "value": "Reggie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

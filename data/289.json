@@ -1,16 +1,16 @@
 {
-  "name": "Diesel #289",
+  "name": "Leap #289",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/289.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/289.png",
-  "dna": "51def1ee8be7fc97d555961d31cfa9c82bcafcfa",
+  "dna": "a9da3599b5d212b7a8e3d9907fc4547cf1cfbf7f",
   "edition": 289,
-  "date": 1660735822270,
+  "date": 1663609839325,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headset Black",
-      "rarity": "Epic"
+      "value": "Sheriff",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Diesel"
+      "value": "Leap"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

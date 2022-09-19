@@ -1,16 +1,16 @@
 {
-  "name": "Fergie #185",
+  "name": "Drippy #185",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/185.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/185.png",
-  "dna": "ccbe782ae0a3ae4e3ff46e662b2ee862e2e40828",
+  "dna": "13ed3d84d89204e8b4c9b125d1b34c566b0f3bcf",
   "edition": 185,
-  "date": 1660735821895,
+  "date": 1663609838937,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "3 Color",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
+      "value": "Fedora",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Fergie"
+      "value": "Drippy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

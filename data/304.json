@@ -1,15 +1,15 @@
 {
-  "name": "Timmy #304",
+  "name": "Frankie #304",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/304.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/304.png",
-  "dna": "8fcf285cde95c54514b56074edd4e8b9f1260675",
+  "dna": "6fba8febd75fb7fb71ff95c8d21a3c871a00c409",
   "edition": 304,
-  "date": 1660735822346,
+  "date": 1663609839377,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Timmy"
+      "value": "Frankie"
     },
     {
       "trait_type": "Rarity",

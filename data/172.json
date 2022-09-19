@@ -1,25 +1,25 @@
 {
-  "name": "Shasta #172",
+  "name": "Raven #172",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/172.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/172.png",
-  "dna": "94bf73b160b29fdca04653aa06de466d4b3b7c66",
+  "dna": "1aa9d4bdbde4f633c407635969c94e680bddc834",
   "edition": 172,
-  "date": 1660735821854,
+  "date": 1663609838890,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Leprechaun",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Shasta"
+      "value": "Raven"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

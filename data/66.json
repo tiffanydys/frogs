@@ -1,15 +1,15 @@
 {
-  "name": "Paddy #66",
+  "name": "Athena #66",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/66.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/66.png",
-  "dna": "19166bbe62bb6563e1b0023e5562b0cb26a78672",
+  "dna": "0360f3b3ef470872bec5cc36064be050da01d6cd",
   "edition": 66,
-  "date": 1660735821413,
+  "date": 1663609838507,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Halo",
-      "rarity": "Legendary"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Paddy"
+      "value": "Athena"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Sam #150",
+  "name": "Boomer #150",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/150.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/150.png",
-  "dna": "ebbf7bb93b274f98286f8a4a02ab90b22020e54b",
+  "dna": "78c86d1012661485620b4cbda081e435596061cd",
   "edition": 150,
-  "date": 1660735821734,
+  "date": 1663609838818,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Straw Hat",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sam"
+      "value": "Boomer"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

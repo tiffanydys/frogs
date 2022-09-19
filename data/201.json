@@ -1,26 +1,26 @@
 {
-  "name": "Jesse #201",
+  "name": "Taric #201",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/201.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/201.png",
-  "dna": "5463b0bcabd66534084bfec7f631669fc560afc6",
+  "dna": "4ad6206e522ae2e8809c9542a58316b473e70c66",
   "edition": 201,
-  "date": 1660735821947,
+  "date": 1663609838999,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Crown",
-      "rarity": "Legendary"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jesse"
+      "value": "Taric"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

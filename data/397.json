@@ -1,26 +1,26 @@
 {
-  "name": "Tiki #397",
+  "name": "Suzy #397",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/397.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/397.png",
-  "dna": "3e1c7f17183acea9da73cf7c4516fce82eb30be8",
+  "dna": "347335cda483335f794c7456f2f4abdec8ef3f40",
   "edition": 397,
-  "date": 1660735822689,
+  "date": 1663609839704,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Cowboy",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tiki"
+      "value": "Suzy"
     },
     {
       "trait_type": "Rarity",

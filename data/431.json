@@ -1,25 +1,25 @@
 {
-  "name": "Yeller #431",
+  "name": "Spot #431",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/431.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/431.png",
-  "dna": "c97f96d8b87ac3caba88cc2286234d8ad9564c6c",
+  "dna": "f939135385125a7e63ae3f07d1fc9c311fe8a6e7",
   "edition": 431,
-  "date": 1660735822811,
+  "date": 1663609839847,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Brown",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Goblin",
+      "value": "Red Helmet",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Yeller"
+      "value": "Spot"
     },
     {
       "trait_type": "Rarity",

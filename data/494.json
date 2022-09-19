@@ -1,26 +1,26 @@
 {
-  "name": "Pongo #494",
+  "name": "Franky #494",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/494.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/494.png",
-  "dna": "f14c278a69c82d55e19cf98eac380d9d0d242b67",
+  "dna": "9094467e30b2b1d86f2d466cfeb04816240d4e8e",
   "edition": 494,
-  "date": 1660735823112,
+  "date": 1663609840071,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Pharaoh",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pongo"
+      "value": "Franky"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

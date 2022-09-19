@@ -1,11 +1,11 @@
 {
-  "name": "Doogie #509",
+  "name": "Armanti #509",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/509.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/509.png",
-  "dna": "7c67380dfb8a49249c01cc6d0c6c4cac6bc46cc1",
+  "dna": "84a8e7cf0c28b6a1dd14da376e9a4627741711b6",
   "edition": 509,
-  "date": 1660735823178,
+  "date": 1663609840139,
   "attributes": [
     {
       "trait_type": "Float",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Doogie"
+      "value": "Armanti"
     },
     {
       "trait_type": "Rarity",

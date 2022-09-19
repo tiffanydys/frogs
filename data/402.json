@@ -1,16 +1,16 @@
 {
-  "name": "Jet #402",
+  "name": "Azureus #402",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/402.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/402.png",
-  "dna": "7cf46d649198bd408b6d9d164740e7e73885a9dc",
+  "dna": "3f8553e8fe9775e45927042759bdde2191e82a57",
   "edition": 402,
-  "date": 1660735822707,
+  "date": 1663609839725,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
-      "rarity": "Uncommon"
+      "value": "Red Helmet",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jet"
+      "value": "Azureus"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

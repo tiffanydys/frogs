@@ -1,25 +1,25 @@
 {
-  "name": "Kipper #349",
+  "name": "Digger #349",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/349.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/349.png",
-  "dna": "8cf12a0cc2cf807f1db8b363cd1b4217a58c2c9a",
+  "dna": "4870bdc1403129a55468b52cf41db8ff17f46882",
   "edition": 349,
-  "date": 1660735822520,
+  "date": 1663609839533,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kipper"
+      "value": "Digger"
     },
     {
       "trait_type": "Rarity",

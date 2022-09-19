@@ -1,26 +1,26 @@
 {
-  "name": "Gus #268",
+  "name": "Buckeye #268",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/268.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/268.png",
-  "dna": "0434f8f93ed98fd58182823e80420e44c01bd774",
+  "dna": "69d1092d584e8fbd02689501e3e64e573fe69c13",
   "edition": 268,
-  "date": 1660735822185,
+  "date": 1663609839245,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Pirate",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Gus"
+      "value": "Buckeye"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

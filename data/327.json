@@ -1,25 +1,25 @@
 {
-  "name": "Lightning #327",
+  "name": "Jojo #327",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/327.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/327.png",
-  "dna": "2bf1ee4f02d32c3f8f18e411a3c36165dddc5bf7",
+  "dna": "461eabdac8c88fcb96199a9b30668047d435aa18",
   "edition": 327,
-  "date": 1660735822430,
+  "date": 1663609839462,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Lightning"
+      "value": "Jojo"
     },
     {
       "trait_type": "Rarity",

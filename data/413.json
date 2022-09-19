@@ -1,26 +1,26 @@
 {
-  "name": "Killian #413",
+  "name": "Dan #413",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/413.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/413.png",
-  "dna": "afdc034c47fdeeae06ad04886359864eedc54199",
+  "dna": "0bcde071761ae4cfbb19dd8738cf4ae83f512a76",
   "edition": 413,
-  "date": 1660735822746,
+  "date": 1663609839773,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Captain",
-      "rarity": "Rare"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Killian"
+      "value": "Dan"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

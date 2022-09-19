@@ -1,26 +1,26 @@
 {
-  "name": "Stuart #334",
+  "name": "Flopsy #334",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/334.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/334.png",
-  "dna": "640ffb2333be9820086f65812a91a50e472b1013",
+  "dna": "9f8a2f28b395a39bcba86b0ee01b55acee0f26b5",
   "edition": 334,
-  "date": 1660735822458,
+  "date": 1663609839485,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
       "value": "Orange",
       "rarity": "Uncommon"
     },
     {
-      "trait_type": "Hat",
-      "value": "Bucket",
+      "trait_type": "Base",
+      "value": "Blue",
       "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Red Wool",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Stuart"
+      "value": "Flopsy"
     },
     {
       "trait_type": "Rarity",

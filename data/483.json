@@ -1,11 +1,11 @@
 {
-  "name": "Frisky #483",
+  "name": "Sacul #483",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/483.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/483.png",
-  "dna": "37c5c564a5dd24814569520b7940e2ed8e9aefd4",
+  "dna": "6b665434e31aa510ce445c6c3e22f1421e1b6e0d",
   "edition": 483,
-  "date": 1660735823066,
+  "date": 1663609840033,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
-      "rarity": "Uncommon"
+      "value": "Sunflower",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Frisky"
+      "value": "Sacul"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,11 +1,11 @@
 {
-  "name": "Sheena #293",
+  "name": "Bambina #293",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/293.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/293.png",
-  "dna": "3c97ed79834f1a74972f7e89a160cde688bde5d9",
+  "dna": "cf0baf2ae389fb2cf4e7d6254768da198476d64f",
   "edition": 293,
-  "date": 1660735822286,
+  "date": 1663609839340,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Cowboy",
-      "rarity": "Uncommon"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sheena"
+      "value": "Bambina"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

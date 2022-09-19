@@ -1,26 +1,26 @@
 {
-  "name": "Pogo #398",
+  "name": "Pooky #398",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/398.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/398.png",
-  "dna": "800afa16cf79b012d4bd0761262542e5c11da502",
+  "dna": "5da45bcd4777892fb56b68fa6e88cc1d61e3ffe8",
   "edition": 398,
-  "date": 1660735822693,
+  "date": 1663609839708,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Sheriff",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pogo"
+      "value": "Pooky"
     },
     {
       "trait_type": "Rarity",

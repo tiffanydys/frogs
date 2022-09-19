@@ -1,26 +1,26 @@
 {
-  "name": "Fonzie #140",
+  "name": "Rock #140",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/140.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/140.png",
-  "dna": "42f19103605681acf524eaf243eb95e22be70167",
+  "dna": "b97735a0b611d136d39648e153a8af4c0915c6d1",
   "edition": 140,
-  "date": 1660735821699,
+  "date": 1663609838784,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Fonzie"
+      "value": "Rock"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Baron #347",
+  "name": "Nana #347",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/347.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/347.png",
-  "dna": "4b8829aff0438c8e7485f0821c8c00650c157f63",
+  "dna": "470b5c820dd1903eb6c63ede698980e988b63262",
   "edition": 347,
-  "date": 1660735822512,
+  "date": 1663609839527,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Baron"
+      "value": "Nana"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

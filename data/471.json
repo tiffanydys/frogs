@@ -1,26 +1,26 @@
 {
-  "name": "Kasey #471",
+  "name": "Dunn #471",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/471.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/471.png",
-  "dna": "8a825b109b2b00e68cf2e7d17eda2aad3a278f95",
+  "dna": "d5209c250b2abc107ab235f2cbc5d4eab64090b3",
   "edition": 471,
-  "date": 1660735823016,
+  "date": 1663609839994,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "Red Helmet",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kasey"
+      "value": "Dunn"
     },
     {
       "trait_type": "Rarity",

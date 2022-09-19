@@ -1,26 +1,26 @@
 {
-  "name": "Willow #386",
+  "name": "Pooch #386",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/386.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/386.png",
-  "dna": "74b8460888570500da725c9d30e6e664c3080970",
+  "dna": "31b5fdac6884901fa02400556e17bfcc34b32999",
   "edition": 386,
-  "date": 1660735822649,
+  "date": 1663609839662,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "3 Color",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Headset White",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Willow"
+      "value": "Pooch"
     },
     {
       "trait_type": "Rarity",

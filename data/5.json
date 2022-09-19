@@ -1,25 +1,25 @@
 {
-  "name": "Andy #5",
+  "name": "Champ #5",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/5.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/5.png",
-  "dna": "9c17600294b4faebad6b0816d6aeadcd3c6513f2",
+  "dna": "c165f8293fdf5ade80e4d9635aeab997a2b9afc4",
   "edition": 5,
-  "date": 1660735821011,
+  "date": 1663609838266,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Andy"
+      "value": "Champ"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

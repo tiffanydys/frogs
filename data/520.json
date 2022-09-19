@@ -1,11 +1,11 @@
 {
-  "name": "Arrow #520",
+  "name": "undefined #520",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/520.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/520.png",
-  "dna": "cd40d4c8ccddb71e1b485483d110ff96607864c6",
+  "dna": "ac46306ff2b9007f8ce7c1df6fd1d57d93e72805",
   "edition": 520,
-  "date": 1660735823222,
+  "date": 1663609840185,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,8 +14,8 @@
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -27,8 +27,7 @@
       "value": "Water"
     },
     {
-      "trait_type": "Name",
-      "value": "Arrow"
+      "trait_type": "Name"
     },
     {
       "trait_type": "Rarity",

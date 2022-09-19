@@ -1,16 +1,16 @@
 {
-  "name": "Charlie #515",
+  "name": "Charisma #515",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/515.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/515.png",
-  "dna": "f67cbe1845d3a8935146346a6d831eb9f250f69f",
+  "dna": "4d4c3b55d957124fc3b9152c48ee89650f32c2cf",
   "edition": 515,
-  "date": 1660735823204,
+  "date": 1663609840160,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
-      "rarity": "Uncommon"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Charlie"
+      "value": "Charisma"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

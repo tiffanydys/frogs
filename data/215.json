@@ -1,25 +1,25 @@
 {
-  "name": "Speed #215",
+  "name": "Sundance #215",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/215.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/215.png",
-  "dna": "ee093bea962b11dc6aea216fde172773e6c71723",
+  "dna": "776a4af74b2a45d87ca8d5b5ad34597040dd26a0",
   "edition": 215,
-  "date": 1660735822000,
+  "date": 1663609839046,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Speed"
+      "value": "Sundance"
     },
     {
       "trait_type": "Rarity",

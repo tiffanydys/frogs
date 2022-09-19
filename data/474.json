@@ -1,25 +1,25 @@
 {
-  "name": "Bambi #474",
+  "name": "Kenya #474",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/474.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/474.png",
-  "dna": "af1bb9a4c99f5aa49cb9f8c0e439e276179da5ca",
+  "dna": "42c84421aaf33123c13072467c07b9c385b14173",
   "edition": 474,
-  "date": 1660735823028,
+  "date": 1663609840004,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Blue",
+      "value": "2 Color",
       "rarity": "Rare"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bambi"
+      "value": "Kenya"
     },
     {
       "trait_type": "Rarity",

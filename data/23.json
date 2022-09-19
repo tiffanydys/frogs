@@ -1,25 +1,25 @@
 {
-  "name": "Pugsley #23",
+  "name": "Cali #23",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/23.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/23.png",
-  "dna": "6a9154b39ec1b328598e62e211bd11e3f96529ae",
+  "dna": "99dbab693f26c45f144f5741c073c659e33b2441",
   "edition": 23,
-  "date": 1660735821100,
+  "date": 1663609838342,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
+      "value": "Straw Hat",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pugsley"
+      "value": "Cali"
     },
     {
       "trait_type": "Rarity",

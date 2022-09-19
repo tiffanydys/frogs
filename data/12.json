@@ -1,26 +1,26 @@
 {
-  "name": "Charles #12",
+  "name": "Peanut #12",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/12.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/12.png",
-  "dna": "b8b2f4a9322e48dfcaf27ba3202fe2c13430a33a",
+  "dna": "e74ca703bde93725ad7da16a34fb743bef85dcfc",
   "edition": 12,
-  "date": 1660735821044,
+  "date": 1663609838293,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Charles"
+      "value": "Peanut"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

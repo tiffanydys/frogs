@@ -1,11 +1,11 @@
 {
-  "name": "Hank #183",
+  "name": "Furball #183",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/183.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/183.png",
-  "dna": "f668b55bf2b6d221423ccbe5d584e5ce101ddc9c",
+  "dna": "d46afd7b53574087c4a8ae045b4210497025c82b",
   "edition": 183,
-  "date": 1660735821889,
+  "date": 1663609838929,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Hank"
+      "value": "Furball"
     },
     {
       "trait_type": "Rarity",

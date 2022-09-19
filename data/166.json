@@ -1,16 +1,16 @@
 {
-  "name": "KC #166",
+  "name": "Gerard #166",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/166.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/166.png",
-  "dna": "2a0bb8d1c2f64108f4f93da42a9e948b16bbc9d1",
+  "dna": "b3846f897f68118b32f57947f266bcda0ef37cb2",
   "edition": 166,
-  "date": 1660735821800,
+  "date": 1663609838871,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Turban",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "KC"
+      "value": "Gerard"
     },
     {
       "trait_type": "Rarity",

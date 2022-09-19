@@ -1,16 +1,16 @@
 {
-  "name": "Newt #224",
+  "name": "Mercedes #224",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/224.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/224.png",
-  "dna": "499f02b0ea9e06c1454de82a89e46fbf8bc8f607",
+  "dna": "0a85ab224556d78f17f1d3e0bedf76f2147a1ab7",
   "edition": 224,
-  "date": 1660735822033,
+  "date": 1663609839076,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
-      "rarity": "Uncommon"
+      "value": "Goblin",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Newt"
+      "value": "Mercedes"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

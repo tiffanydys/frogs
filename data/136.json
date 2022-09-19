@@ -1,26 +1,26 @@
 {
-  "name": "Buffy #136",
+  "name": "Simone #136",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/136.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/136.png",
-  "dna": "dcc8a2adafc01e091d97c41cbad211be2067f377",
+  "dna": "b90605f4d887a38151320a623fb6ecaf473f748f",
   "edition": 136,
-  "date": 1660735821684,
+  "date": 1663609838769,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Buffy"
+      "value": "Simone"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

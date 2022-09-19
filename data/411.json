@@ -1,26 +1,26 @@
 {
-  "name": "Mcduff #411",
+  "name": "Avatar #411",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/411.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/411.png",
-  "dna": "b768728d12d0b3827ebe3fe90197515f50f6cc30",
+  "dna": "6a3e39ebf764467ce61f97ce1826767de73a5f31",
   "edition": 411,
-  "date": 1660735822740,
+  "date": 1663609839762,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Log",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Halo",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mcduff"
+      "value": "Avatar"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

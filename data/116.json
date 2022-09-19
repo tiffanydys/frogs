@@ -1,25 +1,25 @@
 {
-  "name": "Bishop #116",
+  "name": "Pinky #116",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/116.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/116.png",
-  "dna": "31180ad9c67f4d77f9a0283690cf48861bb1f2ed",
+  "dna": "a2e1c7eedfbac247dcccf97a117b8b78adc2b994",
   "edition": 116,
-  "date": 1660735821605,
+  "date": 1663609838692,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Straw Hat",
+      "value": "Beret",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bishop"
+      "value": "Pinky"
     },
     {
       "trait_type": "Rarity",

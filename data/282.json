@@ -1,16 +1,16 @@
 {
-  "name": "Cole #282",
+  "name": "Paco #282",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/282.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/282.png",
-  "dna": "565a6bd4a6623d9b9198215d24f6535489111b7d",
+  "dna": "22036d77bd9847b81003c9edb264b777fa00598c",
   "edition": 282,
-  "date": 1660735822241,
+  "date": 1663609839299,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cole"
+      "value": "Paco"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

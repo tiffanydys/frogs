@@ -1,16 +1,16 @@
 {
-  "name": "Violet #176",
+  "name": "Jet #176",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/176.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/176.png",
-  "dna": "9842b89cb2070905e1b66d36b387f8031ebcbbf0",
+  "dna": "d3f9953b7f56f5140cf8f8eedb8529362ab7f9bf",
   "edition": 176,
-  "date": 1660735821866,
+  "date": 1663609838904,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Private",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Violet"
+      "value": "Jet"
     },
     {
       "trait_type": "Rarity",

@@ -1,16 +1,16 @@
 {
-  "name": "Sundance #121",
+  "name": "Stretch #121",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/121.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/121.png",
-  "dna": "17f4b0dbe0f18eea10cec80d1bdce993f48958dc",
+  "dna": "bf7a50c9fe74f2b007ac1f360d523d013acdacaf",
   "edition": 121,
-  "date": 1660735821625,
+  "date": 1663609838711,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Captain",
-      "rarity": "Rare"
+      "value": "Cone",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sundance"
+      "value": "Stretch"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

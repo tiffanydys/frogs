@@ -1,25 +1,25 @@
 {
-  "name": "Biablo #405",
+  "name": "Duffy #405",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/405.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/405.png",
-  "dna": "49234181bf1dcae8139d83b645e1d58097a2f28d",
+  "dna": "d890dcace5625849594e2b0d3aebd12226c1835c",
   "edition": 405,
-  "date": 1660735822718,
+  "date": 1663609839738,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Biablo"
+      "value": "Duffy"
     },
     {
       "trait_type": "Rarity",

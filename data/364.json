@@ -1,25 +1,25 @@
 {
-  "name": "Nakita #364",
+  "name": "Sara #364",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/364.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/364.png",
-  "dna": "21fbd83a8e16b7e7636981124877f0f8a7013163",
+  "dna": "fac8baedeb284f27b8b0fb88e60697de62d6d7a4",
   "edition": 364,
-  "date": 1660735822578,
+  "date": 1663609839585,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
+      "value": "Fez",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Nakita"
+      "value": "Sara"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

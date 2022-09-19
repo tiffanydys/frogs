@@ -1,25 +1,25 @@
 {
-  "name": "Wallace #229",
+  "name": "Chance #229",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/229.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/229.png",
-  "dna": "44877bc762f91783535813e9981ebe7331b7d7ba",
+  "dna": "368d33a3d1f3bbb3db682cc035ac47e5ce283d16",
   "edition": 229,
-  "date": 1660735822050,
+  "date": 1663609839095,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Wallace"
+      "value": "Chance"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,11 +1,11 @@
 {
-  "name": "Sweetie #47",
+  "name": "Chrissy #47",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/47.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/47.png",
-  "dna": "594593ec6c18de50fa3ed03796333cca53251363",
+  "dna": "7c3b1e9a9cf66f8112a7d5c2a9b83b5fe070605a",
   "edition": 47,
-  "date": 1660735821294,
+  "date": 1663609838426,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Red Wool",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sweetie"
+      "value": "Chrissy"
     },
     {
       "trait_type": "Rarity",

@@ -1,16 +1,16 @@
 {
-  "name": "Cyrus #80",
+  "name": "Maxine #80",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/80.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/80.png",
-  "dna": "28d25e499c40a0fda2a86d445b26be4ff0ba08b7",
+  "dna": "c316d9583241b58943dfc66d000c3da5b1359ceb",
   "edition": 80,
-  "date": 1660735821476,
+  "date": 1663609838555,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Beaver",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cyrus"
+      "value": "Maxine"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

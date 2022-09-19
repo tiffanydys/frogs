@@ -1,26 +1,26 @@
 {
-  "name": "Abbie #133",
+  "name": "Jake #133",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/133.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/133.png",
-  "dna": "dc3a9afdf1e3fb8f32316c3dc2fb23a9e3b55294",
+  "dna": "081dbb2f9b62c1bd47e6d73926dc40bd16a79fe4",
   "edition": 133,
-  "date": 1660735821672,
+  "date": 1663609838758,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard",
-      "rarity": "Rare"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Abbie"
+      "value": "Jake"
     },
     {
       "trait_type": "Rarity",

@@ -1,16 +1,16 @@
 {
-  "name": "Beans #412",
+  "name": "Thumper #412",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/412.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/412.png",
-  "dna": "b8a41aa7303fc39494a3be2d96e4d46b7b3ae265",
+  "dna": "397c5932c13f7f7c82a3dc280795b1b90b9809b3",
   "edition": 412,
-  "date": 1660735822743,
+  "date": 1663609839768,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Beans"
+      "value": "Thumper"
     },
     {
       "trait_type": "Rarity",

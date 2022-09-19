@@ -1,16 +1,16 @@
 {
-  "name": "Freddy #197",
+  "name": "Romy #197",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/197.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/197.png",
-  "dna": "79f9368f8bbb1f29b54a44dd9b248d16189c1541",
+  "dna": "c57ecbc7c081e3a2ae8226388cb349a434fd765e",
   "edition": 197,
-  "date": 1660735821932,
+  "date": 1663609838983,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Cowboy",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Freddy"
+      "value": "Romy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,16 +1,16 @@
 {
-  "name": "Comet #24",
+  "name": "Macy #24",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/24.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/24.png",
-  "dna": "3e2df9d3b6f079e3e2d5495ed2d553d751dc3a4c",
+  "dna": "5e8aa1d7c5687ddfe7483e65ba70abc41f068d66",
   "edition": 24,
-  "date": 1660735821104,
+  "date": 1663609838345,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
-      "rarity": "Uncommon"
+      "value": "Cone",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Comet"
+      "value": "Macy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

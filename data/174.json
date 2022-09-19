@@ -1,15 +1,15 @@
 {
-  "name": "Bugsey #174",
+  "name": "Dune #174",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/174.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/174.png",
-  "dna": "1748cf6a5f8284605dd0cf9721642f80472bf36d",
+  "dna": "4992d1138a3b34d64474cd3f50ae44d7f02735c8",
   "edition": 174,
-  "date": 1660735821860,
+  "date": 1663609838896,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headband",
-      "rarity": "Epic"
+      "value": "Fedora",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bugsey"
+      "value": "Dune"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

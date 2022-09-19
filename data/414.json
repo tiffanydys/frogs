@@ -1,26 +1,26 @@
 {
-  "name": "Brodie #414",
+  "name": "Fropkin #414",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/414.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/414.png",
-  "dna": "09425fa259c53a02fa077875dc479677dea1470c",
+  "dna": "60f37117fe10e4348adbb4c931bec88fc67aa2e8",
   "edition": 414,
-  "date": 1660735822749,
+  "date": 1663609839777,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
-      "trait_type": "Hat",
-      "value": "Crown",
+      "trait_type": "Base",
+      "value": "Rainbow",
       "rarity": "Legendary"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sheriff",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Brodie"
+      "value": "Fropkin"
     },
     {
       "trait_type": "Rarity",

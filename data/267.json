@@ -1,26 +1,26 @@
 {
-  "name": "Kiki #267",
+  "name": "Milo #267",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/267.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/267.png",
-  "dna": "17bc1cf0c7931f51492985ce71807f95cb29c0be",
+  "dna": "28ca21780335d0c874bef6ed21b675d0c9d11e1f",
   "edition": 267,
-  "date": 1660735822181,
+  "date": 1663609839241,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Chef",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kiki"
+      "value": "Milo"
     },
     {
       "trait_type": "Rarity",

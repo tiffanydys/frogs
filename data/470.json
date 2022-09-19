@@ -1,25 +1,25 @@
 {
-  "name": "Rebel #470",
+  "name": "Bruno #470",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/470.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/470.png",
-  "dna": "a4cda7b8756a47dd8f2c8db9d19e792837d86444",
+  "dna": "d2bf2d168ee4a5749e3afcb3216c36f082a2db47",
   "edition": 470,
-  "date": 1660735823011,
+  "date": 1663609839991,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
+      "value": "Headband",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Rebel"
+      "value": "Bruno"
     },
     {
       "trait_type": "Rarity",

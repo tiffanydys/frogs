@@ -1,21 +1,21 @@
 {
-  "name": "Dude #169",
+  "name": "Babaji #169",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/169.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/169.png",
-  "dna": "78e12a516bf10ee60b058647c5ffc81b8dccdde6",
+  "dna": "9b86dbb821b1355f52c2bacda9a1d23ed95870f1",
   "edition": 169,
-  "date": 1660735821814,
+  "date": 1663609838880,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dude"
+      "value": "Babaji"
     },
     {
       "trait_type": "Rarity",

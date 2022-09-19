@@ -1,26 +1,26 @@
 {
-  "name": "Riggs #168",
+  "name": "Josie #168",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/168.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/168.png",
-  "dna": "ad93ac0bb91133f40a918ae778d51a451e9ab59d",
+  "dna": "168ef3f820299ddc86c1e78cd8869bb8616842da",
   "edition": 168,
-  "date": 1660735821808,
+  "date": 1663609838877,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
-      "rarity": "Uncommon"
+      "value": "Headset Black",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Riggs"
+      "value": "Josie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

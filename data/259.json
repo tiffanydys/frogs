@@ -1,25 +1,25 @@
 {
-  "name": "Captain #259",
+  "name": "Frosty #259",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/259.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/259.png",
-  "dna": "746b3f8dcd8eae3b562e0e7f4f70fa6b6e4d088d",
+  "dna": "53117c7d5be33ccf1bf97c66072099cab40a24a6",
   "edition": 259,
-  "date": 1660735822150,
+  "date": 1663609839212,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Captain"
+      "value": "Frosty"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

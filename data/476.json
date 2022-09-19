@@ -1,16 +1,16 @@
 {
-  "name": "Brando #476",
+  "name": "Rosé #476",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/476.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/476.png",
-  "dna": "cf38b9e0a8b5feda9d3c3610ec511adbdd2ce99a",
+  "dna": "38afa67bbe8fcdec742e417b49c109ac02705b7d",
   "edition": 476,
-  "date": 1660735823036,
+  "date": 1663609840011,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "3 Color",
-      "rarity": "Epic"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
-      "rarity": "Uncommon"
+      "value": "Headset Black",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Brando"
+      "value": "Rosé"
     },
     {
       "trait_type": "Rarity",

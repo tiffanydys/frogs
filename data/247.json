@@ -1,16 +1,16 @@
 {
-  "name": "Montgomery #247",
+  "name": "Pasha #247",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/247.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/247.png",
-  "dna": "4ff24760f2ea903a4a7739f5d7de28f6fde8973f",
+  "dna": "be433885df409516fa8ee898b88eb44ffa4acc23",
   "edition": 247,
-  "date": 1660735822110,
+  "date": 1663609839170,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Captain",
+      "value": "Wizard",
       "rarity": "Rare"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Montgomery"
+      "value": "Pasha"
     },
     {
       "trait_type": "Rarity",

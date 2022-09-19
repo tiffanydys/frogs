@@ -1,26 +1,26 @@
 {
-  "name": "Butterscotch #52",
+  "name": "Candy #52",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/52.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/52.png",
-  "dna": "9d0aac36458726863c5bc6631604df315cecd62c",
+  "dna": "ca6d43cbade006b0f282ac453b8e6530bf96d650",
   "edition": 52,
-  "date": 1660735821329,
+  "date": 1663609838446,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Bandana",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Butterscotch"
+      "value": "Candy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

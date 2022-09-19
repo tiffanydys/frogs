@@ -1,25 +1,25 @@
 {
-  "name": "Puffy #472",
+  "name": "Tom #472",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/472.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/472.png",
-  "dna": "340f9bc20faf4dc83161e08698e6dc4cc0ba8830",
+  "dna": "5e256a31af2828cc80e96d938928facffdd43b03",
   "edition": 472,
-  "date": 1660735823019,
+  "date": 1663609839998,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Puffy"
+      "value": "Tom"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

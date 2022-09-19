@@ -1,26 +1,26 @@
 {
-  "name": "Clicker #457",
+  "name": "Violet #457",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/457.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/457.png",
-  "dna": "dd723a2fdb67fa197d780d6ad9765fce12a436aa",
+  "dna": "0b6cbe34485ab67bd244630bddc16020ad5f17e7",
   "edition": 457,
-  "date": 1660735822944,
+  "date": 1663609839945,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Leprechaun",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Clicker"
+      "value": "Violet"
     },
     {
       "trait_type": "Rarity",

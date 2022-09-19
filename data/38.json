@@ -1,25 +1,25 @@
 {
-  "name": "Mojo #38",
+  "name": "Freedom #38",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/38.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/38.png",
-  "dna": "0e800b67297c9d588840b3f21a0f0ae69945854a",
+  "dna": "e2c60973599b2916a7f7b9d9bb4da726da577251",
   "edition": 38,
-  "date": 1660735821212,
+  "date": 1663609838394,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
+      "value": "Captain",
       "rarity": "Rare"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mojo"
+      "value": "Freedom"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

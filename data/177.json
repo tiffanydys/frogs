@@ -1,26 +1,26 @@
 {
-  "name": "Hugh #177",
+  "name": "T-Bone #177",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/177.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/177.png",
-  "dna": "795ad628ab0f50c8fe161afb302a33cd443d409c",
+  "dna": "cae71e2c2b7cfe32fdc970286073e982e9b83d00",
   "edition": 177,
-  "date": 1660735821869,
+  "date": 1663609838907,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
-      "rarity": "Uncommon"
+      "value": "Sunflower",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Hugh"
+      "value": "T-Bone"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

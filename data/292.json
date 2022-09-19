@@ -1,11 +1,11 @@
 {
-  "name": "Guy #292",
+  "name": "Cheyenne #292",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/292.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/292.png",
-  "dna": "2d5a55bf487cee32315d5a325676fb3449241a80",
+  "dna": "33214c8fd23867f2dc6c95dff02a515f081a8cc8",
   "edition": 292,
-  "date": 1660735822282,
+  "date": 1663609839336,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Bucket",
-      "rarity": "Rare"
+      "value": "Headset Black",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Guy"
+      "value": "Cheyenne"
     },
     {
       "trait_type": "Rarity",

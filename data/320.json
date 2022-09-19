@@ -1,26 +1,26 @@
 {
-  "name": "Blaze #320",
+  "name": "Rufus #320",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/320.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/320.png",
-  "dna": "4310aed74691a677cc8f1cd629222844e7140947",
+  "dna": "1508483c99033608ff710fe396ef15d234d81b11",
   "edition": 320,
-  "date": 1660735822407,
+  "date": 1663609839436,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Sombrero",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Blaze"
+      "value": "Rufus"
     },
     {
       "trait_type": "Rarity",

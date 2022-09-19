@@ -1,25 +1,25 @@
 {
-  "name": "King #337",
+  "name": "Cutie #337",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/337.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/337.png",
-  "dna": "bbb8f8cb5ba1ff0fd458d2e72ce0fea7fa14b3ef",
+  "dna": "da2adb515fd0519ebfc1794334ce9101ea6d05db",
   "edition": 337,
-  "date": 1660735822471,
+  "date": 1663609839494,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Log",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "King"
+      "value": "Cutie"
     },
     {
       "trait_type": "Rarity",

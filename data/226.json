@@ -1,26 +1,26 @@
 {
-  "name": "Moses #226",
+  "name": "Brando #226",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/226.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/226.png",
-  "dna": "88602a36b453ecbb187d217d3bcb7cb276c82fd6",
+  "dna": "ba3b0c77f0f8fbee0bd6107eaf331c9a856f20f1",
   "edition": 226,
-  "date": 1660735822041,
+  "date": 1663609839084,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
-      "rarity": "Uncommon"
+      "value": "Halo",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Moses"
+      "value": "Brando"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

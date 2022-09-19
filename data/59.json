@@ -1,16 +1,16 @@
 {
-  "name": "Brandi #59",
+  "name": "Homer #59",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/59.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/59.png",
-  "dna": "32057b4465b4fdc2fbffeb71992479cf22b6b6d4",
+  "dna": "7a96272d4c625ca1de1b080ff651a878f86a6ad9",
   "edition": 59,
-  "date": 1660735821371,
+  "date": 1663609838482,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Viking",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Brandi"
+      "value": "Homer"
     },
     {
       "trait_type": "Rarity",

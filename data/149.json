@@ -1,25 +1,25 @@
 {
-  "name": "Kitty #149",
+  "name": "Dio #149",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/149.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/149.png",
-  "dna": "6c09d0a127b49b331187d9c410bb952f5333709e",
+  "dna": "5386a8c6c1873bffd88d77af6727680c716fbb54",
   "edition": 149,
-  "date": 1660735821731,
+  "date": 1663609838815,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kitty"
+      "value": "Dio"
     },
     {
       "trait_type": "Rarity",

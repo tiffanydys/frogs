@@ -1,16 +1,16 @@
 {
-  "name": "Hobbes #7",
+  "name": "Adomas #7",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/7.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/7.png",
-  "dna": "718ce0c80f46230ba78c30756c26b9de20b52ae8",
+  "dna": "da8298c9e19c8751d23a7a1c4ccb6f639dea390c",
   "edition": 7,
-  "date": 1660735821019,
+  "date": 1663609838273,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Beret",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Hobbes"
+      "value": "Adomas"
     },
     {
       "trait_type": "Rarity",

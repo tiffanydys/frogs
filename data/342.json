@@ -1,25 +1,25 @@
 {
-  "name": "Ladybug #342",
+  "name": "Capone #342",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/342.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/342.png",
-  "dna": "c0f825df460e7e55443b9a41f8af00e057fa39c7",
+  "dna": "9385edfee8faafa8f52b75d73ea3608d73a62530",
   "edition": 342,
-  "date": 1660735822491,
+  "date": 1663609839510,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Beanie",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ladybug"
+      "value": "Capone"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

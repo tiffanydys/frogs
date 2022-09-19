@@ -1,26 +1,26 @@
 {
-  "name": "Scooby #391",
+  "name": "Julius #391",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/391.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/391.png",
-  "dna": "9cae0e574d8c75482a5ce72f37a72251047952bf",
+  "dna": "2d5f6460e4c164185cfb8a397a25f103a19b319b",
   "edition": 391,
-  "date": 1660735822665,
+  "date": 1663609839681,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Sheriff",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Scooby"
+      "value": "Julius"
     },
     {
       "trait_type": "Rarity",

@@ -1,25 +1,25 @@
 {
-  "name": "Blondie #461",
+  "name": "Dunk #461",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/461.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/461.png",
-  "dna": "0fe185fc4e713a8caf3ef07c3e92f40f2c1d9ac3",
+  "dna": "4dab21581abc0566afd2775d40f6ea03d79a3e3a",
   "edition": 461,
-  "date": 1660735822965,
+  "date": 1663609839960,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Log",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Bandana",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Blondie"
+      "value": "Dunk"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

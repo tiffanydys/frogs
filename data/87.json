@@ -1,26 +1,26 @@
 {
-  "name": "Digger #87",
+  "name": "Mo #87",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/87.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/87.png",
-  "dna": "d271b619783fffe9f6ee4a0180447043968cd613",
+  "dna": "3c9b5b0ba6298e62a318bcb83cbb3b5d7e64d455",
   "edition": 87,
-  "date": 1660735821503,
+  "date": 1663609838580,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
-      "rarity": "Uncommon"
+      "value": "Headband",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Digger"
+      "value": "Mo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

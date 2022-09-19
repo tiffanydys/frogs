@@ -1,26 +1,26 @@
 {
-  "name": "Sunshine #500",
+  "name": "Albert #500",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/500.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/500.png",
-  "dna": "8de0816ab0e717a7a470600541b0deb305d85fea",
+  "dna": "086ec73279e7b8bc8a91666f78a6330537d109b5",
   "edition": 500,
-  "date": 1660735823139,
+  "date": 1663609840095,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Pirate",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sunshine"
+      "value": "Albert"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

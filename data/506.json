@@ -1,26 +1,26 @@
 {
-  "name": "Boo-boo #506",
+  "name": "Punkin #506",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/506.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/506.png",
-  "dna": "3467d11f2854acd5a3a7e577ccbd06c4c0198d84",
+  "dna": "daa58c2631b5bc22334f13aa33e115b07d18023b",
   "edition": 506,
-  "date": 1660735823164,
+  "date": 1663609840120,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Bandana",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Boo-boo"
+      "value": "Punkin"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

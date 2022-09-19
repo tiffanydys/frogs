@@ -1,26 +1,26 @@
 {
-  "name": "Flopsy #486",
+  "name": "Isabella #486",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/486.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/486.png",
-  "dna": "811a04fc329895a4cdaedddb26eb09e136ef62a3",
+  "dna": "2630542dd949f09b9c40f4dee2a3c7c2277ef6a2",
   "edition": 486,
-  "date": 1660735823078,
+  "date": 1663609840043,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset Black",
-      "rarity": "Epic"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Flopsy"
+      "value": "Isabella"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

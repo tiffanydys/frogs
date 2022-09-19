@@ -1,16 +1,16 @@
 {
-  "name": "Chaos #165",
+  "name": "Snoopy #165",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/165.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/165.png",
-  "dna": "53142e3c097227d2c376c1f8bb3096c336661537",
+  "dna": "e1f5b7e185c85f7ea19e3291faa6a52ababfdf9c",
   "edition": 165,
-  "date": 1660735821796,
+  "date": 1663609838867,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Leprechaun",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Chaos"
+      "value": "Snoopy"
     },
     {
       "trait_type": "Rarity",

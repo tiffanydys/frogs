@@ -1,26 +1,26 @@
 {
-  "name": "Wiz #220",
+  "name": "Kwakwak #220",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/220.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/220.png",
-  "dna": "6744f719a9d8f83cf0545b639569e0a00845d9d1",
+  "dna": "c2791dc0c633cdabe80b8700947f9dedeee9101c",
   "edition": 220,
-  "date": 1660735822019,
+  "date": 1663609839063,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Private",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Wiz"
+      "value": "Kwakwak"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

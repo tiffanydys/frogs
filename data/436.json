@@ -1,25 +1,25 @@
 {
-  "name": "Cheyenne #436",
+  "name": "Pooky #436",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/436.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/436.png",
-  "dna": "a42d8d6e86f99190ed30e7e0286286ac323dcb74",
+  "dna": "7a1d723a4d6f3488595aa81fc02621c0291966ae",
   "edition": 436,
-  "date": 1660735822832,
+  "date": 1663609839865,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cheyenne"
+      "value": "Pooky"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

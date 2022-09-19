@@ -1,25 +1,25 @@
 {
-  "name": "Franky #358",
+  "name": "Ketchup #358",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/358.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/358.png",
-  "dna": "e195f379f0953b21cc104eab6ecc4c4634574a36",
+  "dna": "e1f9415fe0c75fab3f94a62fc07092f44631eb45",
   "edition": 358,
-  "date": 1660735822555,
+  "date": 1663609839563,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
+      "value": "Straw Hat",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Franky"
+      "value": "Ketchup"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

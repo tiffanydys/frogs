@@ -1,26 +1,26 @@
 {
-  "name": "Brooke #422",
+  "name": "Butterball #422",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/422.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/422.png",
-  "dna": "498be2a82f6d9b0a10649d84ecdb293b8d3433fe",
+  "dna": "9315f436d7a68b57bba471e24ca62a5f5bda17fc",
   "edition": 422,
-  "date": 1660735822773,
+  "date": 1663609839809,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Crown",
-      "rarity": "Legendary"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Brooke"
+      "value": "Butterball"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

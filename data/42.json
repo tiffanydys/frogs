@@ -1,16 +1,16 @@
 {
-  "name": "Lili #42",
+  "name": "Rebel #42",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/42.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/42.png",
-  "dna": "9c5b5d40a4f3b8fee3210afd8fdf1bf63677a8f1",
+  "dna": "0b4134fe0d1bca8a1c16015e046c62186f91b537",
   "edition": 42,
-  "date": 1660735821244,
+  "date": 1663609838408,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Lili"
+      "value": "Rebel"
     },
     {
       "trait_type": "Rarity",

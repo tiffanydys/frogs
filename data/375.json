@@ -1,11 +1,11 @@
 {
-  "name": "Truffles #375",
+  "name": "Salem #375",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/375.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/375.png",
-  "dna": "830cf6b4ca191ae02fc13f820388a1404c6bdce8",
+  "dna": "99f8f3998f4ed88988fca04631128025f6c413e6",
   "edition": 375,
-  "date": 1660735822615,
+  "date": 1663609839626,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Truffles"
+      "value": "Salem"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

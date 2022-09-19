@@ -1,16 +1,16 @@
 {
-  "name": "Noodles #51",
+  "name": "Cloud #51",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/51.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/51.png",
-  "dna": "aff418fbb07bc4cb7aaf46a95ac49ccc4ab6fb0f",
+  "dna": "1f1c71fda7b2f80b0d4a363d52b9b59fc3645af9",
   "edition": 51,
-  "date": 1660735821323,
+  "date": 1663609838442,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Straw Hat",
-      "rarity": "Uncommon"
+      "value": "Commander",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Noodles"
+      "value": "Cloud"
     },
     {
       "trait_type": "Rarity",

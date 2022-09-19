@@ -1,26 +1,26 @@
 {
-  "name": "Bizzy #382",
+  "name": "Willow #382",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/382.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/382.png",
-  "dna": "9d3ec2706592e047d18bfc4fffcb9d526a92c639",
+  "dna": "e1c8574d1ebbce772b07ee30e279439bd29f4b74",
   "edition": 382,
-  "date": 1660735822637,
+  "date": 1663609839650,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bizzy"
+      "value": "Willow"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

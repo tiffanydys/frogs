@@ -1,25 +1,25 @@
 {
-  "name": "Miss Kitty #321",
+  "name": "Sam #321",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/321.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/321.png",
-  "dna": "1dabbe24308f4f82cf7bff811497c919488184e7",
+  "dna": "82ef0ac9b39f7d80ff26e0366009a08738bca287",
   "edition": 321,
-  "date": 1660735822410,
+  "date": 1663609839440,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Private",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Miss Kitty"
+      "value": "Sam"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

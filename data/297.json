@@ -1,16 +1,16 @@
 {
-  "name": "Peanut #297",
+  "name": "Summer #297",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/297.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/297.png",
-  "dna": "fbe81273b1fad3fbd9bb10866ec4eda10ba765e2",
+  "dna": "a3e426091b44c42a3b10b68cb819efb63d19b74c",
   "edition": 297,
-  "date": 1660735822301,
+  "date": 1663609839354,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Leprechaun",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Peanut"
+      "value": "Summer"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

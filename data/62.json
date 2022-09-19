@@ -1,16 +1,16 @@
 {
-  "name": "Dickens #62",
+  "name": "Boo-boo #62",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/62.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/62.png",
-  "dna": "dd46627adbfe8c6cb3d721f408b599488bf35400",
+  "dna": "a9a25b4224da5ca9e492b3362d5b322d46e99682",
   "edition": 62,
-  "date": 1660735821393,
+  "date": 1663609838494,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Commander",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dickens"
+      "value": "Boo-boo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

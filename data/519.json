@@ -1,11 +1,11 @@
 {
-  "name": "Bob #519",
+  "name": "Beans #519",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/519.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/519.png",
-  "dna": "2a2d0e88f0bdebc168425dfc41e37c9fef88c08d",
+  "dna": "24cb2c292249f61513df7765c8a1af0cd86298bc",
   "edition": 519,
-  "date": 1660735823218,
+  "date": 1663609840178,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bob"
+      "value": "Beans"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

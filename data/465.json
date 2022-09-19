@@ -1,26 +1,26 @@
 {
-  "name": "Carley #465",
+  "name": "Wallace #465",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/465.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/465.png",
-  "dna": "48321c8ea2e97472c036c058c5d82f7413dbdba9",
+  "dna": "82d98c5f89cbc9cb9783f9dd9fa01ecb77ae9e8d",
   "edition": 465,
-  "date": 1660735822984,
+  "date": 1663609839975,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Commander",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Carley"
+      "value": "Wallace"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

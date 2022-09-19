@@ -1,11 +1,11 @@
 {
-  "name": "Chyna #29",
+  "name": "Nakita #29",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/29.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/29.png",
-  "dna": "d9aac1f6f8005d3431c7536d76c5770cd6e0aed4",
+  "dna": "d001d7c3aa1ecb95e10891a63645b2111f6d22eb",
   "edition": 29,
-  "date": 1660735821139,
+  "date": 1663609838362,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
+      "value": "Sunflower",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Chyna"
+      "value": "Nakita"
     },
     {
       "trait_type": "Rarity",

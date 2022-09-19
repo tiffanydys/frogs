@@ -1,26 +1,26 @@
 {
-  "name": "Babbles #352",
+  "name": "Scooter #352",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/352.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/352.png",
-  "dna": "82e0599486859175c4b5b995c7c2e9b72076b7b1",
+  "dna": "4fe0bf5137dffb59bfaacb0179066db0acb9af82",
   "edition": 352,
-  "date": 1660735822532,
+  "date": 1663609839544,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
-      "rarity": "Uncommon"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Babbles"
+      "value": "Scooter"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

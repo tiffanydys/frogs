@@ -1,26 +1,26 @@
 {
-  "name": "Max #410",
+  "name": "Kiki #410",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/410.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/410.png",
-  "dna": "889980337a643f1523bd4fc4257367d71963aa32",
+  "dna": "9545eeda98fd41927df1a1f354389d95cd707457",
   "edition": 410,
-  "date": 1660735822737,
+  "date": 1663609839758,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Leprechaun",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Max"
+      "value": "Kiki"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

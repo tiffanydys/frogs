@@ -1,15 +1,15 @@
 {
-  "name": "Cinnamon #340",
+  "name": "Ziggy #340",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/340.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/340.png",
-  "dna": "3d9eca05a43ee186d10235cab2b9733bb21f2cf0",
+  "dna": "0a00dc1460cb4e08fe64789e94d1ee5ee66efc2b",
   "edition": 340,
-  "date": 1660735822483,
+  "date": 1663609839504,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Bucket",
-      "rarity": "Rare"
+      "value": "Pharaoh",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cinnamon"
+      "value": "Ziggy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,11 +1,11 @@
 {
-  "name": "Daisy #469",
+  "name": "Bogey #469",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/469.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/469.png",
-  "dna": "10cb9c6780b891bb749d4e84cd3d58686fcdd806",
+  "dna": "c16032939c6c5964923f17abbb06b21a99da39d4",
   "edition": 469,
-  "date": 1660735823007,
+  "date": 1663609839988,
   "attributes": [
     {
       "trait_type": "Float",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Halo",
-      "rarity": "Legendary"
+      "value": "Private",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Daisy"
+      "value": "Bogey"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

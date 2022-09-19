@@ -1,25 +1,25 @@
 {
-  "name": "Ringo #6",
+  "name": "Willy #6",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/6.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/6.png",
-  "dna": "6d87a36aeb1b4ab2d899da9d9b3a2504b2b64842",
+  "dna": "837108fadc1110a747e985936cc95178d3601d2e",
   "edition": 6,
-  "date": 1660735821015,
+  "date": 1663609838270,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ringo"
+      "value": "Willy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Julius #36",
+  "name": "Tabby #36",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/36.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/36.png",
-  "dna": "e0c75f0ee9c2b50575e53767833a53a171ca7222",
+  "dna": "fedb768f28d51bc9f8d67d36d93997ba8ec9b8ad",
   "edition": 36,
-  "date": 1660735821199,
+  "date": 1663609838387,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Beret",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Julius"
+      "value": "Tabby"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

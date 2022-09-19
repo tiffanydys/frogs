@@ -1,25 +1,25 @@
 {
-  "name": "Polly #388",
+  "name": "Linus #388",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/388.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/388.png",
-  "dna": "0d3e7b87bd44b2ebb1e9d341693f620f1d80e1de",
+  "dna": "8b502cecd99bb6e849a902e0ed5fd728a665e4d7",
   "edition": 388,
-  "date": 1660735822656,
+  "date": 1663609839669,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Polly"
+      "value": "Linus"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

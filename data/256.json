@@ -1,25 +1,25 @@
 {
-  "name": "Jackson #256",
+  "name": "Major #256",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/256.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/256.png",
-  "dna": "b51cf72c5811d9d10a596bd8dbf67f5cb1f49942",
+  "dna": "aaca01babfb80dc0acc2414d4d0ed3ce96edbd15",
   "edition": 256,
-  "date": 1660735822140,
+  "date": 1663609839201,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jackson"
+      "value": "Major"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

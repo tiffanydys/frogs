@@ -1,16 +1,16 @@
 {
-  "name": "Gypsy #65",
+  "name": "Fredo #65",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/65.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/65.png",
-  "dna": "227fa3be1f7e9447950a0cf2b538028c1706d0d7",
+  "dna": "86a3ca090084ec5198ef9f749b142b37702bddac",
   "edition": 65,
-  "date": 1660735821408,
+  "date": 1663609838504,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Watermelon",
-      "rarity": "Legendary"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Turban",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Gypsy"
+      "value": "Fredo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

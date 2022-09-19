@@ -1,26 +1,26 @@
 {
-  "name": "Ashley #368",
+  "name": "Westie #368",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/368.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/368.png",
-  "dna": "cb86f5eb010d7262424f40338cc55f3916f1ceb7",
+  "dna": "95e6ee3590d649278c35326ec6c6468bfe83a607",
   "edition": 368,
-  "date": 1660735822593,
+  "date": 1663609839600,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Pharaoh",
-      "rarity": "Uncommon"
+      "value": "Gold Helmet",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ashley"
+      "value": "Westie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

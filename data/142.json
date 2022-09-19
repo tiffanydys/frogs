@@ -1,25 +1,25 @@
 {
-  "name": "Elvis #142",
+  "name": "Pongo #142",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/142.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/142.png",
-  "dna": "f20b77434efad7df419d266708cb894d47c0dfb0",
+  "dna": "358f77f45264a59fdb977c54e4911472bb3e7be3",
   "edition": 142,
-  "date": 1660735821707,
+  "date": 1663609838791,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Sheriff",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Elvis"
+      "value": "Pongo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

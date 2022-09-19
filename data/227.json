@@ -1,26 +1,26 @@
 {
-  "name": "Trigger #227",
+  "name": "Hobbes #227",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/227.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/227.png",
-  "dna": "744603ab4041557834c407dafce84ce032004807",
+  "dna": "fd10a7722068002066d6a447ac31f453d22c210c",
   "edition": 227,
-  "date": 1660735822044,
+  "date": 1663609839088,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Viking",
-      "rarity": "Uncommon"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Trigger"
+      "value": "Hobbes"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

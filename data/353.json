@@ -1,25 +1,25 @@
 {
-  "name": "Mo #353",
+  "name": "Roulette #353",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/353.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/353.png",
-  "dna": "107d8029f575274ddccc16e93e11b37ed362e979",
+  "dna": "e8fc10a1a0a4661eed8a4d7950f5a43531110aac",
   "edition": 353,
-  "date": 1660735822535,
+  "date": 1663609839547,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mo"
+      "value": "Roulette"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Klaus #433",
+  "name": "Spunky #433",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/433.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/433.png",
-  "dna": "adf47efc1d6935710607e7a9cd4f93a1e648bd2f",
+  "dna": "62937e7c667f85e92e3d9176524887c1443e822d",
   "edition": 433,
-  "date": 1660735822820,
+  "date": 1663609839855,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Bucket",
-      "rarity": "Rare"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Klaus"
+      "value": "Spunky"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

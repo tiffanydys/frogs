@@ -1,25 +1,25 @@
 {
-  "name": "Jetta #272",
+  "name": "Charlie #272",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/272.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/272.png",
-  "dna": "7dc65f71949e3f315eaf2ba48e5904c08fb89eaf",
+  "dna": "360f58a5b6f785606e4ea883148b36bb46009a30",
   "edition": 272,
-  "date": 1660735822201,
+  "date": 1663609839262,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jetta"
+      "value": "Charlie"
     },
     {
       "trait_type": "Rarity",

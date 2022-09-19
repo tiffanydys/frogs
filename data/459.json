@@ -1,25 +1,25 @@
 {
-  "name": "Higgins #459",
+  "name": "Skye #459",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/459.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/459.png",
-  "dna": "27b0ae830e65faea862f95d67e4617578f4b1a7d",
+  "dna": "6379c3d7768ff68b90b384721a5c8f384c43d6e6",
   "edition": 459,
-  "date": 1660735822956,
+  "date": 1663609839953,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Bandana",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Higgins"
+      "value": "Skye"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

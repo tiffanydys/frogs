@@ -1,26 +1,26 @@
 {
-  "name": "Sarge #316",
+  "name": "Flappy #316",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/316.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/316.png",
-  "dna": "ac1c24ebcfa0c990c71dad5df08383d35c373339",
+  "dna": "cfd2dac90917c388186a195470749b7b9998b071",
   "edition": 316,
-  "date": 1660735822392,
+  "date": 1663609839421,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sarge"
+      "value": "Flappy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

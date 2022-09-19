@@ -1,26 +1,26 @@
 {
-  "name": "Coconut #482",
+  "name": "Gus #482",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/482.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/482.png",
-  "dna": "f6a1e86311f3d511a324ab82d16ff26d85de6f07",
+  "dna": "44711afffc348920fe63cd456c4855437b0e716c",
   "edition": 482,
-  "date": 1660735823062,
+  "date": 1663609840030,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "5 Color",
-      "rarity": "Legendary"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard",
-      "rarity": "Rare"
+      "value": "Private",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Coconut"
+      "value": "Gus"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

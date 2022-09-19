@@ -1,26 +1,26 @@
 {
-  "name": "Piglet #104",
+  "name": "Boozer #104",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/104.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/104.png",
-  "dna": "b13395fdf29083bd8f368eaf3c599752eb4e39c4",
+  "dna": "1787a4d9ad85c14d8e52c69575ec6f2a5bb15a20",
   "edition": 104,
-  "date": 1660735821560,
+  "date": 1663609838647,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset Black",
-      "rarity": "Epic"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Piglet"
+      "value": "Boozer"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

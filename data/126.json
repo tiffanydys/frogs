@@ -1,25 +1,25 @@
 {
-  "name": "Koty #126",
+  "name": "May #126",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/126.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/126.png",
-  "dna": "53d851ea2b0f70bc0c8cf19cb780fa468d0e4023",
+  "dna": "51e6899a466f24027e9a52e6f7d817c9fcdf6a47",
   "edition": 126,
-  "date": 1660735821644,
+  "date": 1663609838731,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
+      "value": "Wizard",
       "rarity": "Rare"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Koty"
+      "value": "May"
     },
     {
       "trait_type": "Rarity",

@@ -1,11 +1,11 @@
 {
-  "name": "Bosco #263",
+  "name": "Hannah #263",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/263.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/263.png",
-  "dna": "4b34fbb57c0f12d6479d3e750d6fdd2b65ae0dd7",
+  "dna": "7dbed8a726ef3502b1132c9db71b9d9073b6f065",
   "edition": 263,
-  "date": 1660735822165,
+  "date": 1663609839226,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Captain",
-      "rarity": "Rare"
+      "value": "Cowboy",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bosco"
+      "value": "Hannah"
     },
     {
       "trait_type": "Rarity",

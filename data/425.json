@@ -1,26 +1,26 @@
 {
-  "name": "Chaz #425",
+  "name": "Mandy #425",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/425.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/425.png",
-  "dna": "9bf23b6312bebf9019dcefb2012e3e1ce10a6175",
+  "dna": "69d9da7326b780997192465bc35c1de120c06e80",
   "edition": 425,
-  "date": 1660735822786,
+  "date": 1663609839822,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Builder",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Chaz"
+      "value": "Mandy"
     },
     {
       "trait_type": "Rarity",

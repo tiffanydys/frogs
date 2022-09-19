@@ -1,25 +1,25 @@
 {
-  "name": "Bucko #383",
+  "name": "Grumpy #383",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/383.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/383.png",
-  "dna": "0032a2f1f884c82fca13dd7a5d9a1d2c2562ef7f",
+  "dna": "149913aaa6101123183a9b8625df9d8fe400cc9a",
   "edition": 383,
-  "date": 1660735822641,
+  "date": 1663609839653,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bucko"
+      "value": "Grumpy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

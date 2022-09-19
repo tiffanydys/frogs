@@ -1,16 +1,16 @@
 {
-  "name": "Diva #91",
+  "name": "Scooby #91",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/91.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/91.png",
-  "dna": "d86810875db1371fbbe84dabc077d5e5ddafab49",
+  "dna": "20ef8cab1be6bd9da3593a9d84a285d22eb64ece",
   "edition": 91,
-  "date": 1660735821517,
+  "date": 1663609838595,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "Bandana",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Diva"
+      "value": "Scooby"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

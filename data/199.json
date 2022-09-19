@@ -1,26 +1,26 @@
 {
-  "name": "Gibson #199",
+  "name": "Mojo #199",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/199.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/199.png",
-  "dna": "40b9eb8b2ddb5d3b00a046213634f44d52f92a36",
+  "dna": "f6968772a86a36e899726d639a8b9c8ec0dfea40",
   "edition": 199,
-  "date": 1660735821939,
+  "date": 1663609838991,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Gold Helmet",
-      "rarity": "Legendary"
+      "value": "Red Wool",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Gibson"
+      "value": "Mojo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

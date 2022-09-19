@@ -1,26 +1,26 @@
 {
-  "name": "T-Bone #179",
+  "name": "VP #179",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/179.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/179.png",
-  "dna": "7b098ae10142aa274fba146dbe7ba79a0d0d89d7",
+  "dna": "537bac087578cc20c1e9f206538aded92504da82",
   "edition": 179,
-  "date": 1660735821875,
+  "date": 1663609838915,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
       "value": "Orange",
       "rarity": "Uncommon"
     },
     {
-      "trait_type": "Hat",
-      "value": "No Hat",
+      "trait_type": "Base",
+      "value": "Green",
       "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pirate",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "T-Bone"
+      "value": "VP"
     },
     {
       "trait_type": "Rarity",

@@ -1,26 +1,26 @@
 {
-  "name": "Susie Q #187",
+  "name": "Maggie #187",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/187.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/187.png",
-  "dna": "84e9aadeda48b392cd9792121b5b8d8d73240b74",
+  "dna": "aaacdf4b9d0bcc6538db12464474be10ae208e30",
   "edition": 187,
-  "date": 1660735821901,
+  "date": 1663609838944,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
-      "rarity": "Uncommon"
+      "value": "Headband",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Susie Q"
+      "value": "Maggie"
     },
     {
       "trait_type": "Rarity",

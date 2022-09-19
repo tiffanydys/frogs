@@ -1,25 +1,25 @@
 {
-  "name": "Aldo #302",
+  "name": "Shiloh #302",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/302.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/302.png",
-  "dna": "fc0a7f4ace36d46901ae641331ceb2c55036e7f3",
+  "dna": "9c83851c28c1ccfb9871f2f8dd6c78116bac67d3",
   "edition": 302,
-  "date": 1660735822338,
+  "date": 1663609839370,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Bucket",
+      "value": "Beaver",
       "rarity": "Rare"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Aldo"
+      "value": "Shiloh"
     },
     {
       "trait_type": "Rarity",

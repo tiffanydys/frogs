@@ -1,26 +1,26 @@
 {
-  "name": "Angus #409",
+  "name": "Sunshine #409",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/409.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/409.png",
-  "dna": "dd9b8af5e299b6d316298c9f2db65147f23969db",
+  "dna": "1227afae033e4a47171806518df91274d9cd24d3",
   "edition": 409,
-  "date": 1660735822733,
+  "date": 1663609839754,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Straw Hat",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Angus"
+      "value": "Sunshine"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

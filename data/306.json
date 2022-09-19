@@ -1,26 +1,26 @@
 {
-  "name": "Dewey #306",
+  "name": "Belle #306",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/306.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/306.png",
-  "dna": "c0bd8634c3afae72807909a0db33f554f540439e",
+  "dna": "74096d913fcf8f8a67a7675303124d88c2ff34e3",
   "edition": 306,
-  "date": 1660735822353,
+  "date": 1663609839384,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
-      "rarity": "Uncommon"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dewey"
+      "value": "Belle"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

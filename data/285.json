@@ -1,26 +1,26 @@
 {
-  "name": "Elwood #285",
+  "name": "Paco #285",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/285.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/285.png",
-  "dna": "37b80d756a8bc015360e5617b25caedf69697fda",
+  "dna": "453b7b2e55e7d06d86191ea427861425a7d27793",
   "edition": 285,
-  "date": 1660735822252,
+  "date": 1663609839310,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Elwood"
+      "value": "Paco"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Arnie #143",
+  "name": "Sushi #143",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/143.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/143.png",
-  "dna": "895ad4d192e4a1b17da5756b5fd2fa316ab04532",
+  "dna": "9d5816784f1412e56486d3748d15c3d4cd14d26b",
   "edition": 143,
-  "date": 1660735821711,
+  "date": 1663609838794,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Captain",
-      "rarity": "Rare"
+      "value": "Leprechaun",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Arnie"
+      "value": "Sushi"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

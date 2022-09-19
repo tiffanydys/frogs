@@ -1,11 +1,11 @@
 {
-  "name": "Penny #499",
+  "name": "Duchess #499",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/499.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/499.png",
-  "dna": "238bb4aab089142abf127c9de4dbdead29f15b5e",
+  "dna": "4e9b9221595b935b72e497a421151848ae0b6949",
   "edition": 499,
-  "date": 1660735823134,
+  "date": 1663609840091,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Headband",
-      "rarity": "Epic"
+      "value": "Headset",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Penny"
+      "value": "Duchess"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

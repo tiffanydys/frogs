@@ -1,25 +1,25 @@
 {
-  "name": "Beetle #517",
+  "name": "Clyde #517",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/517.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/517.png",
-  "dna": "67b4c285297c16ddeaa37b185f880597842ff9bc",
+  "dna": "10ae7ae109e0811f8e4f1b0acee40a479a9601ba",
   "edition": 517,
-  "date": 1660735823212,
+  "date": 1663609840166,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Cowboy",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Beetle"
+      "value": "Clyde"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

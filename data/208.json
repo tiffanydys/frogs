@@ -1,26 +1,26 @@
 {
-  "name": "Sky #208",
+  "name": "Guy #208",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/208.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/208.png",
-  "dna": "66c84fcad51d1909a72c5af100548a39b25bea22",
+  "dna": "e13ed45d0f38ba97084bfae07ed43ee1e610ed2a",
   "edition": 208,
-  "date": 1660735821973,
+  "date": 1663609839023,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "Pharaoh",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sky"
+      "value": "Guy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

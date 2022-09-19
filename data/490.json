@@ -1,11 +1,11 @@
 {
-  "name": "Brook #490",
+  "name": "Pedro #490",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/490.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/490.png",
-  "dna": "30ae3082c4124c3f988ae872cf4e9ede3b123f3c",
+  "dna": "8e6ae5dfc9f55a6661d6fccd1a9019144005640b",
   "edition": 490,
-  "date": 1660735823094,
+  "date": 1663609840056,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Brook"
+      "value": "Pedro"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

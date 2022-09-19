@@ -1,26 +1,26 @@
 {
-  "name": "Lucas #34",
+  "name": "Jazmie #34",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/34.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/34.png",
-  "dna": "05ba62027543a767bd5ffcae875cc863c44404be",
+  "dna": "16710a955c626db402b233f6d7c93a392e1cdd6f",
   "edition": 34,
-  "date": 1660735821163,
+  "date": 1663609838378,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Bucket",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Lucas"
+      "value": "Jazmie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

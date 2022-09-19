@@ -1,21 +1,21 @@
 {
-  "name": "Boomer #252",
+  "name": "Tommy #252",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/252.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/252.png",
-  "dna": "9a6bc05c9e226f2fdf308122fdf66143c003fccc",
+  "dna": "6c8ce149e060062144f4fb15b15948b5cc0042e8",
   "edition": 252,
-  "date": 1660735822127,
+  "date": 1663609839188,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Boomer"
+      "value": "Tommy"
     },
     {
       "trait_type": "Rarity",

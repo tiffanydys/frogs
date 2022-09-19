@@ -1,26 +1,26 @@
 {
-  "name": "Frankie #318",
+  "name": "Sophie #318",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/318.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/318.png",
-  "dna": "2077fc89e4cc8500ec2240a49e718c5a21be89ec",
+  "dna": "36ec33d23c2f31b38ce9978932e103d0dee401ae",
   "edition": 318,
-  "date": 1660735822399,
+  "date": 1663609839428,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Fedora",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Frankie"
+      "value": "Sophie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

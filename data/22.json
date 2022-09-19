@@ -1,25 +1,25 @@
 {
-  "name": "Milo #22",
+  "name": "Moose #22",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/22.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/22.png",
-  "dna": "8c153cb1bb40b33f9ea5a0d0bf19ea6760a0252b",
+  "dna": "a1c0ffa07672b866f23570341615fb5da7757c2f",
   "edition": 22,
-  "date": 1660735821095,
+  "date": 1663609838338,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Turban",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Milo"
+      "value": "Moose"
     },
     {
       "trait_type": "Rarity",

@@ -1,26 +1,26 @@
 {
-  "name": "Patch #210",
+  "name": "Birdy #210",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/210.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/210.png",
-  "dna": "f76e801925cd60c8dc3594d33060b2b14f20bf58",
+  "dna": "8f0cd2d35f3d0359307be6be6f7e072f32a56dec",
   "edition": 210,
-  "date": 1660735821981,
+  "date": 1663609839030,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
-      "rarity": "Uncommon"
+      "value": "Headband",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Patch"
+      "value": "Birdy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

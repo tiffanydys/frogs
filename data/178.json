@@ -1,26 +1,26 @@
 {
-  "name": "Spike #178",
+  "name": "Madison #178",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/178.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/178.png",
-  "dna": "3a0ed43293a09cc7ae2480da4ac60924a54d7f0f",
+  "dna": "81341129d3f94f8bf4524e4d1617c92568dd5e9a",
   "edition": 178,
-  "date": 1660735821872,
+  "date": 1663609838911,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Red Wool",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Spike"
+      "value": "Madison"
     },
     {
       "trait_type": "Rarity",

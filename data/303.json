@@ -1,25 +1,25 @@
 {
-  "name": "Greta #303",
+  "name": "Ruthie #303",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/303.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/303.png",
-  "dna": "e0afc6269ddfb024f93d205470b1c664270cc49a",
+  "dna": "66ed76bc60a7a0f919c8cfcab02c5bd6ac46a6a2",
   "edition": 303,
-  "date": 1660735822342,
+  "date": 1663609839374,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Beret",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Greta"
+      "value": "Ruthie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

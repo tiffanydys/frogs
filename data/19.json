@@ -1,21 +1,21 @@
 {
-  "name": "Mercedes #19",
+  "name": "Mason #19",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/19.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/19.png",
-  "dna": "e78e6d395250f4f569c89411b6044456292b299d",
+  "dna": "78f00e9cfd1bff5a46bf5c97e5caf2f0a0936fbc",
   "edition": 19,
-  "date": 1660735821080,
+  "date": 1663609838327,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mercedes"
+      "value": "Mason"
     },
     {
       "trait_type": "Rarity",

@@ -1,26 +1,26 @@
 {
-  "name": "Charmer #299",
+  "name": "Ruffer #299",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/299.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/299.png",
-  "dna": "040b116ae5d97a0f84b4ee7fa5f7e6303edbbd89",
+  "dna": "28ed5c16b8dca7c6d99dd4217528f035dfff3c30",
   "edition": 299,
-  "date": 1660735822325,
+  "date": 1663609839360,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "5 Color",
-      "rarity": "Legendary"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Charmer"
+      "value": "Ruffer"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

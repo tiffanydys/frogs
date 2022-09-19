@@ -1,11 +1,11 @@
 {
-  "name": "Frisco #3",
+  "name": "Tessie #3",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/3.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/3.png",
-  "dna": "2d7f3fae0e63ec1a74d920a733cba5303037ea3d",
+  "dna": "d54ed707c74492e228861e3893494ecbb1496a89",
   "edition": 3,
-  "date": 1660735821003,
+  "date": 1663609838261,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Frisco"
+      "value": "Tessie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

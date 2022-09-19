@@ -1,11 +1,11 @@
 {
-  "name": "Rambo #198",
+  "name": "Roscoe #198",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/198.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/198.png",
-  "dna": "63bba05e8fa0f9adb72e48a8e543fb403477f2d4",
+  "dna": "9a96af4ce82a6394968466a2a20399ebb12c3f35",
   "edition": 198,
-  "date": 1660735821936,
+  "date": 1663609838987,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,8 +14,8 @@
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Rambo"
+      "value": "Roscoe"
     },
     {
       "trait_type": "Rarity",

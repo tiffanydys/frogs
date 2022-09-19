@@ -1,11 +1,11 @@
 {
-  "name": "Pretty #294",
+  "name": "Megan #294",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/294.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/294.png",
-  "dna": "2e9dc636d84b548e5de6b3eabbb69cb53df49803",
+  "dna": "a7deb8f727c67aa734856655cb576a23f323fcdf",
   "edition": 294,
-  "date": 1660735822290,
+  "date": 1663609839343,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard",
-      "rarity": "Rare"
+      "value": "Viking",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pretty"
+      "value": "Megan"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

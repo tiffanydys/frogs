@@ -1,26 +1,26 @@
 {
-  "name": "Bradley #456",
+  "name": "Biablo #456",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/456.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/456.png",
-  "dna": "ad6fd93916d64e9361025893ad0c08e2a6a75043",
+  "dna": "866b750186130925696f37864ca5b9cb7ab006db",
   "edition": 456,
-  "date": 1660735822940,
+  "date": 1663609839942,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
-      "trait_type": "Hat",
-      "value": "Captain",
+      "trait_type": "Base",
+      "value": "Blue",
       "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Beret",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bradley"
+      "value": "Biablo"
     },
     {
       "trait_type": "Rarity",

@@ -1,25 +1,25 @@
 {
-  "name": "Linus #234",
+  "name": "Toffee #234",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/234.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/234.png",
-  "dna": "a832961880a366e5a6615c0a7f34f5db5c0299e4",
+  "dna": "3f942ab437a42d004bf021f2c9e6bb4d356a1d23",
   "edition": 234,
-  "date": 1660735822066,
+  "date": 1663609839118,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Linus"
+      "value": "Toffee"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

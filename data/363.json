@@ -1,16 +1,16 @@
 {
-  "name": "Maggie-mae #363",
+  "name": "Mcduff #363",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/363.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/363.png",
-  "dna": "aa10bf64d1bf8d4d3533648aa1dda7360bd229f4",
+  "dna": "e4b1a1935b46d0b44347dcfd4e6cd4fef1fdd17a",
   "edition": 363,
-  "date": 1660735822574,
+  "date": 1663609839581,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
-      "rarity": "Uncommon"
+      "value": "Bucket",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Maggie-mae"
+      "value": "Mcduff"
     },
     {
       "trait_type": "Rarity",

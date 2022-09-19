@@ -1,25 +1,25 @@
 {
-  "name": "Woody #141",
+  "name": "Barclay #141",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/141.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/141.png",
-  "dna": "2cb86b9bdf66c0262363482207e68736bc7a6775",
+  "dna": "15ded3aaf0316d8de916276b0432a7ddffcc0dee",
   "edition": 141,
-  "date": 1660735821703,
+  "date": 1663609838787,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Woody"
+      "value": "Barclay"
     },
     {
       "trait_type": "Rarity",

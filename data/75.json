@@ -1,25 +1,25 @@
 {
-  "name": "Tangles #75",
+  "name": "June #75",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/75.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/75.png",
-  "dna": "2e2a420bb37fc52864a80ccfdbe535f8b54fe2a3",
+  "dna": "ea7b7de0ce7be8d19232862b23f5e378b4936789",
   "edition": 75,
-  "date": 1660735821455,
+  "date": 1663609838538,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tangles"
+      "value": "June"
     },
     {
       "trait_type": "Rarity",

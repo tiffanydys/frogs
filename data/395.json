@@ -1,25 +1,25 @@
 {
-  "name": "Sierra #395",
+  "name": "Yeller #395",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/395.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/395.png",
-  "dna": "0447a28b1a67483916b7a7433c9cd4dfc82713ce",
+  "dna": "2f183ea5608888b92d32dd84d1ca6a5a6b2b2f37",
   "edition": 395,
-  "date": 1660735822680,
+  "date": 1663609839696,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "5 Color",
-      "rarity": "Legendary"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Straw Hat",
+      "value": "Beret",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sierra"
+      "value": "Yeller"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

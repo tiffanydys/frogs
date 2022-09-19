@@ -1,11 +1,11 @@
 {
-  "name": "Roxie #63",
+  "name": "Lincoln #63",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/63.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/63.png",
-  "dna": "c3e376c4515a298d243d367398182b6e1af99f71",
+  "dna": "d5c2483ae30f2bf28ed54487b072fbe82c51861a",
   "edition": 63,
-  "date": 1660735821399,
+  "date": 1663609838497,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Roxie"
+      "value": "Lincoln"
     },
     {
       "trait_type": "Rarity",

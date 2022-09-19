@@ -1,16 +1,16 @@
 {
-  "name": "Snoopy #420",
+  "name": "Sawyer #420",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/420.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/420.png",
-  "dna": "881182d9ce8317f81011521f044a793bf6fa9203",
+  "dna": "2762f53c6c8a63a545d9c55ff33ff39b27bc39c3",
   "edition": 420,
-  "date": 1660735822766,
+  "date": 1663609839802,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Watermelon",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Viking",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Snoopy"
+      "value": "Sawyer"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

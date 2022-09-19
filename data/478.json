@@ -1,26 +1,26 @@
 {
-  "name": "Teddy #478",
+  "name": "Misty #478",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/478.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/478.png",
-  "dna": "d78ff06572e74175eeb04f0f4ae56070af6d750c",
+  "dna": "a63c461873f852608710ee314189267d6a873fe8",
   "edition": 478,
-  "date": 1660735823044,
+  "date": 1663609840017,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Rainbow",
+      "value": "5 Color",
       "rarity": "Legendary"
     },
     {
-      "trait_type": "Hat",
-      "value": "Fez",
+      "trait_type": "Base",
+      "value": "Orange",
       "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Teddy"
+      "value": "Misty"
     },
     {
       "trait_type": "Rarity",

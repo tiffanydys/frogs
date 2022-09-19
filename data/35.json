@@ -1,26 +1,26 @@
 {
-  "name": "Sox #35",
+  "name": "Tibor #35",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/35.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/35.png",
-  "dna": "bd20e0667aecf799c9de742b65c07369ed12d09f",
+  "dna": "d40a6e7a578a92064071fad369608fb1b8436a52",
   "edition": 35,
-  "date": 1660735821192,
+  "date": 1663609838383,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
-      "rarity": "Uncommon"
+      "value": "Sunflower",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sox"
+      "value": "Tibor"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

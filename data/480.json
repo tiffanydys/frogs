@@ -1,25 +1,25 @@
 {
-  "name": "Samantha #480",
+  "name": "Ace #480",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/480.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/480.png",
-  "dna": "80aaf30b50cfcbcbf62391a3ea9b31fcc9e08f37",
+  "dna": "aac1b4954eeeb88640248d0384d4239457328769",
   "edition": 480,
-  "date": 1660735823053,
+  "date": 1663609840024,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Viking",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Samantha"
+      "value": "Ace"
     },
     {
       "trait_type": "Rarity",

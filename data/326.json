@@ -1,11 +1,11 @@
 {
-  "name": "Tinkerbell #326",
+  "name": "Troy #326",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/326.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/326.png",
-  "dna": "d3b3ab618d0ecc8d08a2c18a7748ac56c2324bce",
+  "dna": "190e493455e7ec328aff72ad540fea8e7c1ca016",
   "edition": 326,
-  "date": 1660735822427,
+  "date": 1663609839458,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,8 +14,8 @@
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tinkerbell"
+      "value": "Troy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

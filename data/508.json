@@ -1,26 +1,26 @@
 {
-  "name": "Ruchus #508",
+  "name": "Luke #508",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/508.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/508.png",
-  "dna": "eac768e91a4611a98ff76bc6ed632028d4db5611",
+  "dna": "8ab85beda82aa48c4251dc27703ce6f25664860c",
   "edition": 508,
-  "date": 1660735823173,
+  "date": 1663609840135,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
-      "rarity": "Uncommon"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ruchus"
+      "value": "Luke"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

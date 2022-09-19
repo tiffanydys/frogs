@@ -1,25 +1,25 @@
 {
-  "name": "Napoleon #55",
+  "name": "Buck #55",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/55.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/55.png",
-  "dna": "6bcec3fec7a386a533156feb62f228314a5c4abe",
+  "dna": "f1750e93f1d85b78b5dae06bd21e5cef5c9e1548",
   "edition": 55,
-  "date": 1660735821347,
+  "date": 1663609838463,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Napoleon"
+      "value": "Buck"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,11 +1,11 @@
 {
-  "name": "Madison #105",
+  "name": "Thor #105",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/105.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/105.png",
-  "dna": "f7a049bf6bfe4c5db5d1dc5390b48f1d9f2e2ebc",
+  "dna": "b0e2f20f106662733e80af527fb29a9c63174aa6",
   "edition": 105,
-  "date": 1660735821564,
+  "date": 1663609838650,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Fez",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Madison"
+      "value": "Thor"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

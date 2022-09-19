@@ -1,26 +1,26 @@
 {
-  "name": "Sammy #445",
+  "name": "Cleo #445",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/445.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/445.png",
-  "dna": "81771251bd0d0af26a62c627a60bcf54f85cef78",
+  "dna": "2b91f318be1af85ba2cd6a1b0663c919a1ea0d06",
   "edition": 445,
-  "date": 1660735822879,
+  "date": 1663609839896,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "Red Helmet",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sammy"
+      "value": "Cleo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

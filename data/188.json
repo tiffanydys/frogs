@@ -1,25 +1,25 @@
 {
-  "name": "Guinness #188",
+  "name": "Puddles #188",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/188.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/188.png",
-  "dna": "87bdd99619abfcb32de95a03e0a22f835eeb22e2",
+  "dna": "b47c0dd2d43b4c672cd9ca83a0ebeebc3b91f0b5",
   "edition": 188,
-  "date": 1660735821904,
+  "date": 1663609838948,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Guinness"
+      "value": "Puddles"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

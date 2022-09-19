@@ -1,26 +1,26 @@
 {
-  "name": "Homer #319",
+  "name": "Bob #319",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/319.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/319.png",
-  "dna": "6960631467ac2d820012f33ca93e5aaeacf82594",
+  "dna": "db169f917cff2b4e5a4b1226ead18d89bab6b549",
   "edition": 319,
-  "date": 1660735822403,
+  "date": 1663609839432,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
-      "rarity": "Uncommon"
+      "value": "Red Helmet",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Homer"
+      "value": "Bob"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

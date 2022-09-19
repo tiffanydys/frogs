@@ -1,26 +1,26 @@
 {
-  "name": "Jewels #218",
+  "name": "Rosie #218",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/218.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/218.png",
-  "dna": "2144de055dbf71ce5dab699830708c0c9253eed2",
+  "dna": "0a9596a957d5b8d62a9166d985a1ee6c94a3c5f0",
   "edition": 218,
-  "date": 1660735822011,
+  "date": 1663609839056,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Pharaoh",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jewels"
+      "value": "Rosie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

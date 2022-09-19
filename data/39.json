@@ -1,26 +1,26 @@
 {
-  "name": "Poncho #39",
+  "name": "Chamberlain #39",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/39.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/39.png",
-  "dna": "2e260affdb735e502f0162b572b87138a2d296be",
+  "dna": "c1e8fe5fca037b1fb4019bc563c61731f79346c9",
   "edition": 39,
-  "date": 1660735821218,
+  "date": 1663609838398,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Bucket",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Poncho"
+      "value": "Chamberlain"
     },
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Darwin #291",
+  "name": "Brodie #291",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/291.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/291.png",
-  "dna": "a74d0c45bc7c165f6ceffd3c902a0d7efd4cb5b5",
+  "dna": "143f657156ce1641603211d2d918782596758496",
   "edition": 291,
-  "date": 1660735822278,
+  "date": 1663609839332,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Darwin"
+      "value": "Brodie"
     },
     {
       "trait_type": "Rarity",

@@ -1,26 +1,26 @@
 {
-  "name": "Dino #399",
+  "name": "Rosy #399",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/399.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/399.png",
-  "dna": "5517d6595aa46a630891f8a4d8a39668dc84cf85",
+  "dna": "709c055e21b356ed48c3adb47a216d4682318ed5",
   "edition": 399,
-  "date": 1660735822697,
+  "date": 1663609839712,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
-      "rarity": "Uncommon"
+      "value": "Headset",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dino"
+      "value": "Rosy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

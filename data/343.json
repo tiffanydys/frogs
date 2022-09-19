@@ -1,26 +1,26 @@
 {
-  "name": "Waddles #343",
+  "name": "Chip #343",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/343.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/343.png",
-  "dna": "947ee704bd46319acbc469cd0843828e9f2f42b8",
+  "dna": "70eb87edd7d66af3be16958397b64335c9b682b5",
   "edition": 343,
-  "date": 1660735822494,
+  "date": 1663609839513,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Gold Helmet",
-      "rarity": "Legendary"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Waddles"
+      "value": "Chip"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

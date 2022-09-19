@@ -1,16 +1,16 @@
 {
-  "name": "Pedro #95",
+  "name": "Diva #95",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/95.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/95.png",
-  "dna": "8b90e478b7ab30090fbd1d86fefac1db9051e144",
+  "dna": "0c112b6dfbb21d43d0b363c5a5e4b8d2a3c273fa",
   "edition": 95,
-  "date": 1660735821531,
+  "date": 1663609838610,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Beanie",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pedro"
+      "value": "Diva"
     },
     {
       "trait_type": "Rarity",

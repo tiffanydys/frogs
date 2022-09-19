@@ -1,26 +1,26 @@
 {
-  "name": "Shiloh #278",
+  "name": "Flash #278",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/278.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/278.png",
-  "dna": "cef34c944c592355795f96797651b25876897bed",
+  "dna": "6c2dcb63ee7c9c8321cdf5bb0c9f38f3841aaa9c",
   "edition": 278,
-  "date": 1660735822225,
+  "date": 1663609839285,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
-      "rarity": "Uncommon"
+      "value": "Commander",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Shiloh"
+      "value": "Flash"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

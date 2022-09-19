@@ -1,16 +1,16 @@
 {
-  "name": "Spunky #443",
+  "name": "Prissy #443",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/443.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/443.png",
-  "dna": "b8ce91b79bf065390580530d5751901a5fcf5fb2",
+  "dna": "106840406e6fb7903a7fd189559bbcab96475cb6",
   "edition": 443,
-  "date": 1660735822866,
+  "date": 1663609839889,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Watermelon",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
-      "rarity": "Uncommon"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Spunky"
+      "value": "Prissy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

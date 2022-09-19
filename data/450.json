@@ -1,26 +1,26 @@
 {
-  "name": "Yang #450",
+  "name": "Munchkin #450",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/450.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/450.png",
-  "dna": "13cccce8b2af481abcc147be853c8f0f6060218a",
+  "dna": "ce6906fd2e1235de6031a634453db5cdd622b9a6",
   "edition": 450,
-  "date": 1660735822909,
+  "date": 1663609839913,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "Bandana",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Yang"
+      "value": "Munchkin"
     },
     {
       "trait_type": "Rarity",

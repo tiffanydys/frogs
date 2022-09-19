@@ -1,11 +1,11 @@
 {
-  "name": "Shady #322",
+  "name": "Stuart #322",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/322.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/322.png",
-  "dna": "0c92ca6dbc3f809ba75511939c65ca9ba3adc413",
+  "dna": "eea3e85e69c5ee00fa9d58dbfd7c1cc802b1bbc2",
   "edition": 322,
-  "date": 1660735822413,
+  "date": 1663609839444,
   "attributes": [
     {
       "trait_type": "Float",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Cowboy",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Shady"
+      "value": "Stuart"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

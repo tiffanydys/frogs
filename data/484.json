@@ -1,11 +1,11 @@
 {
-  "name": "Miasy #484",
+  "name": "Mulligan #484",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/484.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/484.png",
-  "dna": "d8059fd7dd0ddd091b4be5ef3179bd0bf4fa60cf",
+  "dna": "bee0b17dc5ee368dae604334e8b51da04ac3268e",
   "edition": 484,
-  "date": 1660735823070,
+  "date": 1663609840037,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
-      "rarity": "Uncommon"
+      "value": "Bucket",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Miasy"
+      "value": "Mulligan"
     },
     {
       "trait_type": "Rarity",

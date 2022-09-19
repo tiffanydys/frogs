@@ -1,15 +1,15 @@
 {
-  "name": "Honey #50",
+  "name": "Kiko #50",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/50.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/50.png",
-  "dna": "48e632e499c44d830f10b13f3a34bcffc46eac48",
+  "dna": "9a632bb9f7b7619168c0f1b7dc9f2ca22570b2de",
   "edition": 50,
-  "date": 1660735821316,
+  "date": 1663609838438,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Commander",
-      "rarity": "Rare"
+      "value": "Bandana",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Honey"
+      "value": "Kiko"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

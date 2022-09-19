@@ -1,26 +1,26 @@
 {
-  "name": "Zeus #28",
+  "name": "Samantha #28",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/28.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/28.png",
-  "dna": "0f70692210e5803853b54b0e59ccd99534697445",
+  "dna": "6512d8a4696355cc104108fe7b021345a4f2f00a",
   "edition": 28,
-  "date": 1660735821130,
+  "date": 1663609838358,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
-      "rarity": "Uncommon"
+      "value": "Commander",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Zeus"
+      "value": "Samantha"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

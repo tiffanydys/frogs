@@ -1,16 +1,16 @@
 {
-  "name": "Ziggy #32",
+  "name": "Paris #32",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/32.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/32.png",
-  "dna": "1b94a29bce6f4121efe561b6eb73a1471cbda5d4",
+  "dna": "1fa78ecfbda5b80b120ed2d63b105c182555b39a",
   "edition": 32,
-  "date": 1660735821152,
+  "date": 1663609838371,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Private",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ziggy"
+      "value": "Paris"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

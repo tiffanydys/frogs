@@ -1,26 +1,26 @@
 {
-  "name": "Shelly #444",
+  "name": "Diego #444",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/444.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/444.png",
-  "dna": "6a3a1493bd1ba85255c02df61f97546f26c2631e",
+  "dna": "13ac1a3fbac41986a47dc22fb654c06d52f50166",
   "edition": 444,
-  "date": 1660735822872,
+  "date": 1663609839893,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
-      "rarity": "Uncommon"
+      "value": "Headset White",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Shelly"
+      "value": "Diego"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

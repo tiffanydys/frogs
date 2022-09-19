@@ -1,25 +1,25 @@
 {
-  "name": "Zoe #235",
+  "name": "Dallas #235",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/235.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/235.png",
-  "dna": "826746ceab2922ca3fcb266d6c9f472d6ce63012",
+  "dna": "0c2e136172a72ca18e4f32a29bd82a89271d809a",
   "edition": 235,
-  "date": 1660735822069,
+  "date": 1663609839122,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Headband",
+      "value": "Headset Black",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Zoe"
+      "value": "Dallas"
     },
     {
       "trait_type": "Rarity",

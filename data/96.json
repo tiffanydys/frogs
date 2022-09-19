@@ -1,25 +1,25 @@
 {
-  "name": "Dudley #96",
+  "name": "Lapo #96",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/96.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/96.png",
-  "dna": "79a785c2f1c99e81e56023b0ec283349d9c60dec",
+  "dna": "488fb124937c427f98e8e70d16fbfaaf850ad34d",
   "edition": 96,
-  "date": 1660735821534,
+  "date": 1663609838616,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
+      "value": "Leprechaun",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dudley"
+      "value": "Lapo"
     },
     {
       "trait_type": "Rarity",

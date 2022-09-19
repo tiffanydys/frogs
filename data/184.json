@@ -1,25 +1,25 @@
 {
-  "name": "Buttons #184",
+  "name": "Tramp #184",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/184.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/184.png",
-  "dna": "3eb1ad8166ff77e1d5ce2d26b8b9f6271752072b",
+  "dna": "a8b8ba6c4e248652ffd2d8cc9ac01a436e78645b",
   "edition": 184,
-  "date": 1660735821892,
+  "date": 1663609838933,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Buttons"
+      "value": "Tramp"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

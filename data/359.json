@@ -1,26 +1,26 @@
 {
-  "name": "Roscoe #359",
+  "name": "Tiki #359",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/359.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/359.png",
-  "dna": "4dc457afc577aaf39e054087bcdc3db2b51a6d21",
+  "dna": "046f1da21ffc7737846036de30fe7ae73d582577",
   "edition": 359,
-  "date": 1660735822559,
+  "date": 1663609839567,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Halo",
-      "rarity": "Legendary"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Roscoe"
+      "value": "Tiki"
     },
     {
       "trait_type": "Rarity",

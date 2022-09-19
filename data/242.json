@@ -1,25 +1,25 @@
 {
-  "name": "Dutches #242",
+  "name": "Spike #242",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/242.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/242.png",
-  "dna": "5351620a43233801afc6155d0789af829e506352",
+  "dna": "bdfe4dd4acc84222b4799c884c782cedd2f0220b",
   "edition": 242,
-  "date": 1660735822092,
+  "date": 1663609839151,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Leprechaun",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dutches"
+      "value": "Spike"
     },
     {
       "trait_type": "Rarity",

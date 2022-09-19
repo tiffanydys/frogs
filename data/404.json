@@ -1,11 +1,11 @@
 {
-  "name": "Sabine #404",
+  "name": "Rambler #404",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/404.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/404.png",
-  "dna": "b722d50bc33a863ffe7f84cf0a2454de06cc40b5",
+  "dna": "fe9c1d68fab60cb8dd1b8cbe3703cbb16053e469",
   "edition": 404,
-  "date": 1660735822715,
+  "date": 1663609839733,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cowboy",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sabine"
+      "value": "Rambler"
     },
     {
       "trait_type": "Rarity",

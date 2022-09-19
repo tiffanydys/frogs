@@ -1,26 +1,26 @@
 {
-  "name": "Schotzie #416",
+  "name": "Sasha #416",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/416.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/416.png",
-  "dna": "2bfebdba336ae6ea0e18ade05e9ceaa0d3f310a9",
+  "dna": "c5a27d2571bb286f0363bed45efd030f9666b52d",
   "edition": 416,
-  "date": 1660735822755,
+  "date": 1663609839786,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Blue",
+      "value": "2 Color",
       "rarity": "Rare"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Bandana",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Schotzie"
+      "value": "Sasha"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

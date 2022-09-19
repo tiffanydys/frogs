@@ -1,25 +1,25 @@
 {
-  "name": "Diego #331",
+  "name": "King #331",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/331.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/331.png",
-  "dna": "6953cf7c9dabac50c21587ff8b1182cb07fc6010",
+  "dna": "f6901e3d55905f5e23b0b14fa155c7bf41f98297",
   "edition": 331,
-  "date": 1660735822446,
+  "date": 1663609839476,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Diego"
+      "value": "King"
     },
     {
       "trait_type": "Rarity",

@@ -1,25 +1,25 @@
 {
-  "name": "Mattie #78",
+  "name": "Michael #78",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/78.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/78.png",
-  "dna": "6cafb041c476280dd0cbdc17f48928e9b586d2d9",
+  "dna": "264571f45dc44cd3116731f3810b09afd3463b8b",
   "edition": 78,
-  "date": 1660735821467,
+  "date": 1663609838549,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mattie"
+      "value": "Michael"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

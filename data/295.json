@@ -1,26 +1,26 @@
 {
-  "name": "Fiona #295",
+  "name": "Sunflower #295",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/295.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/295.png",
-  "dna": "d2e85ccf1d6fa313206a479f765ef21de5775c65",
+  "dna": "c0d66149e4ba6ff25045025e340091c32c3a9aa5",
   "edition": 295,
-  "date": 1660735822294,
+  "date": 1663609839347,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Fiona"
+      "value": "Sunflower"
     },
     {
       "trait_type": "Rarity",

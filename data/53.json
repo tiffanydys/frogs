@@ -1,25 +1,25 @@
 {
-  "name": "Jingles #53",
+  "name": "Nickers #53",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/53.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/53.png",
-  "dna": "501c34cf32d6b84a0296fd21e5d449da2c149157",
+  "dna": "9249035e8ba0deb6a3d6af647aadff4b5031b6ac",
   "edition": 53,
-  "date": 1660735821336,
+  "date": 1663609838453,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "3 Color",
-      "rarity": "Epic"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jingles"
+      "value": "Nickers"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

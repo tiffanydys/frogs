@@ -1,25 +1,25 @@
 {
-  "name": "Kerry #377",
+  "name": "Yang #377",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/377.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/377.png",
-  "dna": "03169bc7f57f0a9b672b6b74b8901f69f1473753",
+  "dna": "f300fe0ea1c4da885a4b755dfb4bfb232270a1df",
   "edition": 377,
-  "date": 1660735822621,
+  "date": 1663609839632,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kerry"
+      "value": "Yang"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

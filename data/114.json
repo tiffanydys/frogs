@@ -1,25 +1,25 @@
 {
-  "name": "Duffy #114",
+  "name": "Nona #114",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/114.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/114.png",
-  "dna": "9cc2b6a26a0566125fa77d31a568232312ff59d6",
+  "dna": "13ae5713b0a908c05addb6485677d66922b47058",
   "edition": 114,
-  "date": 1660735821597,
+  "date": 1663609838685,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Duffy"
+      "value": "Nona"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

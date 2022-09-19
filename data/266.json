@@ -1,25 +1,25 @@
 {
-  "name": "Porter #266",
+  "name": "Mckenzie #266",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/266.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/266.png",
-  "dna": "d7538203bf0bfec4a973f8c6f8594fff88c3b6d3",
+  "dna": "adb2363c49700d021a4605eed9a9d458f9abf7ba",
   "edition": 266,
-  "date": 1660735822177,
+  "date": 1663609839238,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
+      "value": "Straw Hat",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Porter"
+      "value": "Mckenzie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

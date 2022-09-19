@@ -1,25 +1,25 @@
 {
-  "name": "Wilson #288",
+  "name": "Ash #288",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/288.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/288.png",
-  "dna": "31d17d46a8074089fbc6eea8e57a8a0637c6dabb",
+  "dna": "da3673f9e26704128674da53874ab63256cf5b2a",
   "edition": 288,
-  "date": 1660735822266,
+  "date": 1663609839322,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Wilson"
+      "value": "Ash"
     },
     {
       "trait_type": "Rarity",

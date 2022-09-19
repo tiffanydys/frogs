@@ -1,25 +1,25 @@
 {
-  "name": "Kenya #309",
+  "name": "Aloe #309",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/309.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/309.png",
-  "dna": "b137749cab38bd2530e24b7d8ceb7bb400abf5c5",
+  "dna": "d6c01d03c8a63cceab83eef9e3b376ba50443a58",
   "edition": 309,
-  "date": 1660735822364,
+  "date": 1663609839394,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Fedora",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kenya"
+      "value": "Aloe"
     },
     {
       "trait_type": "Rarity",

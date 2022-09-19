@@ -1,25 +1,25 @@
 {
-  "name": "Reilly #238",
+  "name": "Wizard #238",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/238.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/238.png",
-  "dna": "ee3cf4216de6a9799ef97007faa05b9d67b65d6b",
+  "dna": "83410c448e41fb1b3c5366d8fb6113e154a54da9",
   "edition": 238,
-  "date": 1660735822080,
+  "date": 1663609839135,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cowboy",
+      "value": "Beanie",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Reilly"
+      "value": "Wizard"
     },
     {
       "trait_type": "Rarity",

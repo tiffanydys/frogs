@@ -1,26 +1,26 @@
 {
-  "name": "Charisma #16",
+  "name": "Bodacious #16",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/16.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/16.png",
-  "dna": "6b3650beb6a49f0bacd796fc136b0d4f7c876f07",
+  "dna": "150cae4e18923608b0354c69dd82535e69c12ce2",
   "edition": 16,
-  "date": 1660735821065,
+  "date": 1663609838312,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Headband",
-      "rarity": "Epic"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Charisma"
+      "value": "Bodacious"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

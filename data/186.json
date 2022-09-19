@@ -1,25 +1,25 @@
 {
-  "name": "Butterball #186",
+  "name": "Koty #186",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/186.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/186.png",
-  "dna": "0e3cebadae93cfff132457d49731302183250319",
+  "dna": "38ca05efb34b4fb6652e96075642eb3e3ab41b0d",
   "edition": 186,
-  "date": 1660735821898,
+  "date": 1663609838940,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Straw Hat",
+      "value": "Fedora",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Butterball"
+      "value": "Koty"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

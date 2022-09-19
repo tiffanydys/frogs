@@ -1,26 +1,26 @@
 {
-  "name": "Skye #192",
+  "name": "Francais #192",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/192.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/192.png",
-  "dna": "9858cb4d009b0927bcb99c22bddc07b3a7eda55d",
+  "dna": "ace41f2539a084b0fa4434c441dc7255c40545e3",
   "edition": 192,
-  "date": 1660735821916,
+  "date": 1663609838963,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Skye"
+      "value": "Francais"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

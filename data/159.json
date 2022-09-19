@@ -1,15 +1,15 @@
 {
-  "name": "Persy #159",
+  "name": "Julio #159",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/159.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/159.png",
-  "dna": "b1c32a59d75029438557fd3c8eb13a6e8b8e3987",
+  "dna": "3a71e1f02cd2a54aee522e49993743d2ab9628af",
   "edition": 159,
-  "date": 1660735821771,
+  "date": 1663609838847,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Persy"
+      "value": "Julio"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Common"
     }
   ],
   "compiler": "HashLips Art Engine",

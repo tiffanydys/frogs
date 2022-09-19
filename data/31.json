@@ -1,25 +1,25 @@
 {
-  "name": "Koko #31",
+  "name": "Gizmo #31",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/31.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/31.png",
-  "dna": "c023be051e98eb96f5800173c0d452855b51c9a4",
+  "dna": "97d457eb83b88053e4eb9cf7f5907947b40fcb77",
   "edition": 31,
-  "date": 1660735821148,
+  "date": 1663609838368,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Blue",
+      "value": "2 Color",
       "rarity": "Rare"
     },
     {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Leprechaun",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Koko"
+      "value": "Gizmo"
     },
     {
       "trait_type": "Rarity",

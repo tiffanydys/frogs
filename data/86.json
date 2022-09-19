@@ -1,11 +1,11 @@
 {
-  "name": "Piggy #86",
+  "name": "Frisky #86",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/86.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/86.png",
-  "dna": "ee43b018aa12b3e3943f5a4065da2223f96b70c2",
+  "dna": "6f917db7f81073b769d40e86a41f1a99738aec32",
   "edition": 86,
-  "date": 1660735821499,
+  "date": 1663609838576,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
-      "rarity": "Uncommon"
+      "value": "Commander",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Piggy"
+      "value": "Frisky"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "May #30",
+  "name": "Bambi #30",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/30.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/30.png",
-  "dna": "5f8c8527c80f8b6eff5d94645540b5932931ff50",
+  "dna": "b096424e4b2a67b244b9ed662a20109675841486",
   "edition": 30,
-  "date": 1660735821144,
+  "date": 1663609838365,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Cone",
-      "rarity": "Epic"
+      "value": "Straw Hat",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "May"
+      "value": "Bambi"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,21 +1,21 @@
 {
-  "name": "Bucky #287",
+  "name": "Wolfie #287",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/287.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/287.png",
-  "dna": "315cdac748b61129f279514a2eb58a7255bcf5a4",
+  "dna": "a232d26cd0521c4b4436880c1cc6bc2442f59cbd",
   "edition": 287,
-  "date": 1660735822260,
+  "date": 1663609839316,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "3 Color",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bucky"
+      "value": "Wolfie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Tigger #264",
+  "name": "Speed #264",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/264.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/264.png",
-  "dna": "3bb8e2ad2532bf98d1b6373661095953737be5c8",
+  "dna": "b292bc1c22d1ac98c79837a48ec5f7eb21b0ab86",
   "edition": 264,
-  "date": 1660735822168,
+  "date": 1663609839230,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "5 Color",
-      "rarity": "Legendary"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tigger"
+      "value": "Speed"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

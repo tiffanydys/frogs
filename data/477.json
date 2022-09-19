@@ -1,15 +1,15 @@
 {
-  "name": "Kibbles #477",
+  "name": "Buster #477",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/477.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/477.png",
-  "dna": "658d53dddf847202fb1b7d57eac172eb46716d6e",
+  "dna": "e17dbee50021c4516fe8a99f54139a79390b612b",
   "edition": 477,
-  "date": 1660735823040,
+  "date": 1663609840014,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kibbles"
+      "value": "Buster"
     },
     {
       "trait_type": "Rarity",

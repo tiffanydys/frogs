@@ -1,26 +1,26 @@
 {
-  "name": "Lizzy #1",
+  "name": "Ashley #1",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/1.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/1.png",
-  "dna": "16eaa6a3b71b1b62b2378d44669b39b43b42f0b1",
+  "dna": "18955e111fa1d8fa7585ea2a1cd66e6d7044b4be",
   "edition": 1,
-  "date": 1660735820987,
+  "date": 1663609838254,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
-      "rarity": "Uncommon"
+      "value": "Gold Helmet",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Lizzy"
+      "value": "Ashley"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

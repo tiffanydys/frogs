@@ -1,25 +1,25 @@
 {
-  "name": "Luke #255",
+  "name": "Henry #255",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/255.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/255.png",
-  "dna": "629689ce203ead66022a35878de3a20cfc1120be",
+  "dna": "5eca42ebc3e4d2fd35127cedc0b49475a24aef46",
   "edition": 255,
-  "date": 1660735822136,
+  "date": 1663609839198,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Luke"
+      "value": "Henry"
     },
     {
       "trait_type": "Rarity",

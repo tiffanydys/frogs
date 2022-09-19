@@ -1,26 +1,26 @@
 {
-  "name": "Clifford #370",
+  "name": "Arrow #370",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/370.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/370.png",
-  "dna": "546f238408cda1e88538c24ac97bbd54ddfd5453",
+  "dna": "e430be027b718155fa4c00a04cb2cd9da8212786",
   "edition": 370,
-  "date": 1660735822600,
+  "date": 1663609839608,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Cap",
-      "rarity": "Uncommon"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Clifford"
+      "value": "Arrow"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Cutie #273",
+  "name": "Dumdum #273",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/273.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/273.png",
-  "dna": "866c5985b26d77bfedd4ceb69a52d8e649a78a6b",
+  "dna": "3527c21ff0acbb4c30abd261fa251fd8415882e3",
   "edition": 273,
-  "date": 1660735822205,
+  "date": 1663609839266,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Gold Helmet",
-      "rarity": "Legendary"
+      "value": "Beret",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cutie"
+      "value": "Dumdum"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

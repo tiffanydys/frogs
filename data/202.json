@@ -1,26 +1,26 @@
 {
-  "name": "Reggie #202",
+  "name": "Piggy #202",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/202.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/202.png",
-  "dna": "4eb62cc0c3167adb29afc41b3e8cb78467c14a3d",
+  "dna": "1b7231aa3406cd205142f72748bc9b33791a0926",
   "edition": 202,
-  "date": 1660735821950,
+  "date": 1663609839003,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Fez",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Reggie"
+      "value": "Piggy"
     },
     {
       "trait_type": "Rarity",

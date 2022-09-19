@@ -1,26 +1,26 @@
 {
-  "name": "Happyt #191",
+  "name": "Okicko #191",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/191.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/191.png",
-  "dna": "55195047352b40e50975cf63d34a140a1737b5a9",
+  "dna": "1620f8dcd9c2c342fd440984e1564f461d1d29c4",
   "edition": 191,
-  "date": 1660735821913,
+  "date": 1663609838959,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
-      "rarity": "Rare"
+      "value": "Pirate",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Happyt"
+      "value": "Okicko"
     },
     {
       "trait_type": "Rarity",

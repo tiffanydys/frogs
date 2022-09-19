@@ -1,11 +1,11 @@
 {
-  "name": "Chrissy #427",
+  "name": "Flint #427",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/427.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/427.png",
-  "dna": "04889d58e3e8560c1ae41e784d7be65a48913600",
+  "dna": "82d779960a5afa378c827c5f173eaecf0c956a82",
   "edition": 427,
-  "date": 1660735822794,
+  "date": 1663609839830,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Private",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Chrissy"
+      "value": "Flint"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

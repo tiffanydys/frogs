@@ -1,25 +1,25 @@
 {
-  "name": "Gizmo #504",
+  "name": "Brady #504",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/504.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/504.png",
-  "dna": "377a1b8db81f1b836c3bcabe1b23b21cb9d33907",
+  "dna": "2f3648218ce3a83a072199be528816bf061a92a3",
   "edition": 504,
-  "date": 1660735823155,
+  "date": 1663609840110,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Gizmo"
+      "value": "Brady"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Frosty #390",
+  "name": "Lisa #390",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/390.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/390.png",
-  "dna": "aa80be93e83c069371df7bf1d0910ab399bf3395",
+  "dna": "47820cfdbc7cac1844f87aa86ee133978b69e51d",
   "edition": 390,
-  "date": 1660735822662,
+  "date": 1663609839677,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "3 Color",
-      "rarity": "Epic"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Goblin",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Frosty"
+      "value": "Lisa"
     },
     {
       "trait_type": "Rarity",

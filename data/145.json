@@ -1,15 +1,15 @@
 {
-  "name": "Trixie #145",
+  "name": "Cha Cha #145",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/145.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/145.png",
-  "dna": "8e57ee5bb87157fc6af229c569f7a15eefe8a133",
+  "dna": "a3801060345138f96c37db80e067a2d3149a9c5c",
   "edition": 145,
-  "date": 1660735821718,
+  "date": 1663609838802,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Trixie"
+      "value": "Cha Cha"
     },
     {
       "trait_type": "Rarity",

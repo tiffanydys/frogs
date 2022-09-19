@@ -1,16 +1,16 @@
 {
-  "name": "Punkin #223",
+  "name": "Banjo #223",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/223.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/223.png",
-  "dna": "be10bdc592bcbe74662566eb1d4f9848b32da92a",
+  "dna": "90db42c7f6da6ae314daafce90b959f70c8bec4c",
   "edition": 223,
-  "date": 1660735822030,
+  "date": 1663609839073,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
+      "value": "Fez",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Punkin"
+      "value": "Banjo"
     },
     {
       "trait_type": "Rarity",

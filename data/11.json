@@ -1,25 +1,25 @@
 {
-  "name": "Megan #11",
+  "name": "Hamlet #11",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/11.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/11.png",
-  "dna": "39bb0fd105489012df4499037ddaa4b812c1aa79",
+  "dna": "38deed390c6ac2d70f82a3b35aa1694e3730a98b",
   "edition": 11,
-  "date": 1660735821039,
+  "date": 1663609838289,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
+      "value": "Fedora",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Megan"
+      "value": "Hamlet"
     },
     {
       "trait_type": "Rarity",

@@ -1,25 +1,25 @@
 {
-  "name": "Skip #204",
+  "name": "Shiner #204",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/204.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/204.png",
-  "dna": "eb84a8321d9d454183490eae6e5e70228f5bcf9d",
+  "dna": "5d350627bd282d7c7a386b274e263563b6405bc6",
   "edition": 204,
-  "date": 1660735821957,
+  "date": 1663609839010,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
+      "value": "Commander",
       "rarity": "Rare"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Skip"
+      "value": "Shiner"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

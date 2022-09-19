@@ -1,16 +1,16 @@
 {
-  "name": "Cocoa #167",
+  "name": "China #167",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/167.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/167.png",
-  "dna": "b9efebda50503065c26e53a347bc1c9fbf8df93b",
+  "dna": "1955d6496f69b4d4ab7069e89b9ee50dfbe5ecf3",
   "edition": 167,
-  "date": 1660735821804,
+  "date": 1663609838874,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Watermelon",
-      "rarity": "Legendary"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
-      "rarity": "Uncommon"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cocoa"
+      "value": "China"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

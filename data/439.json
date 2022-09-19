@@ -1,25 +1,25 @@
 {
-  "name": "Dunn #439",
+  "name": "Brook #439",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/439.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/439.png",
-  "dna": "f4d80fe48b382858e75137e6e37d72be816342ef",
+  "dna": "b14da0067b7ba8646ef5a97fb82f2c91c9313a95",
   "edition": 439,
-  "date": 1660735822846,
+  "date": 1663609839876,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Beret",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dunn"
+      "value": "Brook"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Bingo #452",
+  "name": "Abbie #452",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/452.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/452.png",
-  "dna": "e335cfd741f875563966939901f8c67f0e579b07",
+  "dna": "2730ad1a2253d3905dba0e3d75df9de5b55855d8",
   "edition": 452,
-  "date": 1660735822919,
+  "date": 1663609839927,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "5 Color",
-      "rarity": "Legendary"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Bucket",
-      "rarity": "Rare"
+      "value": "Turban",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bingo"
+      "value": "Abbie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

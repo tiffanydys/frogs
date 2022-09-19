@@ -1,25 +1,25 @@
 {
-  "name": "Norton #403",
+  "name": "Mariah #403",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/403.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/403.png",
-  "dna": "3eb94d8875f7f5d17740c93f6cf083d086308305",
+  "dna": "a36d23e9eb5528049e90aef7fcaf4473e3ecd509",
   "edition": 403,
-  "date": 1660735822711,
+  "date": 1663609839729,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Bucket",
+      "value": "Chicken",
       "rarity": "Rare"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Norton"
+      "value": "Mariah"
     },
     {
       "trait_type": "Rarity",

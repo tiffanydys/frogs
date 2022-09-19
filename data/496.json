@@ -1,26 +1,26 @@
 {
-  "name": "Tuesday #496",
+  "name": "Millie #496",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/496.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/496.png",
-  "dna": "2fd6f5d9e02f2df356841cc54216b96304828a51",
+  "dna": "9491df96d960bc0eed037a9bfa148aac86d1f475",
   "edition": 496,
-  "date": 1660735823121,
+  "date": 1663609840078,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tuesday"
+      "value": "Millie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

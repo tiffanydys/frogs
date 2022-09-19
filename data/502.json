@@ -1,26 +1,26 @@
 {
-  "name": "Kyra #502",
+  "name": "Callie #502",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/502.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/502.png",
-  "dna": "054a91411f53a3a814cee1abe084d2f7711109b4",
+  "dna": "434c0fbd209c9aa3eb54335cc8e1dadb84811c6d",
   "edition": 502,
-  "date": 1660735823147,
+  "date": 1663609840102,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Commander",
-      "rarity": "Rare"
+      "value": "Viking",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kyra"
+      "value": "Callie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

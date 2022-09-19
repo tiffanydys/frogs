@@ -1,21 +1,21 @@
 {
-  "name": "Sienna #115",
+  "name": "Natasha #115",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/115.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/115.png",
-  "dna": "e317ac0ea5488564ce22c6e92b8359d0fbeb4b1d",
+  "dna": "508599c7ab50ee9ef97317b9cdc5ac3b0953a240",
   "edition": 115,
-  "date": 1660735821601,
+  "date": 1663609838689,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "Rock",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sienna"
+      "value": "Natasha"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

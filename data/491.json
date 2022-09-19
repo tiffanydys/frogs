@@ -1,25 +1,25 @@
 {
-  "name": "Flint #491",
+  "name": "Prancer #491",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/491.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/491.png",
-  "dna": "deb4a63138483abf823f15c8fcdf9f3bf82372c9",
+  "dna": "e24adf54ea37354ce47209298978e593cd4121fb",
   "edition": 491,
-  "date": 1660735823099,
+  "date": 1663609840059,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Flint"
+      "value": "Prancer"
     },
     {
       "trait_type": "Rarity",

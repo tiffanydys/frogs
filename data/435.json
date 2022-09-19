@@ -1,16 +1,16 @@
 {
-  "name": "Maverick #435",
+  "name": "Sweetie #435",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/435.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/435.png",
-  "dna": "26949129c32590957891dda406308934d9d55bbc",
+  "dna": "db2838e1feac40da324ca2dca4faed206f8d2f70",
   "edition": 435,
-  "date": 1660735822828,
+  "date": 1663609839862,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard",
-      "rarity": "Rare"
+      "value": "Leprechaun",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Maverick"
+      "value": "Sweetie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

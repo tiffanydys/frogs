@@ -1,16 +1,16 @@
 {
-  "name": "Codi #21",
+  "name": "Porter #21",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/21.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/21.png",
-  "dna": "1bbe2acad6205077c764f0822df9185424982e53",
+  "dna": "0516c74293a5c0bc4daa0ab213caaf3b491eb49b",
   "edition": 21,
-  "date": 1660735821091,
+  "date": 1663609838334,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Grey",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Codi"
+      "value": "Porter"
     },
     {
       "trait_type": "Rarity",

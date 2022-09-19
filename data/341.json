@@ -1,26 +1,26 @@
 {
-  "name": "Rufus #341",
+  "name": "Emmy #341",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/341.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/341.png",
-  "dna": "e5b24d471546e222a7e49e184e7eaa3027504b0f",
+  "dna": "572abf933f59dca07cf1620f358376ddc514d4da",
   "edition": 341,
-  "date": 1660735822487,
+  "date": 1663609839507,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Cap",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Rufus"
+      "value": "Emmy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

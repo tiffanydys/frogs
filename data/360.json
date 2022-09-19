@@ -1,11 +1,11 @@
 {
-  "name": "Bubbles #360",
+  "name": "Clifford #360",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/360.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/360.png",
-  "dna": "7a2290c10cab3b8ced1bd77acd63c80df3ca68fc",
+  "dna": "98eb666670f1211e0f51593f1896598dac45c89f",
   "edition": 360,
-  "date": 1660735822563,
+  "date": 1663609839571,
   "attributes": [
     {
       "trait_type": "Float",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
-      "rarity": "Uncommon"
+      "value": "Headset",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bubbles"
+      "value": "Clifford"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,11 +1,11 @@
 {
-  "name": "Pooch #194",
+  "name": "Zoe #194",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/194.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/194.png",
-  "dna": "e165ae4fac5ebbd8ceeeeb1a106e2f443c0192af",
+  "dna": "9783fe05d58e06e023ab459cfc9ef6b94e02d96e",
   "edition": 194,
-  "date": 1660735821922,
+  "date": 1663609838971,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pooch"
+      "value": "Zoe"
     },
     {
       "trait_type": "Rarity",

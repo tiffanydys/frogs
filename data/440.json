@@ -1,20 +1,20 @@
 {
-  "name": "Shorty #440",
+  "name": "Clancy #440",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/440.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/440.png",
-  "dna": "759aae154effddedf7e497229aaccc79812d699b",
+  "dna": "70845e0d924ab9f84a884b0c3cdb4e8083db7451",
   "edition": 440,
-  "date": 1660735822850,
+  "date": 1663609839879,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Shorty"
+      "value": "Clancy"
     },
     {
       "trait_type": "Rarity",

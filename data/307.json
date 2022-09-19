@@ -1,16 +1,16 @@
 {
-  "name": "Callie #307",
+  "name": "Aggie #307",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/307.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/307.png",
-  "dna": "e16aa13fa7f06686fc1dbef1bc17e909aed3baad",
+  "dna": "abf8bbacd900c63800eff09d827bebda00d20987",
   "edition": 307,
-  "date": 1660735822356,
+  "date": 1663609839387,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
-      "rarity": "Uncommon"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Callie"
+      "value": "Aggie"
     },
     {
       "trait_type": "Rarity",

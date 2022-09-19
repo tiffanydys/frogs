@@ -1,25 +1,25 @@
 {
-  "name": "Onie #113",
+  "name": "Popcorn #113",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/113.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/113.png",
-  "dna": "1691a8b12e424b40da2c0c5b59516393f2d2c22b",
+  "dna": "41e8786d10625f01babda972508d4b06f02b5994",
   "edition": 113,
-  "date": 1660735821593,
+  "date": 1663609838681,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Builder",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Onie"
+      "value": "Popcorn"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

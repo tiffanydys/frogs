@@ -1,26 +1,26 @@
 {
-  "name": "Maggie #20",
+  "name": "Nitro #20",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/20.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/20.png",
-  "dna": "7120986c46e6c9bbc75f91912f16cae869be197d",
+  "dna": "3c4eb9421786f8a8d736a338d4953ec1191632ea",
   "edition": 20,
-  "date": 1660735821086,
+  "date": 1663609838330,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
-      "rarity": "Uncommon"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Maggie"
+      "value": "Nitro"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Kramer #489",
+  "name": "Gracie #489",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/489.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/489.png",
-  "dna": "d9db3e01ef8f5ac54474435eb82c392844fb224d",
+  "dna": "4e4c6cf84d3a0c19b2b32b15eec5dc4ac43044e8",
   "edition": 489,
-  "date": 1660735823091,
+  "date": 1663609840053,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset Black",
-      "rarity": "Epic"
+      "value": "Chicken",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kramer"
+      "value": "Gracie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

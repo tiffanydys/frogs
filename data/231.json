@@ -1,26 +1,26 @@
 {
-  "name": "Candy #231",
+  "name": "Andy #231",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/231.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/231.png",
-  "dna": "c1d26c4125e54df6d713ae264ac1164a62e630bb",
+  "dna": "e589aae3f0aa067c73c791c5339cc10499e9c26c",
   "edition": 231,
-  "date": 1660735822056,
+  "date": 1663609839103,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Private",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Candy"
+      "value": "Andy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

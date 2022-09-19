@@ -1,11 +1,11 @@
 {
-  "name": "Mason #313",
+  "name": "Bongo #313",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/313.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/313.png",
-  "dna": "4bb4aaa2cb85279419b5b6e4705ccd73e6869361",
+  "dna": "6d743ba0ea710beb34ee94b2cc7bb58d66cad5c4",
   "edition": 313,
-  "date": 1660735822379,
+  "date": 1663609839409,
   "attributes": [
     {
       "trait_type": "Float",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mason"
+      "value": "Bongo"
     },
     {
       "trait_type": "Rarity",

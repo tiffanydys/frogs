@@ -1,26 +1,26 @@
 {
-  "name": "Boozer #200",
+  "name": "Trinity #200",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/200.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/200.png",
-  "dna": "eea95d59c556e426c155a8272387f14d5cf529d2",
+  "dna": "438740ef0d966f63479a9a292d5f64fc2e75066a",
   "edition": 200,
-  "date": 1660735821943,
+  "date": 1663609838995,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
-      "rarity": "Uncommon"
+      "value": "Beaver",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Boozer"
+      "value": "Trinity"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

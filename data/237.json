@@ -1,25 +1,25 @@
 {
-  "name": "Rosie #237",
+  "name": "Blaze #237",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/237.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/237.png",
-  "dna": "879aea926d7cdd13cf397939e33f4cb07a767d1b",
+  "dna": "22161eecc77a4a27ddcab34d6ad8e9bfe971d349",
   "edition": 237,
-  "date": 1660735822076,
+  "date": 1663609839131,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Rosie"
+      "value": "Blaze"
     },
     {
       "trait_type": "Rarity",

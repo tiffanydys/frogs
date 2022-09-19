@@ -1,25 +1,25 @@
 {
-  "name": "Mandy #338",
+  "name": "Higgins #338",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/338.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/338.png",
-  "dna": "f47698b5f59d7143343437e31d25539ee2f2cad2",
+  "dna": "462c365e9df9cecb016fb387c1157a87660da396",
   "edition": 338,
-  "date": 1660735822475,
+  "date": 1663609839497,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
       "value": "Orange",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Goblin",
+      "value": "Cone",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mandy"
+      "value": "Higgins"
     },
     {
       "trait_type": "Rarity",

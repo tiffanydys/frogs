@@ -1,26 +1,26 @@
 {
-  "name": "Ralphie #135",
+  "name": "Austin #135",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/135.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/135.png",
-  "dna": "757d0662f7b9f9f3de87d06222a6ae9086fb4a3a",
+  "dna": "5739159502e7b7bd5bb06960421d94a2c3216742",
   "edition": 135,
-  "date": 1660735821680,
+  "date": 1663609838765,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Fedora",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ralphie"
+      "value": "Austin"
     },
     {
       "trait_type": "Rarity",

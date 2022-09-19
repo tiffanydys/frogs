@@ -1,25 +1,25 @@
 {
-  "name": "Troy #173",
+  "name": "Wiz #173",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/173.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/173.png",
-  "dna": "81cb77dff834a0e798567e62c2fbad4dd11adda5",
+  "dna": "854b66fb12e036a91de15650c2d3192ae5641821",
   "edition": 173,
-  "date": 1660735821858,
+  "date": 1663609838893,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Cowboy",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Troy"
+      "value": "Wiz"
     },
     {
       "trait_type": "Rarity",

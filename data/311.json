@@ -1,26 +1,26 @@
 {
-  "name": "Peter #311",
+  "name": "Koda #311",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/311.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/311.png",
-  "dna": "ad2641d5f3bd7110cf896e4eff3df1bd06059707",
+  "dna": "b19b81412977c20add6a1a9ecf4607cc16351f36",
   "edition": 311,
-  "date": 1660735822372,
+  "date": 1663609839402,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Headset",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Peter"
+      "value": "Koda"
     },
     {
       "trait_type": "Rarity",

@@ -1,11 +1,11 @@
 {
-  "name": "Nutmeg #419",
+  "name": "Tristan #419",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/419.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/419.png",
-  "dna": "41279972f7ee038d91c27b330e4f31cfe9231e41",
+  "dna": "17b5598c2f18e09a11589ecc4d7fcddfcfff2c00",
   "edition": 419,
-  "date": 1660735822763,
+  "date": 1663609839798,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,8 +14,8 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Nutmeg"
+      "value": "Tristan"
     },
     {
       "trait_type": "Rarity",

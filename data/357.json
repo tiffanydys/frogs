@@ -1,15 +1,15 @@
 {
-  "name": "Clancy #357",
+  "name": "Pepsi #357",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/357.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/357.png",
-  "dna": "96d42e4ac876def95f31a41b8805af614bf5af35",
+  "dna": "c5ff6832895ce8d537d90af0c2680e14cff765ad",
   "edition": 357,
-  "date": 1660735822552,
+  "date": 1663609839560,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
+      "value": "Wizard",
       "rarity": "Rare"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Clancy"
+      "value": "Pepsi"
     },
     {
       "trait_type": "Rarity",

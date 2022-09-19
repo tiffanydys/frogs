@@ -1,26 +1,26 @@
 {
-  "name": "Jaguar #298",
+  "name": "Paradise #298",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/298.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/298.png",
-  "dna": "b68471fc8259ee7ea46c1c91761d9bc7f3a20610",
+  "dna": "e9c7646981fc98bad2da620a0a0b7c7242846683",
   "edition": 298,
-  "date": 1660735822305,
+  "date": 1663609839357,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Blue",
+      "value": "2 Color",
       "rarity": "Rare"
     },
     {
+      "trait_type": "Base",
+      "value": "Brown",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Bandana",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jaguar"
+      "value": "Paradise"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

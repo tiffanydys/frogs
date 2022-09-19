@@ -1,21 +1,21 @@
 {
-  "name": "Tobie #181",
+  "name": "Bradley #181",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/181.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/181.png",
-  "dna": "661327cc141c81d9368959768716a79269340c28",
+  "dna": "d20640312b43cfc76f8e35407203810c90d59682",
   "edition": 181,
-  "date": 1660735821882,
+  "date": 1663609838922,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Tobie"
+      "value": "Bradley"
     },
     {
       "trait_type": "Rarity",

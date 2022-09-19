@@ -1,26 +1,26 @@
 {
-  "name": "Bart #112",
+  "name": "Buttons #112",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/112.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/112.png",
-  "dna": "cf6d64ba7ea9de6ca7234b0cb44cfed52696102a",
+  "dna": "bb6d4c59f30412de8318833a081fcb68be648f70",
   "edition": 112,
-  "date": 1660735821590,
+  "date": 1663609838678,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
-      "rarity": "Uncommon"
+      "value": "Headset White",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bart"
+      "value": "Buttons"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Austin #473",
+  "name": "Chaos #473",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/473.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/473.png",
-  "dna": "81e05582073dcec7c9673755179c15de0bb0d0e5",
+  "dna": "8c3974e21b5c933ed5de0f78f8369ee34df7e0e0",
   "edition": 473,
-  "date": 1660735823024,
+  "date": 1663609840001,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Austin"
+      "value": "Chaos"
     },
     {
       "trait_type": "Rarity",

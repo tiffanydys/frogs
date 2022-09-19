@@ -1,15 +1,15 @@
 {
-  "name": "Ivory #110",
+  "name": "Captain #110",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/110.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/110.png",
-  "dna": "6e99ee009284a007862c4a09224ea51b2901e918",
+  "dna": "2210552b9513e54f01b3aa61abe59e80e596dd6c",
   "edition": 110,
-  "date": 1660735821582,
+  "date": 1663609838672,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard",
-      "rarity": "Rare"
+      "value": "Pirate",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ivory"
+      "value": "Captain"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

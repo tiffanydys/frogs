@@ -1,25 +1,25 @@
 {
-  "name": "Adam #269",
+  "name": "Tiger #269",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/269.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/269.png",
-  "dna": "f077a0ef7c5dd4d4360f623bd75f97d745abcf51",
+  "dna": "a6b6b2e196c4ea35a98f413f4a8e38eb8c6d2c25",
   "edition": 269,
-  "date": 1660735822189,
+  "date": 1663609839249,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "2 Color",
-      "rarity": "Rare"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Brown",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Adam"
+      "value": "Tiger"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

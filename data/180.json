@@ -1,25 +1,25 @@
 {
-  "name": "Maxine #180",
+  "name": "Jasper #180",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/180.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/180.png",
-  "dna": "f03cf35e54f05fc485cd38f7c9a07cbdfaca2799",
+  "dna": "33601d3236038395509124c40f8f4e7d29769559",
   "edition": 180,
-  "date": 1660735821879,
+  "date": 1663609838919,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Chef",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Maxine"
+      "value": "Jasper"
     },
     {
       "trait_type": "Rarity",

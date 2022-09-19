@@ -1,11 +1,11 @@
 {
-  "name": "Henry #77",
+  "name": "Cassis #77",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/77.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/77.png",
-  "dna": "1be873f17b8b7443ae4115e1737621aec9a1f868",
+  "dna": "9aa680d79dc9bc347a1d61f727d8fc6c9e937918",
   "edition": 77,
-  "date": 1660735821463,
+  "date": 1663609838545,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Viking",
-      "rarity": "Uncommon"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Henry"
+      "value": "Cassis"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

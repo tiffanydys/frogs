@@ -1,11 +1,11 @@
 {
-  "name": "Toffee #376",
+  "name": "Polex #376",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/376.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/376.png",
-  "dna": "254a0d9403b4cd1149bf88a34c8aeeb2d51443fc",
+  "dna": "92421324a49156965abd5c51c52e987e4e665691",
   "edition": 376,
-  "date": 1660735822618,
+  "date": 1663609839629,
   "attributes": [
     {
       "trait_type": "Float",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Toffee"
+      "value": "Polex"
     },
     {
       "trait_type": "Rarity",

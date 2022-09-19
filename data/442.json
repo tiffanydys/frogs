@@ -1,26 +1,26 @@
 {
-  "name": "Domino #442",
+  "name": "Frank #442",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/442.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/442.png",
-  "dna": "32731f805e397f32b18a8bde0ff36926e90f7c66",
+  "dna": "161f33c0b664671baa83846e553044e1663733a9",
   "edition": 442,
-  "date": 1660735822861,
+  "date": 1663609839886,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Rainbow",
+      "value": "5 Color",
       "rarity": "Legendary"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Pirate",
-      "rarity": "Uncommon"
+      "value": "Headset",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Domino"
+      "value": "Frank"
     },
     {
       "trait_type": "Rarity",

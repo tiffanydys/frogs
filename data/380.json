@@ -1,26 +1,26 @@
 {
-  "name": "Chamberlain #380",
+  "name": "Nomsy #380",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/380.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/380.png",
-  "dna": "8ad8b6d8bad42857ee42a68314db436f96ef7e6f",
+  "dna": "3b6d35a31f1c15a74a9d461ead198e76e5b8ad83",
   "edition": 380,
-  "date": 1660735822630,
+  "date": 1663609839643,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
-      "rarity": "Uncommon"
+      "value": "Watermelon",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Helmet",
-      "rarity": "Epic"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Chamberlain"
+      "value": "Nomsy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

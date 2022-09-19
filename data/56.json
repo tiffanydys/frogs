@@ -1,16 +1,16 @@
 {
-  "name": "Ralph #56",
+  "name": "Teddy #56",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/56.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/56.png",
-  "dna": "997e0b20909fe91b317ca6bdc480c74858125f24",
+  "dna": "5b308e3162be8ac662e4e5ae686a8227d4dec57a",
   "edition": 56,
-  "date": 1660735821352,
+  "date": 1663609838468,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ralph"
+      "value": "Teddy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

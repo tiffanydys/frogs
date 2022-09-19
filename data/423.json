@@ -1,26 +1,26 @@
 {
-  "name": "Emmy #423",
+  "name": "Mittens #423",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/423.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/423.png",
-  "dna": "e046bf49afe5134a0604aeeab6baae4c0017cfab",
+  "dna": "7aa1b777f1d29d51fa2425cd3aaebed1fff7aafb",
   "edition": 423,
-  "date": 1660735822777,
+  "date": 1663609839812,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Leprechaun",
-      "rarity": "Uncommon"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Emmy"
+      "value": "Mittens"
     },
     {
       "trait_type": "Rarity",

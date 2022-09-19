@@ -1,25 +1,25 @@
 {
-  "name": "Nala #366",
+  "name": "Tootsie #366",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/366.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/366.png",
-  "dna": "62d29b128a232aa8da93315a265c5829f0b0cffb",
+  "dna": "7064795a1381727ee5d1ef2b97bcfcfef86d85f5",
   "edition": 366,
-  "date": 1660735822586,
+  "date": 1663609839592,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Nala"
+      "value": "Tootsie"
     },
     {
       "trait_type": "Rarity",

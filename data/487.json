@@ -1,26 +1,26 @@
 {
-  "name": "Floyd #487",
+  "name": "Bugsey #487",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/487.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/487.png",
-  "dna": "8f34785d520cef39cbf605fe9790b21583d6bd1f",
+  "dna": "305185a3bc114253e0c2256192acd47b1f531d89",
   "edition": 487,
-  "date": 1660735823082,
+  "date": 1663609840046,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Brown",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
-      "trait_type": "Hat",
-      "value": "Captain",
+      "trait_type": "Base",
+      "value": "Blue",
       "rarity": "Rare"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Chef",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Floyd"
+      "value": "Bugsey"
     },
     {
       "trait_type": "Rarity",

@@ -1,25 +1,25 @@
 {
-  "name": "Casper #61",
+  "name": "Dixie #61",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/61.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/61.png",
-  "dna": "5d0dddb0366666ee8e1d32d147900326d44a48d7",
+  "dna": "538d07113b05fb60caaad8a79adb31ddc197a099",
   "edition": 61,
-  "date": 1660735821386,
+  "date": 1663609838490,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
+      "value": "Goblin",
       "rarity": "Epic"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Casper"
+      "value": "Dixie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

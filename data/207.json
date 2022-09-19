@@ -1,15 +1,15 @@
 {
-  "name": "Bruno #207",
+  "name": "Jabba #207",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/207.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/207.png",
-  "dna": "89b72a6aaccfa3fb243a01886a41c0642008f9ca",
+  "dna": "7975c9585ec01a773e8fcc9a9253a3ddb4ed879c",
   "edition": 207,
-  "date": 1660735821969,
+  "date": 1663609839020,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Fedora",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bruno"
+      "value": "Jabba"
     },
     {
       "trait_type": "Rarity",

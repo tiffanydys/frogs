@@ -1,25 +1,25 @@
 {
-  "name": "Ruffer #493",
+  "name": "Jess #493",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/493.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/493.png",
-  "dna": "c3c9a949c7befce7b0b5cac07553fe8fb883fa94",
+  "dna": "37e864d8b9d8aa1d09f052b9152dd7db7035478c",
   "edition": 493,
-  "date": 1660735823108,
+  "date": 1663609840067,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ruffer"
+      "value": "Jess"
     },
     {
       "trait_type": "Rarity",

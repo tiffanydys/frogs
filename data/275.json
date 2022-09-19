@@ -1,25 +1,25 @@
 {
-  "name": "Meggie #275",
+  "name": "Jessie #275",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/275.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/275.png",
-  "dna": "69854990551f9e3e24421628d18a7d5a58e2ea53",
+  "dna": "07596bcf5433744c4721c4a8316d958f95034f0d",
   "edition": 275,
-  "date": 1660735822214,
+  "date": 1663609839274,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Meggie"
+      "value": "Jessie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

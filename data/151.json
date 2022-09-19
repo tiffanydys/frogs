@@ -1,26 +1,26 @@
 {
-  "name": "Sparky #151",
+  "name": "Lady #151",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/151.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/151.png",
-  "dna": "f866731b9482593afa1c84e7c6219c0821c06d71",
+  "dna": "16fa02d799639c26ff9020ac567b94b7486d4b7e",
   "edition": 151,
-  "date": 1660735821738,
+  "date": 1663609838822,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Sparky"
+      "value": "Lady"
     },
     {
       "trait_type": "Rarity",

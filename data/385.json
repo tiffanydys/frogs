@@ -1,25 +1,25 @@
 {
-  "name": "Wesley #385",
+  "name": "Chicken #385",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/385.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/385.png",
-  "dna": "420e64fe774199b2533e7b61803bfe6d3138f502",
+  "dna": "a369537ac6138131e7d114b814be213a2f11f3f6",
   "edition": 385,
-  "date": 1660735822646,
+  "date": 1663609839659,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
+      "value": "Watermelon",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
+      "value": "Sheriff",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Wesley"
+      "value": "Chicken"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

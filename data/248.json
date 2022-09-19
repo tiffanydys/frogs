@@ -1,26 +1,26 @@
 {
-  "name": "Onyx #248",
+  "name": "Rags #248",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/248.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/248.png",
-  "dna": "c86df36f222118838250bbeba3e1cab9ca623264",
+  "dna": "5ab1c371c097845340f8e975c4a659fa6ae092f5",
   "edition": 248,
-  "date": 1660735822114,
+  "date": 1663609839174,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
       "value": "Orange",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Wizard",
-      "rarity": "Rare"
+      "value": "Cowboy",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Onyx"
+      "value": "Rags"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

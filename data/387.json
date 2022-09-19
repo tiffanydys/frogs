@@ -1,16 +1,16 @@
 {
-  "name": "Darcy #387",
+  "name": "Inu #387",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/387.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/387.png",
-  "dna": "006e317a6476a3325099c45d804bfc03f9ee2801",
+  "dna": "d7295f346156c9732045731edae9648a97dc2037",
   "edition": 387,
-  "date": 1660735822653,
+  "date": 1663609839665,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Cone",
-      "rarity": "Epic"
+      "value": "Turban",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Darcy"
+      "value": "Inu"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

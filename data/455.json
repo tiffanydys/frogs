@@ -1,16 +1,16 @@
 {
-  "name": "Jerry #455",
+  "name": "Dinky #455",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/455.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/455.png",
-  "dna": "6fe39d90ea95f9cb48ee1853b7cdf59f6b8a91ec",
+  "dna": "cf0294a1ed2556f59265b77e4eb9dbe25d702a1b",
   "edition": 455,
-  "date": 1660735822934,
+  "date": 1663609839938,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headband",
-      "rarity": "Epic"
+      "value": "Beanie",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Jerry"
+      "value": "Dinky"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

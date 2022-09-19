@@ -1,26 +1,26 @@
 {
-  "name": "Ruthie #453",
+  "name": "Poppy #453",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/453.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/453.png",
-  "dna": "efb7ab067f02b7ac691cf5eeba08e28fc072180f",
+  "dna": "fd472b6163f9be5393d1b18089daa836c8db3028",
   "edition": 453,
-  "date": 1660735822925,
+  "date": 1663609839930,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Cone",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Ruthie"
+      "value": "Poppy"
     },
     {
       "trait_type": "Rarity",

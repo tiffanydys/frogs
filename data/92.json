@@ -1,11 +1,11 @@
 {
-  "name": "Purdy #92",
+  "name": "Casper #92",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/92.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/92.png",
-  "dna": "fde583d4cd36a558f711f40a1b6d6a209dff72c8",
+  "dna": "1baff59660d09b479619a61485d7b12d691e02c9",
   "edition": 92,
-  "date": 1660735821521,
+  "date": 1663609838599,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
+      "value": "Brown",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Leprechaun",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Purdy"
+      "value": "Casper"
     },
     {
       "trait_type": "Rarity",

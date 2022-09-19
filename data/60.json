@@ -1,26 +1,26 @@
 {
-  "name": "Buffie #60",
+  "name": "Koko #60",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/60.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/60.png",
-  "dna": "7920983445e0790e487ea8a980dd0124f5be5d9b",
+  "dna": "3e4179d3bfafb5515d0d40d5d2374528723444bf",
   "edition": 60,
-  "date": 1660735821380,
+  "date": 1663609838486,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
-      "rarity": "Uncommon"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Buffie"
+      "value": "Koko"
     },
     {
       "trait_type": "Rarity",

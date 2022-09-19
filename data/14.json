@@ -1,15 +1,15 @@
 {
-  "name": "Whitie #14",
+  "name": "Mr.Toad #14",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/14.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/14.png",
-  "dna": "81288cbe4d9b7f218d83c1139c66231ffea525b7",
+  "dna": "be4f55511fd7e6156181f2531852f6523f04e408",
   "edition": 14,
-  "date": 1660735821056,
+  "date": 1663609838302,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
-      "rarity": "Uncommon"
+      "value": "Beaver",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Whitie"
+      "value": "Mr.Toad"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

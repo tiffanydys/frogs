@@ -1,26 +1,26 @@
 {
-  "name": "Kismet #205",
+  "name": "Jennie #205",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/205.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/205.png",
-  "dna": "422fea24d98d117614f4211d6f55f361be97f4f0",
+  "dna": "c46b13a27eecafbb99b705fff5eb224933a9b4fb",
   "edition": 205,
-  "date": 1660735821961,
+  "date": 1663609839013,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Green",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Fedora",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kismet"
+      "value": "Jennie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

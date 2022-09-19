@@ -1,25 +1,25 @@
 {
-  "name": "Pinky #40",
+  "name": "Bucky #40",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/40.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/40.png",
-  "dna": "7d572d28ce5b6630bd86ba1abd909258179e8707",
+  "dna": "0446033306d74666d4643f83ef2dc8bf069165a4",
   "edition": 40,
-  "date": 1660735821225,
+  "date": 1663609838402,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Red Wool",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pinky"
+      "value": "Bucky"
     },
     {
       "trait_type": "Rarity",

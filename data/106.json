@@ -1,15 +1,15 @@
 {
-  "name": "Belle #106",
+  "name": "Annie #106",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/106.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/106.png",
-  "dna": "fe5244e43da5a7af0b31cc2a36735eb2a4f05c7c",
+  "dna": "da1db29f7401c85dd0547010974520d576ce6047",
   "edition": 106,
-  "date": 1660735821567,
+  "date": 1663609838655,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headset Black",
-      "rarity": "Epic"
+      "value": "Chef",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Belle"
+      "value": "Annie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

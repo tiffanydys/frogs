@@ -1,25 +1,25 @@
 {
-  "name": "Wally #249",
+  "name": "Miss Kitty #249",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/249.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/249.png",
-  "dna": "19182ed60e2e463f3e67dc9bd471d4f119faa180",
+  "dna": "13f4af7b5816c128779e3ba1677a6908f632812b",
   "edition": 249,
-  "date": 1660735822117,
+  "date": 1663609839177,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Red",
+      "rarity": "Epic"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Cowboy",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Wally"
+      "value": "Miss Kitty"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

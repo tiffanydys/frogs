@@ -1,25 +1,25 @@
 {
-  "name": "Pepsi #68",
+  "name": "Wally #68",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/68.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/68.png",
-  "dna": "e1dab54bc0e67e61ccc9d589741ec0e5b72fe7ea",
+  "dna": "16e38cc848567cc6046de6af851781323a0bb59e",
   "edition": 68,
-  "date": 1660735821423,
+  "date": 1663609838514,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pepsi"
+      "value": "Wally"
     },
     {
       "trait_type": "Rarity",

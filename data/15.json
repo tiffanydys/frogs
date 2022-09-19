@@ -1,26 +1,26 @@
 {
-  "name": "Romeo #15",
+  "name": "Lovey #15",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/15.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/15.png",
-  "dna": "cb48a3ed8b873868b79b0254f402dad0a09935bf",
+  "dna": "807ac3782455198bbd57c00828a27be58e1ec58d",
   "edition": 15,
-  "date": 1660735821061,
+  "date": 1663609838306,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Sombrero",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Romeo"
+      "value": "Lovey"
     },
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

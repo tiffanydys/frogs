@@ -1,15 +1,15 @@
 {
-  "name": "Greenie #379",
+  "name": "Buddy #379",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/379.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/379.png",
-  "dna": "1c6dc141580000e38356bed9c587b1ab33bd8366",
+  "dna": "f58a85bd5042cf977f37968a87e427fb22e64353",
   "edition": 379,
-  "date": 1660735822627,
+  "date": 1663609839640,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headband",
-      "rarity": "Epic"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Greenie"
+      "value": "Buddy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

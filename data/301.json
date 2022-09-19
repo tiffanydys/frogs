@@ -1,15 +1,15 @@
 {
-  "name": "Freedom #301",
+  "name": "Clicker #301",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/301.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/301.png",
-  "dna": "b8b3dc56a4bd8185232e76957325bb6fd77d593f",
+  "dna": "5478693104015b4239b216570721f21692301b5c",
   "edition": 301,
-  "date": 1660735822334,
+  "date": 1663609839366,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Freedom"
+      "value": "Clicker"
     },
     {
       "trait_type": "Rarity",

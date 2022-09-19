@@ -1,25 +1,25 @@
 {
-  "name": "Oreo #408",
+  "name": "Bishop #408",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/408.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/408.png",
-  "dna": "30a178b5aae046df29fd6362b44c66a861d5507a",
+  "dna": "4b6e30f0fcf1fc20c0e66455ea9914bf718bc4e4",
   "edition": 408,
-  "date": 1660735822730,
+  "date": 1663609839750,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Oreo"
+      "value": "Bishop"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

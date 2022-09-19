@@ -1,25 +1,25 @@
 {
-  "name": "Kato #132",
+  "name": "Adam #132",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/132.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/132.png",
-  "dna": "9b9c5d32059a9bb6013a8b4ff5bfde92d2ca208c",
+  "dna": "b1171e6fd42f2e6572555e2499d88a11d2181073",
   "edition": 132,
-  "date": 1660735821667,
+  "date": 1663609838754,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Dark Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Straw Hat",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Kato"
+      "value": "Adam"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

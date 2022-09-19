@@ -1,15 +1,15 @@
 {
-  "name": "Roland #69",
+  "name": "Star #69",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/69.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/69.png",
-  "dna": "1fb5d88e0575525a8d8e4f75df376436b4849c96",
+  "dna": "fb1660ee858521d0d428ff9024f26522b41298d8",
   "edition": 69,
-  "date": 1660735821428,
+  "date": 1663609838518,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Roland"
+      "value": "Star"
     },
     {
       "trait_type": "Rarity",

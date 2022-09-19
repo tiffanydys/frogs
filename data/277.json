@@ -1,26 +1,26 @@
 {
-  "name": "Genie #277",
+  "name": "Schotzie #277",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/277.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/277.png",
-  "dna": "b6c66a10451609c0b552701174805ec2df170f96",
+  "dna": "ffadc4d16e3d3cc1e268d422b4181d1733c7430b",
   "edition": 277,
-  "date": 1660735822221,
+  "date": 1663609839281,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Fez",
-      "rarity": "Uncommon"
+      "value": "No Hat",
+      "rarity": "Common"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Genie"
+      "value": "Schotzie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

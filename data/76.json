@@ -1,25 +1,25 @@
 {
-  "name": "Otis #76",
+  "name": "Timmy #76",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/76.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/76.png",
-  "dna": "c4bf54c7d1d42dd0a16510ff74ff43d49ecaf4af",
+  "dna": "c97b9899e61ce5e160d60c6a312fd7df6332bc2c",
   "edition": 76,
-  "date": 1660735821459,
+  "date": 1663609838541,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Beanie",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Otis"
+      "value": "Timmy"
     },
     {
       "trait_type": "Rarity",

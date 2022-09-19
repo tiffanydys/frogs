@@ -1,26 +1,26 @@
 {
-  "name": "Scooter #93",
+  "name": "Jacque #93",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/93.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/93.png",
-  "dna": "efa64501aac8cd35255d1d0afc6f35c9c2ad6a12",
+  "dna": "1ee0fa0118b1f37dc5a79ce4cb28e4ce16e34975",
   "edition": 93,
-  "date": 1660735821525,
+  "date": 1663609838602,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Sheriff",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Scooter"
+      "value": "Jacque"
     },
     {
       "trait_type": "Rarity",

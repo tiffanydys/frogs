@@ -1,21 +1,21 @@
 {
-  "name": "Munchkin #120",
+  "name": "Persy #120",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/120.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/120.png",
-  "dna": "b5fd5acf94327a34fa265775532352b247b13758",
+  "dna": "d0d716ae79e485978897854469fede7ccc0b488f",
   "edition": 120,
-  "date": 1660735821621,
+  "date": 1663609838708,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Munchkin"
+      "value": "Persy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

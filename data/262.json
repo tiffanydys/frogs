@@ -1,25 +1,25 @@
 {
-  "name": "Volvo #262",
+  "name": "Pumpkin #262",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/262.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/262.png",
-  "dna": "2793d27670d7dde27317b3ed10f81bc8c144ec79",
+  "dna": "f25edbeeccbe8196ca7dcda63d931a7f9d892a3f",
   "edition": 262,
-  "date": 1660735822161,
+  "date": 1663609839223,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Blue",
-      "rarity": "Rare"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Wizard",
+      "value": "Bucket",
       "rarity": "Rare"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Volvo"
+      "value": "Pumpkin"
     },
     {
       "trait_type": "Rarity",

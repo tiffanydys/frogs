@@ -1,25 +1,25 @@
 {
-  "name": "Athena #315",
+  "name": "Hank #315",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/315.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/315.png",
-  "dna": "e22da70c74e666d76dea0e46c41473216845a9c1",
+  "dna": "e0d6c0cf53ded365efdd737be206f056478bb51b",
   "edition": 315,
-  "date": 1660735822387,
+  "date": 1663609839417,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
+      "value": "Grey",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Fedora",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Athena"
+      "value": "Hank"
     },
     {
       "trait_type": "Rarity",

@@ -1,25 +1,25 @@
 {
-  "name": "Benji #475",
+  "name": "Darcy #475",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/475.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/475.png",
-  "dna": "46f3ec6083ca2d0879b5e6c7594b5eec3c472755",
+  "dna": "11d7c2673e6830767f956aee24490536062e5bf8",
   "edition": 475,
-  "date": 1660735823032,
+  "date": 1663609840008,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Benji"
+      "value": "Darcy"
     },
     {
       "trait_type": "Rarity",

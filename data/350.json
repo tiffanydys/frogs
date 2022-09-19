@@ -1,25 +1,25 @@
 {
-  "name": "Nickers #350",
+  "name": "Sox #350",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/350.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/350.png",
-  "dna": "654920b50fcbcda13b4fe550f72ae7dd886384e3",
+  "dna": "0acf76ad00973314376d262b59d1278cac0ba37d",
   "edition": 350,
-  "date": 1660735822524,
+  "date": 1663609839537,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Red",
-      "rarity": "Uncommon"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
+      "trait_type": "Base",
+      "value": "Blue",
+      "rarity": "Rare"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Beret",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Nickers"
+      "value": "Sox"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

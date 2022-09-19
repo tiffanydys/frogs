@@ -1,26 +1,26 @@
 {
-  "name": "Star #367",
+  "name": "Shima #367",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/367.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/367.png",
-  "dna": "bbf7eb3ba1ce4e2cc636e55de809217298361182",
+  "dna": "9fd9c53a23493cc12cfb8c87559d6c792840b981",
   "edition": 367,
-  "date": 1660735822589,
+  "date": 1663609839596,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Cone",
-      "rarity": "Epic"
+      "value": "Crown",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Star"
+      "value": "Shima"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

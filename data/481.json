@@ -1,21 +1,21 @@
 {
-  "name": "Cobweb #481",
+  "name": "Bosco #481",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/481.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/481.png",
-  "dna": "07587448207ecc0831da5766c291ac9a62778d91",
+  "dna": "444b3311d8e8e223142f251148fcf6f119b83edc",
   "edition": 481,
-  "date": 1660735823057,
+  "date": 1663609840027,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cobweb"
+      "value": "Bosco"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

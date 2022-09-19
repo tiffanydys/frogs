@@ -1,25 +1,25 @@
 {
-  "name": "Thumper #70",
+  "name": "Norton #70",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/70.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/70.png",
-  "dna": "c38a1bd1b3f7e13debb07c6b4a2bb5c421ca57d6",
+  "dna": "160d712c07ab08e761ab1f9bdae61d6908c6cdb5",
   "edition": 70,
-  "date": 1660735821433,
+  "date": 1663609838521,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Orange",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
+      "trait_type": "Base",
+      "value": "Green",
+      "rarity": "Common"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Fedora",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Thumper"
+      "value": "Norton"
     },
     {
       "trait_type": "Rarity",

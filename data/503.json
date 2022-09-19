@@ -1,15 +1,15 @@
 {
-  "name": "Mack #503",
+  "name": "Grodan #503",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/503.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/503.png",
-  "dna": "1e2685f6d0374e71f595ef40fdab5444c1bf21d3",
+  "dna": "af8d06d1413daab1592c901535c69563fe700840",
   "edition": 503,
-  "date": 1660735823151,
+  "date": 1663609840106,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Gold Helmet",
-      "rarity": "Legendary"
+      "value": "Private",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mack"
+      "value": "Grodan"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,16 +1,16 @@
 {
-  "name": "Timber #48",
+  "name": "Sassy #48",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/48.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/48.png",
-  "dna": "92553b9b7a36d72ffa62e3d181c84eb8004b302b",
+  "dna": "79e340692e044433abf92ea13a2dadbe075f1717",
   "edition": 48,
-  "date": 1660735821303,
+  "date": 1663609838430,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "No Hat",
-      "rarity": "Common"
+      "value": "Turban",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Timber"
+      "value": "Sassy"
     },
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,26 +1,26 @@
 {
-  "name": "Abby #49",
+  "name": "Roo Roo #49",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/49.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/49.png",
-  "dna": "8c40ab1a2ed69fcf48bcfec397d16fb83af50f6c",
+  "dna": "ed8d521f9516a90a30062125434cae646da76cb2",
   "edition": 49,
-  "date": 1660735821310,
+  "date": 1663609838434,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
       "value": "Orange",
       "rarity": "Uncommon"
     },
     {
-      "trait_type": "Hat",
-      "value": "No Hat",
+      "trait_type": "Base",
+      "value": "Green",
       "rarity": "Common"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sunflower",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Abby"
+      "value": "Roo Roo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

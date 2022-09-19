@@ -1,16 +1,16 @@
 {
-  "name": "Johnny #107",
+  "name": "Faith #107",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/107.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/107.png",
-  "dna": "9de45ec6de26cd06b3ed77f6eac29cb2d5ebacc3",
+  "dna": "38ce18bbdc2a3b1ca425547695905e146bae91b9",
   "edition": 107,
-  "date": 1660735821571,
+  "date": 1663609838659,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Turban",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Johnny"
+      "value": "Faith"
     },
     {
       "trait_type": "Rarity",

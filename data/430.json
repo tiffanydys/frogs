@@ -1,26 +1,26 @@
 {
-  "name": "Pumpkin #430",
+  "name": "Brownie #430",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/430.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/430.png",
-  "dna": "8a453925e215c13f0006e7c29c36c238d1a04a56",
+  "dna": "93ecc6bd0f1b53313b66e4628e6f2f56afbe2b89",
   "edition": 430,
-  "date": 1660735822807,
+  "date": 1663609839844,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "3 Color",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Cone",
-      "rarity": "Epic"
+      "value": "Cowboy",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pumpkin"
+      "value": "Brownie"
     },
     {
       "trait_type": "Rarity",

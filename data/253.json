@@ -1,15 +1,15 @@
 {
-  "name": "Bridgette #253",
+  "name": "Jako #253",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/253.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/253.png",
-  "dna": "6d828043cb03ac65815f9c7a4246172380b808e3",
+  "dna": "7a22a7c05ce78119c2d203b9eb5ca309e0cde08f",
   "edition": 253,
-  "date": 1660735822129,
+  "date": 1663609839191,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bridgette"
+      "value": "Jako"
     },
     {
       "trait_type": "Rarity",

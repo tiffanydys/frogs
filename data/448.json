@@ -1,15 +1,15 @@
 {
-  "name": "Edgar #448",
+  "name": "Ralphie #448",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/448.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/448.png",
-  "dna": "9e1ddab5f8f596608d3725748b8acdfbcff71891",
+  "dna": "5e21d0f831175bd61760b647afe04b8bc8aa8996",
   "edition": 448,
-  "date": 1660735822897,
+  "date": 1663609839907,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
+      "value": "Green",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Goblin",
-      "rarity": "Epic"
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Edgar"
+      "value": "Ralphie"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

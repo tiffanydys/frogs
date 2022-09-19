@@ -1,25 +1,25 @@
 {
-  "name": "Figaro #510",
+  "name": "Pudge #510",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/510.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/510.png",
-  "dna": "eb8e956e0fe8f5f97d8473e9d4a8608524e66b93",
+  "dna": "91365ffbc723516b0ee8a3ca3a2ff8929670c2d2",
   "edition": 510,
-  "date": 1660735823182,
+  "date": 1663609840143,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sheriff",
+      "value": "Sombrero",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Figaro"
+      "value": "Pudge"
     },
     {
       "trait_type": "Rarity",

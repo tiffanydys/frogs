@@ -1,26 +1,26 @@
 {
-  "name": "Morgan #124",
+  "name": "Goldie #124",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/124.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/124.png",
-  "dna": "fce4ba91ae43634713700d2cdd82217ea31db2d2",
+  "dna": "aa2584b3552a261ac5e6b40007fd7fc1ce8807cd",
   "edition": 124,
-  "date": 1660735821637,
+  "date": 1663609838723,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Rainbow",
+      "value": "5 Color",
       "rarity": "Legendary"
     },
     {
+      "trait_type": "Base",
+      "value": "Orange",
+      "rarity": "Uncommon"
+    },
+    {
       "trait_type": "Hat",
-      "value": "Headset White",
-      "rarity": "Epic"
+      "value": "Sheriff",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Morgan"
+      "value": "Goldie"
     },
     {
       "trait_type": "Rarity",

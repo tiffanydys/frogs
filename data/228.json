@@ -1,15 +1,15 @@
 {
-  "name": "Nike #228",
+  "name": "Jisoo #228",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/228.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/228.png",
-  "dna": "d20f61c6b5761975ca62e76f9daeb15eb990a71b",
+  "dna": "01090ef1aae93eef783621cea3b0b89a44968933",
   "edition": 228,
-  "date": 1660735822047,
+  "date": 1663609839091,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
+      "value": "Log",
       "rarity": "Common"
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headset Black",
+      "value": "Cone",
       "rarity": "Epic"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Nike"
+      "value": "Jisoo"
     },
     {
       "trait_type": "Rarity",

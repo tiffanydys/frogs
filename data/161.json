@@ -1,25 +1,25 @@
 {
-  "name": "Lovey #161",
+  "name": "Ajax #161",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/161.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/161.png",
-  "dna": "749a8700840b281e575c7abdf9f2349309508b28",
+  "dna": "20ac05f7293d7ea73b9d07f195b266792e9f9481",
   "edition": 161,
-  "date": 1660735821779,
+  "date": 1663609838853,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "Green",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Cowboy",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Lovey"
+      "value": "Ajax"
     },
     {
       "trait_type": "Rarity",

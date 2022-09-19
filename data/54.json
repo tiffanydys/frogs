@@ -1,25 +1,25 @@
 {
-  "name": "Otto #54",
+  "name": "Sabine #54",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/54.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/54.png",
-  "dna": "e85820cf1b8f8940344ea4827d1412dbc45ce142",
+  "dna": "0b3cf62196d360c3daef8fe2173884565141f5d5",
   "edition": 54,
-  "date": 1660735821342,
+  "date": 1663609838459,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
-      "rarity": "Uncommon"
+      "value": "Lily Pad",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
+      "value": "Viking",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Otto"
+      "value": "Sabine"
     },
     {
       "trait_type": "Rarity",

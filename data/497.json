@@ -1,15 +1,15 @@
 {
-  "name": "Snickers #497",
+  "name": "Dewey #497",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/497.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/497.png",
-  "dna": "41a27085af3b428ae88104ac0ec141db53300fa9",
+  "dna": "d0ac8664962d59b60cca22585bc3ab2bc09dc9ea",
   "edition": 497,
-  "date": 1660735823125,
+  "date": 1663609840081,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Pink",
+      "value": "Dark Red",
       "rarity": "Uncommon"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
-      "rarity": "Uncommon"
+      "value": "Headband",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Snickers"
+      "value": "Dewey"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Epic"
     }
   ],
   "compiler": "HashLips Art Engine",

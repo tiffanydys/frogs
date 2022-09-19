@@ -1,25 +1,25 @@
 {
-  "name": "Cricket #109",
+  "name": "Kipper #109",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/109.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/109.png",
-  "dna": "288f26630d4c46754a670976c9a8148d9e861fed",
+  "dna": "0fce8fd4d34277c5a616100c3b65374013bd719c",
   "edition": 109,
-  "date": 1660735821579,
+  "date": 1663609838668,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
-      "rarity": "Uncommon"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Beanie",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Cricket"
+      "value": "Kipper"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

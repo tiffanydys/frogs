@@ -1,25 +1,25 @@
 {
-  "name": "Laney #88",
+  "name": "Dickens #88",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/88.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/88.png",
-  "dna": "3e0222ffe3a2ea1e9cf0c9f880451f5d9d7efdc1",
+  "dna": "26d26287702a45316cd1ca7940293e9b9ffa03a7",
   "edition": 88,
-  "date": 1660735821506,
+  "date": 1663609838584,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Brown",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Turban",
+      "value": "Pirate",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Laney"
+      "value": "Dickens"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

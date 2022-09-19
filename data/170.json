@@ -1,25 +1,25 @@
 {
-  "name": "Bobo #170",
+  "name": "Bosley #170",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/170.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/170.png",
-  "dna": "bdd8a2d405eb00b510ea050755810d0b3a63c00c",
+  "dna": "2d6bb79ee68dcb790c7803c302c6b8a9eb862a20",
   "edition": 170,
-  "date": 1660735821846,
+  "date": 1663609838884,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
+      "value": "Log",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
+      "value": "Wizard",
       "rarity": "Rare"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Bobo"
+      "value": "Bosley"
     },
     {
       "trait_type": "Rarity",

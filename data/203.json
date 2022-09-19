@@ -1,16 +1,16 @@
 {
-  "name": "Dinky #203",
+  "name": "Meggie #203",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/203.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/203.png",
-  "dna": "29b34fbbc9ccc95e0ea832ad26e0f42878153e72",
+  "dna": "5be98ebf603e98c040cfa5ba1f42ccac1540c875",
   "edition": 203,
-  "date": 1660735821954,
+  "date": 1663609839007,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
-      "rarity": "Common"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Bandana",
+      "value": "Leprechaun",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Dinky"
+      "value": "Meggie"
     },
     {
       "trait_type": "Rarity",

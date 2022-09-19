@@ -1,11 +1,11 @@
 {
-  "name": "Duchess #396",
+  "name": "Cocoa #396",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/396.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/396.png",
-  "dna": "4e642f3e5576001fcb5fa69cd926e3d651a5b2fb",
+  "dna": "f86f53f8bc7ab7c7e551714e3614313faff0b55f",
   "edition": 396,
-  "date": 1660735822685,
+  "date": 1663609839700,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Brown",
+      "value": "Orange",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Private",
+      "value": "Cap",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Duchess"
+      "value": "Cocoa"
     },
     {
       "trait_type": "Rarity",

@@ -1,25 +1,25 @@
 {
-  "name": "Pudge #2",
+  "name": "Noodles #2",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/2.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/2.png",
-  "dna": "958ddcca32796dd6b0c3765086f7ba84e6c37e18",
+  "dna": "b23bb396af39a85fb76c9b6fd5d81dccd72c2f53",
   "edition": 2,
-  "date": 1660735820998,
+  "date": 1663609838258,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Orange",
+      "value": "Red",
       "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
-      "value": "Rainbow",
-      "rarity": "Legendary"
+      "value": "Orange",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Hat",
-      "value": "Sombrero",
+      "value": "Pharaoh",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pudge"
+      "value": "Noodles"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,16 +1,16 @@
 {
-  "name": "Chip #100",
+  "name": "Skyler #100",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/100.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/100.png",
-  "dna": "d6b2807d5afe5007921a7b37b3fc006b97d32e5d",
+  "dna": "6a3b355e0847ff7a878c67e56588ea6440d88254",
   "edition": 100,
-  "date": 1660735821548,
+  "date": 1663609838630,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Lily Pad",
-      "rarity": "Common"
+      "value": "Pink",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Base",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Pharaoh",
+      "value": "Cowboy",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Chip"
+      "value": "Skyler"
     },
     {
       "trait_type": "Rarity",

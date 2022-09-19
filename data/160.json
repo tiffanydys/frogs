@@ -1,26 +1,26 @@
 {
-  "name": "Popcorn #160",
+  "name": "Romeo #160",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/160.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/160.png",
-  "dna": "8e6cebae1816e88486ca660d579be4992b1465e9",
+  "dna": "8c8ecc2a06f7aa602adb4d3f8bdcb322f0323b8b",
   "edition": 160,
-  "date": 1660735821775,
+  "date": 1663609838850,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Watermelon",
-      "rarity": "Legendary"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Green",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
-      "trait_type": "Hat",
-      "value": "Red Wool",
+      "trait_type": "Base",
+      "value": "Brown",
       "rarity": "Uncommon"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Wizard",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Popcorn"
+      "value": "Romeo"
     },
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

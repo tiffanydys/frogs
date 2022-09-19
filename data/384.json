@@ -1,15 +1,15 @@
 {
-  "name": "Westie #384",
+  "name": "Piper #384",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/384.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/384.png",
-  "dna": "91566d45738c36c9c5859d79454a964b765ba012",
+  "dna": "387b2cd9c2fbdec966544c2e6c0bbb189e74deeb",
   "edition": 384,
-  "date": 1660735822644,
+  "date": 1663609839656,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Grey",
+      "value": "Pink",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Westie"
+      "value": "Piper"
     },
     {
       "trait_type": "Rarity",

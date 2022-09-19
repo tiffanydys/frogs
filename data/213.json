@@ -1,15 +1,15 @@
 {
-  "name": "Mickey #213",
+  "name": "Titan #213",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/213.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/213.png",
-  "dna": "7c46cd7df5200b46de2ec18832c3e1979fa3af7a",
+  "dna": "989670557a2e736fa888d69dbeed76afd5190440",
   "edition": 213,
-  "date": 1660735821992,
+  "date": 1663609839040,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Lily Pad",
       "rarity": "Common"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
-      "rarity": "Uncommon"
+      "value": "Bucket",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Mickey"
+      "value": "Titan"
     },
     {
       "trait_type": "Rarity",

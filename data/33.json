@@ -1,26 +1,26 @@
 {
-  "name": "Toots #33",
+  "name": "Mollie #33",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/33.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/33.png",
-  "dna": "e4d70ec7078c106a551a6042b3b29e4fd709e2f9",
+  "dna": "8a54d42252483a5d1b46feb10851ab98aded2584",
   "edition": 33,
-  "date": 1660735821158,
+  "date": 1663609838374,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "2 Color",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Red",
+      "rarity": "Epic"
     },
     {
       "trait_type": "Hat",
-      "value": "Sunflower",
-      "rarity": "Epic"
+      "value": "Captain",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Background",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Toots"
+      "value": "Mollie"
     },
     {
       "trait_type": "Rarity",

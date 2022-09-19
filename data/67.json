@@ -1,11 +1,11 @@
 {
-  "name": "Pickles #67",
+  "name": "Jethro #67",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/67.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/67.png",
-  "dna": "106a1855c5fb8b029bb77ab2fd85615ec96c670b",
+  "dna": "5a30dc646eaf03a834c5fcb57dc5d63e9500f4ed",
   "edition": 67,
-  "date": 1660735821417,
+  "date": 1663609838511,
   "attributes": [
     {
       "trait_type": "Float",
@@ -14,12 +14,12 @@
     },
     {
       "trait_type": "Base",
-      "value": "Green",
-      "rarity": "Common"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Pirate",
+      "value": "Red Wool",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Pickles"
+      "value": "Jethro"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

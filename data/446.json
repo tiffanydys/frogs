@@ -1,25 +1,25 @@
 {
-  "name": "Toni #446",
+  "name": "E-Frog #446",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/446.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/446.png",
-  "dna": "aab156b26606bec2bcde3e534632b9b1b5aa39e6",
+  "dna": "fadf71879e94c7f3f9b6ba867020e997ca699f13",
   "edition": 446,
-  "date": 1660735822884,
+  "date": 1663609839900,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Rock",
-      "rarity": "Common"
+      "value": "5 Color",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Rainbow",
+      "rarity": "Legendary"
     },
     {
       "trait_type": "Hat",
-      "value": "Straw Hat",
+      "value": "Bandana",
       "rarity": "Uncommon"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Toni"
+      "value": "E-Frog"
     },
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "Legendary"
     }
   ],
   "compiler": "HashLips Art Engine",

@@ -1,25 +1,25 @@
 {
-  "name": "Moonshine #513",
+  "name": "Steve #513",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/513.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/513.png",
-  "dna": "5cf2b9fb5e603ab718ace711e3e5f1fa85749746",
+  "dna": "9631089710c0c71ea8da2d2637fc8b5b33b56e1d",
   "edition": 513,
-  "date": 1660735823195,
+  "date": 1663609840153,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Log",
+      "value": "Rock",
       "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Orange",
-      "rarity": "Uncommon"
+      "value": "Green",
+      "rarity": "Common"
     },
     {
       "trait_type": "Hat",
-      "value": "Fedora",
+      "value": "Straw Hat",
       "rarity": "Uncommon"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Name",
-      "value": "Moonshine"
+      "value": "Steve"
     },
     {
       "trait_type": "Rarity",

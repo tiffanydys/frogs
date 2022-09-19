@@ -1,11 +1,11 @@
 {
-  "name": "Chance #271",
+  "name": "Song #271",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/271.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/271.png",
-  "dna": "3641a4f68bf0f836d097f5edd8ba306b9f8ee2db",
+  "dna": "e45307c3784103534728f24e62a2277739e2928f",
   "edition": 271,
-  "date": 1660735822198,
+  "date": 1663609839258,
   "attributes": [
     {
       "trait_type": "Float",
@@ -19,8 +19,8 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Headset",
-      "rarity": "Rare"
+      "value": "Private",
+      "rarity": "Uncommon"
     },
     {
       "trait_type": "Background",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Chance"
+      "value": "Song"
     },
     {
       "trait_type": "Rarity",
-      "value": "Rare"
+      "value": "Uncommon"
     }
   ],
   "compiler": "HashLips Art Engine",

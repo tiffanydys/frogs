@@ -1,25 +1,25 @@
 {
-  "name": "Laddie #219",
+  "name": "Chips #219",
   "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
   "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/219.png",
   "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/219.png",
-  "dna": "48d3226b4b1cb0957167b4301591f07eeae27013",
+  "dna": "119af8d384dfe3da54d8b893354b42651726a684",
   "edition": 219,
-  "date": 1660735822015,
+  "date": 1663609839059,
   "attributes": [
     {
       "trait_type": "Float",
-      "value": "Dark Red",
-      "rarity": "Uncommon"
+      "value": "Log",
+      "rarity": "Common"
     },
     {
       "trait_type": "Base",
-      "value": "Red",
-      "rarity": "Epic"
+      "value": "Blue",
+      "rarity": "Rare"
     },
     {
       "trait_type": "Hat",
-      "value": "Chicken",
+      "value": "Headset",
       "rarity": "Rare"
     },
     {
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Name",
-      "value": "Laddie"
+      "value": "Chips"
     },
     {
       "trait_type": "Rarity",
-      "value": "Epic"
+      "value": "Rare"
     }
   ],
   "compiler": "HashLips Art Engine",

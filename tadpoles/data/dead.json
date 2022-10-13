@@ -1,0 +1,13 @@
+{
+  "name": "Dead Tadpole",
+  "description": "A dead tadpole. This tadpole has been moved around too much, there is no saving it. Made by Project Dignity.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/tadpoles/5.png",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Dead"
+    }
+  ],
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

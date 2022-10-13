@@ -1,0 +1,13 @@
+{
+  "name": "Chipped Tadpole",
+  "description": "A chipped tadpole, be careful - moving it around will slowly break it. Made by Project Dignity.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/tadpoles/2.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Chipped"
+    }
+  ],
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

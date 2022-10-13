@@ -1,0 +1,13 @@
+{
+  "name": "Healthy Tadpole",
+  "description": "A healthy tadpole, be careful - moving it around will slowly break it. Made by Project Dignity.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/tadpoles/1.png",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Healthy"
+    }
+  ],
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

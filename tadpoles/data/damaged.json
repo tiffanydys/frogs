@@ -1,0 +1,13 @@
+{
+  "name": "Damaged Tadpole",
+  "description": "A damaged tadpole, this tadpole has been moved around too much, one more mistake would break it. Made by Project Dignity.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/tadpoles/4.png",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Damaged"
+    }
+  ],
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}

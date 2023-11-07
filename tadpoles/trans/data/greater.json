@@ -1,0 +1,12 @@
+{
+  "name": "Greater Transcendent Tadpole",
+  "description": "A greater transcendent tadpole.",
+  "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/tadpoles/trans/greater.gif",
+  "attributes": [
+    {
+      "trait_type": "Status",
+      "value": "Greater"
+    }
+  ],
+  "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
+}
